@@ -6,5 +6,5 @@
 window.PAEDSENGAGE_CONFIG = {
   googleMapsApiKey: String(import.meta.env.PUBLIC_GOOGLE_MAPS_API_KEY || ''),
   sourceLabel:
-    'Participating PaedsENGAGE Clinics PDF (accurate as of 03 Aug 2026)',
+    'Participating PaedsENGAGE Clinics PDF (accurate as of 05 Oct 2026)',
 };

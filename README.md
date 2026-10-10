@@ -60,7 +60,7 @@ pages are discoverable.
 ## Data source
 
 Clinic data lives in `data/clinics.json`, derived from the official
-Participating PaedsENGAGE Clinics PDF (accurate as of 03 Aug 2026). The
+Participating PaedsENGAGE Clinics PDF (accurate as of 05 Oct 2026). The
 `prebuild` step copies it to `public/data/` so the client-side search can fetch
 it at `/data/clinics.json` (keeps the JS bundle small).
 
