@@ -1,87 +1,174 @@
 # PaedsEngage Clinic Finder
 
-A SEO-optimised **Astro** static site that helps parents in Singapore find a
-participating **PaedsENGAGE** paediatric GP clinic (from the **KKH** and **NUH**
-programme) near them, so they can avoid long hospital queues.
+A static clinic-finder website for participating PaedsENGAGE GP clinics in Singapore.
 
-The site indexes every participating clinic with opening hours, doctors, phone
-numbers and a direct **Google Maps** directions link.
+The site lets users search by area, clinic name, address, doctor, opening day/time, and view matching results on Google Maps.
 
-Live site: **https://childandkid.com/**
-Repo: **https://github.com/benczb/paedsengage-clinic-finder**
+## What this site does
 
-## Why the SEO rebuild
+The clinic finder provides:
 
-The previous version was a single-page HTML/JS app: Google only saw one title
-and no individual clinic content. This Astro rebuild generates **590 static
-pages**:
+- Search by clinic, location, address, or doctor name
+- Location filtering
+- Day and time filtering
+- "Open now" filtering based on Singapore time
+- Paginated clinic results
+- Google Maps display for visible results
+- Direct Google Maps links for each clinic
 
-| Page type | Count | URL | SEO benefit |
-|---|---|---|---|
-| Homepage + finder | 1 | `/` | WebSite schema, search, FAQ |
-| Neighbourhood listings | 51 | `/clinics/<area>/` | Local SEO "GP clinic in <area>" |
-| Clinic detail pages | 535 | `/clinic/<area>-<name>/` | `MedicalClinic` schema + maps link |
-| All-clinics index | 1 | `/clinics/` | Full crawlable list |
-| About | 1 | `/about/` | Trust / E-E-A-T |
-
-Every clinic page has a unique title, meta description, canonical URL,
-`MedicalClinic` + `LocalBusiness` JSON-LD, opening hours, doctors, phone and a
-"Open in Google Maps" button. A sitemap and robots.txt are generated so all
-pages are discoverable.
-
-## Tech stack
-
-- **Astro 7** (static output) + `@astrojs/sitemap`
-- Deployed to **Cloudflare Pages** (Git integration, prod branch `main`)
-
-## Repository layout
+## Repository contents
 
 ```text
 .
-├── src/
-│   ├── data/
-│   │   ├── clinics.js      # data layer: slug helpers, location grouping
-│   │   └── schema.js       # JSON-LD builders (WebSite, MedicalClinic, ItemList)
-│   ├── layouts/Base.astro  # shared SEO head (title/desc/canonical/OG/JSON-LD)
-│   ├── components/         # ClinicCard, etc.
-│   ├── pages/              # index, /clinics/, /clinics/<area>/, /clinic/<name>/, about, 404
-│   └── styles/global.css
+├── index.html
+├── app.js
+├── styles.css
+├── config.js
 ├── data/
-│   └── clinics.json        # SINGLE SOURCE OF TRUTH (PDF-parser output)
-├── public/                 # robots.txt, _redirects, favicon, og-default
-├── scripts/
-│   ├── build.sh            # Cloudflare Pages build wrapper
-│   ├── prepare-data.mjs    # copies data/clinics.json -> public/data/ (prebuild)
-│   └── parse_paedsengage_pdf.py
-├── astro.config.mjs
-└── package.json
+│   └── clinics.json
+├── docs/
+│   └── cloudflare-pages.md
+└── scripts/
+    └── build.sh
 ```
 
 ## Data source
 
-Clinic data lives in `data/clinics.json`, derived from the official
-Participating PaedsENGAGE Clinics PDF (accurate as of 05 Oct 2026). The
-`prebuild` step copies it to `public/data/` so the client-side search can fetch
-it at `/data/clinics.json` (keeps the JS bundle small).
+Clinic data is derived from the official Participating PaedsENGAGE Clinics PDF marked accurate as of 05 Oct 2026.
 
-Always verify clinic availability, doctor schedules and opening hours directly
-with the clinic before visiting.
+Always verify clinic availability, doctor schedules, and opening hours directly with the clinic before visiting.
 
-## Local development
+## Local preview
+
+Because the site fetches JSON data, use a local web server instead of opening `index.html` directly.
 
 ```bash
-npm install
-npm run dev          # http://localhost:4321
+python3 -m http.server 8000
 ```
 
-## Production build
+Then open:
+
+```text
+http://localhost:8000
+```
+
+
+## Updating clinic data from a PDF
+
+The repository includes the PaedsENGAGE PDF parser under:
+
+```text
+scripts/parse_paedsengage_pdf.py
+```
+
+Install parser dependencies in a virtual environment:
 
 ```bash
-npm run build        # prebuild + astro build -> dist/
-npm run preview      # serve the build locally
+python3 -m venv .venv
+.venv/bin/python -m pip install -r requirements-parser.txt
 ```
 
-## Deploying to Cloudflare Pages
+Run the parser against a downloaded KKH PaedsENGAGE PDF:
 
-See `docs/cloudflare-pages.md` for the build settings and the
-`PUBLIC_GOOGLE_MAPS_API_KEY` env var.
+```bash
+.venv/bin/python scripts/parse_paedsengage_pdf.py \
+  --pdf data/current-kkh-paedsengage.pdf \
+  --out-dir data
+```
+
+Then validate and deploy through the normal GitHub/Cloudflare flow. Field definitions are documented in `docs/parser-output-schema.md`.
+
+## Google Maps API key
+
+`config.js` contains a placeholder key by default:
+
+```js
+googleMapsApiKey: "REPLACE_WITH_GOOGLE_MAPS_API_KEY"
+```
+
+For deployment, set the real key as an environment variable in Cloudflare Pages:
+
+```text
+GOOGLE_MAPS_API_KEY=your-restricted-browser-key
+```
+
+The Google Maps key is visible in the browser after deployment, so it must be restricted in Google Cloud Console.
+
+Recommended APIs:
+
+- Maps JavaScript API
+- Geocoding API, if using browser geocoding fallback
+
+Recommended HTTP referrer restrictions:
+
+```text
+https://childandkid.com/*
+https://www.childandkid.com/*
+https://*.pages.dev/*
+```
+
+## Cloudflare Pages deployment
+
+Recommended Cloudflare Pages settings:
+
+```text
+Framework preset: None
+Build command: leave blank
+Build output directory: / or .
+Production branch: main
+```
+
+The repository root is directly deployable. If Cloudflare requires a build output directory, use `bash scripts/build.sh` with output directory `dist`.
+
+See also:
+
+```text
+docs/cloudflare-pages.md
+```
+
+## Manual GitHub upload
+
+If uploading manually:
+
+1. Create a new GitHub repository, for example `paedsengage-clinic-finder`.
+2. Extract the ZIP file locally.
+3. Upload the extracted contents to GitHub, not the ZIP file itself.
+4. Commit directly to `main`.
+5. Connect the GitHub repo to Cloudflare Pages.
+6. Add the `GOOGLE_MAPS_API_KEY` environment variable in Cloudflare Pages.
+7. Deploy using the Cloudflare Pages settings above.
+
+## Privacy and safety notes
+
+This public repo should not contain:
+
+- Unrestricted API keys
+- Passwords or secrets
+- Private notes
+- Source PDFs unless redistribution is allowed
+- Local machine paths
+- Raw parser work products
+
+The included `site/config.js` should keep the placeholder API key only. The live key should be injected during deployment.
+
+## Important limitations
+
+- Clinic data is extracted from a PDF and should be spot-checked before publication.
+- Google Maps URLs are search links and may not confirm exact Google Place IDs.
+- Opening hours and doctor availability may change. Users should confirm with clinics directly.
+- Browser-side Google Maps keys are public by nature, so API and domain restrictions are essential.
+
+## Rollback plan
+
+If deployment fails:
+
+1. Roll back to the previous Cloudflare Pages deployment, or
+2. Revert the latest GitHub commit, or
+3. Temporarily remove the custom domain from the Pages project while debugging.
+
+If the uploaded GitHub repository is wrong, delete the repository or replace the files with a corrected upload.
+
+## License
+
+MIT License.
+

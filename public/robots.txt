@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-
-# Sitemap for search engine discovery of all clinic and area pages
-Sitemap: https://childandkid.com/sitemap-index.xml
-
-# Do not index the 404 catch-all
-Disallow: /404
