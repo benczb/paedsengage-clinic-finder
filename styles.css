@@ -426,3 +426,48 @@ button {
   .footer-links { justify-content: flex-start; }
   #map { height: 360px; }
 }
+
+/* SEO sections: area directory + FAQ */
+.area-directory, .faq-section {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 28px;
+  box-shadow: var(--shadow);
+  margin-bottom: 20px;
+  padding: 24px;
+}
+.area-directory > p { color: var(--muted); line-height: 1.65; }
+.area-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+  margin-top: 16px;
+}
+.area-link {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  color: var(--text);
+  background: #fff;
+  font-size: 14px;
+  font-weight: 700;
+  text-decoration: none;
+}
+.area-link:hover { border-color: var(--brand); color: var(--brand); }
+.area-link span { color: var(--muted); font-weight: 600; }
+.faq-item { border-top: 1px solid var(--line); padding: 16px 0; }
+.faq-item:first-of-type { border-top: 0; }
+.faq-item h3 { margin: 0 0 6px; font-size: 17px; }
+.faq-item p { margin: 0; color: var(--muted); line-height: 1.65; }
+
+@media (max-width: 900px) {
+  .area-grid { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 700px) {
+  .area-directory, .faq-section { border-radius: 20px; }
+  .area-grid { grid-template-columns: 1fr; }
+}

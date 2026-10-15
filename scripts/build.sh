@@ -5,6 +5,7 @@ DIST="$ROOT/dist"
 rm -rf "$DIST"
 mkdir -p "$DIST/data"
 cp "$ROOT/index.html" "$ROOT/app.js" "$ROOT/styles.css" "$DIST/"
+cp "$ROOT/robots.txt" "$ROOT/sitemap.xml" "$ROOT/favicon.svg" "$ROOT/og-image.png" "$DIST/"
 cp "$ROOT/data/clinics.json" "$DIST/data/clinics.json"
 cat > "$DIST/_redirects" <<'REDIRECTS'
 # Canonical hostname

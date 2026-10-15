@@ -138,6 +138,12 @@ If uploading manually:
 6. Add the `GOOGLE_MAPS_API_KEY` environment variable in Cloudflare Pages.
 7. Deploy using the Cloudflare Pages settings above.
 
+## SEO
+
+- `index.html` carries a keyword-targeted title/meta description, Open Graph/Twitter cards, WebSite + FAQPage JSON-LD, a crawlable "browse by area" directory (51 areas, generated from `data/clinics.json`), and a visible FAQ section.
+- `robots.txt` + `sitemap.xml` are served from the site root (and copied into `dist/` by `scripts/build.sh`).
+- After deploying, submit the sitemap in Google Search Console and request indexing for the homepage.
+
 ## Privacy and safety notes
 
 This public repo should not contain:
