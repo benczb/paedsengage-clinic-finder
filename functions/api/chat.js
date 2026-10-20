@@ -78,7 +78,7 @@ function fallbackAnswer(results, ctx) {
 
 async function nousAnswer(context, message, results, ctx) {
   const key = context.env.NOUS_PORTAL_API_KEY;
-  if (!key) return null;
+  if (!key) return { answer: null, error: "no_key_configured" };
   const day = ctx.day || sgNow().day;
   const contextLines = results.map((c) =>
     `- ${c.clinic_name} | Area: ${c.location} | Address: ${c.address} | Phone: ${c.contact_primary} | Doctors: ${(c.doctors || []).join(", ") || "n/a"} | ${day} hours: ${todayHoursText(c, day)} | All hours: ${(c.opening_hours_schema || []).join("; ")} | Map: ${c.google_maps_url} | Page: ${c.page_url}`
@@ -110,12 +110,21 @@ async function nousAnswer(context, message, results, ctx) {
         ],
       }),
     });
-    if (!res.ok) return null;
+    if (!res.ok) {
+      let detail = "";
+      try {
+        const errBody = await res.json();
+        detail = String((errBody && errBody.error && errBody.error.message) || "").slice(0, 160);
+      } catch { /* keep status only */ }
+      return { answer: null, error: `http_${res.status}${detail ? ": " + detail : ""}` };
+    }
     const data = await res.json();
     const text = data && data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
-    return typeof text === "string" && text.trim() ? text.trim() : null;
-  } catch {
-    return null;
+    return typeof text === "string" && text.trim()
+      ? { answer: text.trim(), error: null }
+      : { answer: null, error: "empty_model_response" };
+  } catch (err) {
+    return { answer: null, error: `request_failed: ${String(err && err.name || err).slice(0, 60)}` };
   } finally {
     clearTimeout(timer);
   }
@@ -141,7 +150,8 @@ export async function onRequestPost(context) {
     }
 
     const ctx = { ...parsed, relaxed };
-    const llm = await nousAnswer(context, message, results, ctx);
+    const nous = await nousAnswer(context, message, results, ctx);
+    const llm = nous.answer;
     const answer = llm || fallbackAnswer(results, ctx);
     return jsonResponse({
       answer,
@@ -149,6 +159,7 @@ export async function onRequestPost(context) {
       matched: total,
       relaxed,
       powered_by: llm ? `nous-portal:${context.env.NOUS_MODEL || DEFAULT_MODEL}` : "deterministic-fallback",
+      ...(llm ? {} : { llm_error: nous.error }),
       data_as_of: DATA_AS_OF, source: DATA_SOURCE,
     });
   } catch (err) {
