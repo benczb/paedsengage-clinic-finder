@@ -6,16 +6,23 @@
 // environment variables:
 //   NOUS_PORTAL_API_KEY  (required for LLM answers; without it, a
 //                         deterministic fallback answer is returned)
-//   NOUS_MODEL           (optional; default stepfun/step-3.7-flash:free —
-//                         free-model slugs rotate, copy the exact slug from
-//                         portal.nousresearch.com/info)
+//   NOUS_MODEL           (optional; tried first when set. Free-model slugs
+//                         rotate and individual routes break, so a small
+//                         built-in free-model chain follows; the first model
+//                         that answers wins. Slugs verified against the
+//                         public Nous catalog, GET /v1/models)
 import {
   loadClinics, filterClinics, publicClinic, clinicOpenAt, todayHoursText,
   sgNow, normaliseDay, jsonResponse, DATA_AS_OF, DATA_SOURCE,
 } from "../_lib/clinics.js";
 
 const NOUS_URL = "https://inference-api.nousresearch.com/v1/chat/completions";
-const DEFAULT_MODEL = "stepfun/step-3.7-flash:free";
+const FREE_MODELS = [
+  "stepfun/step-3.7-flash:free",
+  "meituan/longcat-2.0:free",
+  "poolside/laguna-s-2.1:free",
+  "upstage/solar-mini4:free",
+];
 const MAX_RESULTS = 8;
 
 function parseQuestion(message, clinics) {
@@ -93,6 +100,17 @@ async function nousAnswer(context, message, results, ctx) {
     contextLines || "(no clinics matched)",
     ctx.relaxed ? "\nNote: none of these are confirmed open at the exact requested time; present them as the closest matches in the area and give their hours for the requested day." : "",
   ].join("\n");
+  const models = [...new Set([context.env.NOUS_MODEL, ...FREE_MODELS].filter(Boolean))];
+  let lastError = "no_model_attempted";
+  for (const model of models) {
+    const attempt = await tryModel(key, model, system, message);
+    if (attempt.answer) return { answer: attempt.answer, error: null, model };
+    lastError = `${model} -> ${attempt.error}`;
+  }
+  return { answer: null, error: lastError };
+}
+
+async function tryModel(key, model, system, message) {
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 15000);
   try {
@@ -101,7 +119,7 @@ async function nousAnswer(context, message, results, ctx) {
       signal: controller.signal,
       headers: { "content-type": "application/json", authorization: `Bearer ${key}` },
       body: JSON.stringify({
-        model: context.env.NOUS_MODEL || DEFAULT_MODEL,
+        model,
         temperature: 0.2,
         max_tokens: 600,
         messages: [
@@ -158,7 +176,7 @@ export async function onRequestPost(context) {
       results: results.map((c) => publicClinic(c, sgNow())),
       matched: total,
       relaxed,
-      powered_by: llm ? `nous-portal:${context.env.NOUS_MODEL || DEFAULT_MODEL}` : "deterministic-fallback",
+      powered_by: llm ? `nous-portal:${nous.model}` : "deterministic-fallback",
       ...(llm ? {} : { llm_error: nous.error }),
       data_as_of: DATA_AS_OF, source: DATA_SOURCE,
     });

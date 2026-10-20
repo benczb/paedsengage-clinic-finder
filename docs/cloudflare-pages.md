@@ -38,9 +38,13 @@ set these in the Pages project's production environment:
 
 ```text
 NOUS_PORTAL_API_KEY=<key from portal.nousresearch.com API Keys page>
-NOUS_MODEL=stepfun/step-3.7-flash:free   # optional; free-model slugs rotate —
-                                    # copy the exact slug from
-                                    # https://portal.nousresearch.com/info
+NOUS_MODEL=<slug>                   # optional; when set it is tried first.
+                                    # Otherwise the function walks a built-in
+                                    # chain of free models (slugs verified
+                                    # against GET /v1/models on the Nous
+                                    # inference API) and uses the first that
+                                    # answers, since free slugs rotate and
+                                    # individual routes break.
 ```
 
 The key is only read server-side by the Pages Function; never put it in
