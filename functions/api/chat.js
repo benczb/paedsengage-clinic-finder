@@ -113,8 +113,8 @@ async function nousAnswer(context, message, results, ctx) {
     if (!res.ok) {
       let detail = "";
       try {
-        const errBody = await res.json();
-        detail = String((errBody && errBody.error && errBody.error.message) || "").slice(0, 160);
+        const raw = await res.text();
+        detail = raw.replace(/\s+/g, " ").trim().slice(0, 200);
       } catch { /* keep status only */ }
       return { answer: null, error: `http_${res.status}${detail ? ": " + detail : ""}` };
     }
