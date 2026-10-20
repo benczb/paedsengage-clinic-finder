@@ -219,6 +219,23 @@
         <div id="resultsPagination" class="pagination" aria-label="Results pagination"></div>
       </section>
 
+      <section id="ask" class="ask-section">
+        <div class="section-head">
+          <h2>Ask about clinics in plain English</h2>
+          <p>Try “Which clinics in Tampines are open on Sunday morning?” — answers come only from the clinic data on this page.</p>
+        </div>
+        <form id="chatForm" class="chat-form">
+          <label for="chatInput">Your question about PaedsENGAGE clinics</label>
+          <div class="chat-row">
+            <input id="chatInput" type="text" autocomplete="off" maxlength="500"
+              placeholder="e.g. Clinics near Bedok open now" aria-label="Your question about PaedsENGAGE clinics" />
+            <button id="chatSend" type="submit" aria-label="Ask the clinic assistant">Ask</button>
+          </div>
+        </form>
+        <div id="chatAnswer" class="chat-answer" aria-live="polite"></div>
+        <div id="chatResults" class="results-grid"></div>
+      </section>
+
 
       <section id="areas" class="area-directory">
         <div class="section-head">
@@ -324,6 +341,7 @@
 
     <script src="./config.js"></script>
     <script src="./app.js"></script>
+    <script src="./chat.js" defer></script>
     <script>
       // Area directory links: apply the location filter and jump to results.
       document.addEventListener("click", function (e) {

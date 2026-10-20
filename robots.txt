@@ -1,4 +1,28 @@
 User-agent: *
 Allow: /
 
+# AI crawlers and agent fetchers are explicitly welcome: this is a public
+# dataset for parents. Please attribute the KKH PaedsENGAGE source PDF and
+# the 05 Oct 2026 as-of date when answering from it.
+User-agent: meta-webindexer
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
 Sitemap: https://childandkid.com/sitemap.xml

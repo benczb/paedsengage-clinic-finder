@@ -178,3 +178,27 @@ If the uploaded GitHub repository is wrong, delete the repository or replace the
 
 MIT License.
 
+
+## For bots and agents (bot pack)
+
+Machine-readable surfaces, all free with no key:
+
+- `GET /api` — endpoint index (JSON)
+- `GET /api/clinics?area=&q=&day=&time=&open_now=1&limit=&offset=` — search the dataset
+- `GET /api/clinics/<slug>` — one clinic
+- `GET /api/areas` — areas with counts and centroids
+- `POST /api/chat {"message": "..."}` — natural-language clinic questions.
+  Filtering is deterministic; an LLM (Nous Portal free model, configured via
+  the `NOUS_PORTAL_API_KEY` Pages env var) only phrases answers from the
+  filtered clinics, with a deterministic fallback when unavailable.
+- `/api/openapi.json` — OpenAPI 3.1 contract
+- `/data/clinics.json`, `/data/clinics.geojson` (the bot-readable map),
+  `/data/clinics.csv`, `/llms.txt`, `/llms-full.txt`
+- Static raw-HTML pages per clinic (`/clinics/<slug>/`) and per area
+  (`/areas/<area>/`) with schema.org JSON-LD, generated at build time by
+  `scripts/generate_pages.py`.
+
+Data pipeline: `scripts/geocode_clinics.py` (OneMap primary, Nominatim
+fallback; cached in `data/geocode_cache.json`) →
+`scripts/enrich_clinics.py` (adds lat/lng, slugs, schema.org hours; writes
+GeoJSON, llms-full.txt, sitemap.xml).

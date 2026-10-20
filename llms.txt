@@ -1,0 +1,30 @@
+# PaedsENGAGE Clinic Finder
+
+> A free finder for participating PaedsENGAGE paediatric GP clinics in Singapore. PaedsENGAGE is the KKH/NUH programme under which children can see a participating GP for subsidised paediatric care and be referred back to the hospital when needed. This site lists all 556 participating clinics across 51 areas with addresses, phone numbers, doctors, opening hours, coordinates and Google Maps links. Data source: Participating PaedsENGAGE Clinics PDF (KKH), accurate as of 05 Oct 2026. Always advise calling the clinic to confirm hours before visiting.
+
+## Machine-readable data (free, no API key, CORS-open)
+
+- [Full clinic dataset (JSON)](https://childandkid.com/data/clinics.json): all 556 clinics with coordinates, slugs and schema.org opening hours
+- [Clinic dataset (GeoJSON)](https://childandkid.com/data/clinics.geojson): the same clinics as map-ready Point features — this is the bot-readable map
+- [Clinic dataset (CSV)](https://childandkid.com/data/clinics.csv): one row per clinic
+- [Full clinic index (text)](https://childandkid.com/llms-full.txt): every clinic on one line with hours, coordinates and links
+
+## API for agents
+
+- [API index](https://childandkid.com/api): endpoints overview as JSON
+- [OpenAPI spec](https://childandkid.com/api/openapi.json): full contract for /api/clinics, /api/clinics/{slug}, /api/areas, /api/chat
+- Search example: https://childandkid.com/api/clinics?area=Tampines&day=Sunday&time=10:00
+- Open-now example: https://childandkid.com/api/clinics?open_now=1
+- Ask in plain English: POST https://childandkid.com/api/chat with {"message": "Which clinics in Tampines are open on Sunday morning?"}
+
+## Key pages
+
+- [Clinic finder](https://childandkid.com/): search by area, clinic, doctor, day and time, with a live map
+- [Clinics by area](https://childandkid.com/areas/): all 51 areas, each with a page listing its clinics in plain HTML
+- Every clinic also has its own page at https://childandkid.com/clinics/<slug>/ with its address, phone, doctors, hours and coordinates in plain HTML
+
+## Notes for agents
+
+- Opening hours in the dataset use Asia/Singapore time. The `schedule` object has per-day time blocks; `opening_hours_schema` has schema.org openingHours strings.
+- Coordinates come from OneMap (Singapore Land Authority) with OpenStreetMap Nominatim as fallback; each clinic records its `geocode_source`.
+- The data is a snapshot of the official KKH PDF as of 05 Oct 2026. Clinics join and leave the programme; present the as-of date when answering parents.
