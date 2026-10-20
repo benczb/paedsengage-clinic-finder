@@ -108,6 +108,14 @@ Ang Mo Kio,Summit Medical Clinic,Fri,8:30am - 12:30pm | 1:30pm - 3:30pm,,false
 Ang Mo Kio,Summit Medical Clinic,Sat,8:30am - 12:30pm,,false
 Ang Mo Kio,Summit Medical Clinic,Sun,,Closed,true
 Ang Mo Kio,Summit Medical Clinic,PH,,Closed,true
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Mon,8:30am - 12:30pm | 2:00pm - 4:30pm,,false
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Tues,8:30am - 12:30pm | 2:00pm - 4:30pm,,false
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Wed,8:30am - 12:30pm | 2:00pm - 4:30pm,,false
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Thurs,8:30am - 12:30pm | 2:00pm - 4:30pm,,false
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Fri,8:30am - 12:30pm | 2:00pm - 4:30pm,,false
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Sat,8:30am - 12:30pm,,false
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Sun,,Closed,true
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,PH,,Closed,true
 Ang Mo Kio,Trust Health Medical,Mon,9:00am - 12:30pm | 1:30pm - 4:30pm,,false
 Ang Mo Kio,Trust Health Medical,Tues,9:00am - 12:30pm | 1:30pm - 4:30pm,,false
 Ang Mo Kio,Trust Health Medical,Wed,9:00am - 12:30pm | 1:30pm - 4:30pm,,false
@@ -132,13 +140,13 @@ Ang Mo Kio,Well Family Clinic & Surgery,Fri,9:00am - 10:00pm,,false
 Ang Mo Kio,Well Family Clinic & Surgery,Sat,9:00am - 10:00pm,,false
 Ang Mo Kio,Well Family Clinic & Surgery,Sun,9:00am - 10:00pm,,false
 Ang Mo Kio,Well Family Clinic & Surgery,PH,9:00am - 10:00pm,,false
-Ang Mo Kio,1 Medical Teck Ghee,Mon,7:00am - 11:00pm,,false
-Ang Mo Kio,1 Medical Teck Ghee,Tues,7:00am - 11:00pm,,false
-Ang Mo Kio,1 Medical Teck Ghee,Wed,7:00am - 11:00pm,,false
-Ang Mo Kio,1 Medical Teck Ghee,Thurs,7:00am - 11:00pm,,false
-Ang Mo Kio,1 Medical Teck Ghee,Fri,7:00am - 11:00pm,,false
-Ang Mo Kio,1 Medical Teck Ghee,Sat,7:00am - 11:00pm,,false
-Ang Mo Kio,1 Medical Teck Ghee,Sun,7:00am - 11:00pm,,false
+Ang Mo Kio,1 Medical Teck Ghee,Mon,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Ang Mo Kio,1 Medical Teck Ghee,Tues,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Ang Mo Kio,1 Medical Teck Ghee,Wed,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Ang Mo Kio,1 Medical Teck Ghee,Thurs,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Ang Mo Kio,1 Medical Teck Ghee,Fri,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Ang Mo Kio,1 Medical Teck Ghee,Sat,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Ang Mo Kio,1 Medical Teck Ghee,Sun,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Ang Mo Kio,1 Medical Teck Ghee,PH,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Balestier,Family Health Clinic & Surgery,Mon,9:00am - 12:30pm | 2:00pm - 5:30pm,,false
 Balestier,Family Health Clinic & Surgery,Tues,9:00am - 12:30pm | 2:00pm - 5:30pm,,false
@@ -196,6 +204,14 @@ Balestier,Plushealth Medical Clinic & Surgery,Fri,8:30am - 12:30pm | 2:00pm - 4:
 Balestier,Plushealth Medical Clinic & Surgery,Sat,9:00am - 1:00pm,,false
 Balestier,Plushealth Medical Clinic & Surgery,Sun,9:00am - 1:00pm,,false
 Balestier,Plushealth Medical Clinic & Surgery,PH,,Closed,true
+Bedok,A1 Medical Clinic,Mon,9:00am - 1:00pm,,false
+Bedok,A1 Medical Clinic,Tues,9:00am - 1:00pm,,false
+Bedok,A1 Medical Clinic,Wed,9:00am - 1:00pm,,false
+Bedok,A1 Medical Clinic,Thurs,6:30pm - 10:00pm,,false
+Bedok,A1 Medical Clinic,Fri,6:30pm - 10:00pm,,false
+Bedok,A1 Medical Clinic,Sat,9:00am - 12:00pm,,false
+Bedok,A1 Medical Clinic,Sun,7:00pm - 10:00pm,,false
+Bedok,A1 Medical Clinic,PH,,Closed,true
 Bedok,Balkis Family Clinic,Mon,8:00am - 12:00pm | 2:00pm - 6:00pm,,false
 Bedok,Balkis Family Clinic,Tues,8:00am - 12:00pm | 2:00pm - 6:00pm,,false
 Bedok,Balkis Family Clinic,Wed,8:00am - 12:00pm | 2:00pm - 6:00pm,,false
@@ -312,14 +328,14 @@ Bedok,HeartlandHealth (Bedok South),Fri,7:00am - 1:00pm | 6:00pm - 11:00pm,,fals
 Bedok,HeartlandHealth (Bedok South),Sat,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Bedok,HeartlandHealth (Bedok South),Sun,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Bedok,HeartlandHealth (Bedok South),PH,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Bedok,HeartlandHealth (New Upper Changi),Mon,7:00am - 11:00pm,,false
-Bedok,HeartlandHealth (New Upper Changi),Tues,7:00am - 11:00pm,,false
-Bedok,HeartlandHealth (New Upper Changi),Wed,7:00am - 11:00pm,,false
-Bedok,HeartlandHealth (New Upper Changi),Thurs,7:00am - 11:00pm,,false
-Bedok,HeartlandHealth (New Upper Changi),Fri,7:00am - 11:00pm,,false
+Bedok,HeartlandHealth (New Upper Changi),Mon,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Bedok,HeartlandHealth (New Upper Changi),Tues,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Bedok,HeartlandHealth (New Upper Changi),Wed,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Bedok,HeartlandHealth (New Upper Changi),Thurs,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Bedok,HeartlandHealth (New Upper Changi),Fri,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
 Bedok,HeartlandHealth (New Upper Changi),Sat,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Bedok,HeartlandHealth (New Upper Changi),Sun,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Bedok,HeartlandHealth (New Upper Changi),PH,7:00am - 11:00pm,,false
+Bedok,HeartlandHealth (New Upper Changi),PH,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Bedok,Iconcare Medical Clinic,Mon,9:00am - 12:30pm | 2:30pm - 4:30pm | 6:00pm - 8:30pm,,false
 Bedok,Iconcare Medical Clinic,Tues,9:00am - 12:30pm | 2:30pm - 4:30pm | 6:00pm - 8:30pm,,false
 Bedok,Iconcare Medical Clinic,Wed,9:00am - 12:30pm | 2:30pm - 4:30pm | 6:00pm - 8:30pm,,false
@@ -572,6 +588,14 @@ Bishan,OneCare Clinic (Bishan),Fri,8:00am - 3:00pm | 5:30pm - 9:00pm,,false
 Bishan,OneCare Clinic (Bishan),Sat,8:00am - 1:00pm,,false
 Bishan,OneCare Clinic (Bishan),Sun,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
 Bishan,OneCare Clinic (Bishan),PH,,To call the clinic to confirm,false
+Bishan,Our Family Nest Medical Clinic,Mon,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 8:00pm,,false
+Bishan,Our Family Nest Medical Clinic,Tues,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 8:00pm,,false
+Bishan,Our Family Nest Medical Clinic,Wed,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 8:00pm,,false
+Bishan,Our Family Nest Medical Clinic,Thurs,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 8:00pm,,false
+Bishan,Our Family Nest Medical Clinic,Fri,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
+Bishan,Our Family Nest Medical Clinic,Sat,8:30am - 1:00pm,,false
+Bishan,Our Family Nest Medical Clinic,Sun,8:30am - 1:00pm,,false
+Bishan,Our Family Nest Medical Clinic,PH,,Closed,true
 Bishan,P Tan Family Medicine Clinic,Mon,9:00am - 12:30pm,,false
 Bishan,P Tan Family Medicine Clinic,Tues,9:00am - 12:30pm,,false
 Bishan,P Tan Family Medicine Clinic,Wed,9:00am - 12:30pm | 2:00pm - 5:30pm,,false
@@ -604,13 +628,21 @@ Boon Lay,OneCare Clinic (Boon Lay),Fri,8:00am - 4:00pm | 5:00pm - 10:00pm,,false
 Boon Lay,OneCare Clinic (Boon Lay),Sat,8:00am - 4:00pm | 5:00pm - 10:00pm,,false
 Boon Lay,OneCare Clinic (Boon Lay),Sun,8:00am - 4:00pm | 5:00pm - 10:00pm,,false
 Boon Lay,OneCare Clinic (Boon Lay),PH,,Open at selected timing (To call the clinic to confirm),false
-Boon Lay,Our Jurong West Family Clinic,Mon,8:00am - 1:30pm | 5:30pm - 9:00pm,,false
-Boon Lay,Our Jurong West Family Clinic,Tues,8:00am - 1:30pm | 5:30pm - 9:00pm,,false
-Boon Lay,Our Jurong West Family Clinic,Wed,8:00am - 1:30pm | 5:30pm - 9:00pm,,false
-Boon Lay,Our Jurong West Family Clinic,Thurs,8:00am - 1:30pm | 5:30pm - 9:00pm,,false
-Boon Lay,Our Jurong West Family Clinic,Fri,8:00am - 1:30pm | 9:00am - 1:00pm,(WhatsApp Only) Sat:,false
-Boon Lay,Our Jurong West Family Clinic,Sun,2:00pm - 5:00pm,,false
-Boon Lay,Our Jurong West Family Clinic,PH,,Closed,true
+Boon Lay,Our Jurong West,Mon,8:00am - 1:30pm,,false
+Boon Lay,Our Jurong West,Tues,8:00am - 1:30pm,,false
+Boon Lay,Our Jurong West,Wed,8:00am - 1:30pm,,false
+Boon Lay,Our Jurong West,Thurs,8:00am - 1:30pm,,false
+Boon Lay,Family Clinic,Sat,9:00am - 1:00pm,,false
+Boon Lay,Family Clinic,Sun,2:00pm - 5:00pm,,false
+Boon Lay,Family Clinic,PH,,Closed,true
+Boon Lay,Raffles Medical Nanyang Technological University,Mon,8:30am - 9:00pm,,false
+Boon Lay,Raffles Medical Nanyang Technological University,Tues,8:30am - 9:00pm,,false
+Boon Lay,Raffles Medical Nanyang Technological University,Wed,8:30am - 9:00pm,,false
+Boon Lay,Raffles Medical Nanyang Technological University,Thurs,8:30am - 9:00pm,,false
+Boon Lay,Raffles Medical Nanyang Technological University,Fri,8:30am - 9:00pm,,false
+Boon Lay,Raffles Medical Nanyang Technological University,Sat,8:30am - 12:00pm,,false
+Boon Lay,Raffles Medical Nanyang Technological University,Sun,,Closed,true
+Boon Lay,Raffles Medical Nanyang Technological University,PH,,Closed,true
 Bugis,SATA CommHealth Community Clinic (Beach Road),Mon,8:30am - 12:30pm | 1:30pm - 5:00pm,,false
 Bugis,SATA CommHealth Community Clinic (Beach Road),Tues,8:30am - 12:30pm | 1:30pm - 5:00pm,,false
 Bugis,SATA CommHealth Community Clinic (Beach Road),Wed,8:30am - 12:30pm | 1:30pm - 5:00pm,,false
@@ -740,6 +772,14 @@ Bukit Batok,Health Partners Family Clinic,Fri,8:30am - 12:30pm | 1:30pm - 3:30pm
 Bukit Batok,Health Partners Family Clinic,Sat,8:30am - 12:30pm,,false
 Bukit Batok,Health Partners Family Clinic,Sun,9:30pm - 1:30pm,,false
 Bukit Batok,Health Partners Family Clinic,PH,,Closed,true
+Bukit Batok,HHOM Health,Mon,9:00am - 2:00pm,,false
+Bukit Batok,HHOM Health,Tues,9:00am - 2:00pm,,false
+Bukit Batok,HHOM Health,Wed,9:00am - 2:00pm,,false
+Bukit Batok,HHOM Health,Thurs,9:00am - 2:00pm,,false
+Bukit Batok,HHOM Health,Fri,9:00am - 2:00pm,,false
+Bukit Batok,HHOM Health,Sat,,Closed,true
+Bukit Batok,HHOM Health,Sun,,Closed,true
+Bukit Batok,HHOM Health,PH,,Closed,true
 Bukit Batok,Island Family Clinic (Bukit Batok),Mon,9:00am - 1:00pm | 6:00pm - 10:00pm,,false
 Bukit Batok,Island Family Clinic (Bukit Batok),Tues,9:00am - 1:00pm | 6:00pm - 10:00pm,,false
 Bukit Batok,Island Family Clinic (Bukit Batok),Wed,9:00am - 1:00pm | 6:00pm - 10:00pm,,false
@@ -832,9 +872,9 @@ Bukit Merah,Healthier GP Clinic,Thurs,8:00am - 1:00pm,,false
 Bukit Merah,Healthier GP Clinic,Fri,8:00am - 1:00pm,,false
 Bukit Merah,Healthier GP Clinic,Sat,,Closed,true
 Bukit Merah,Healthier GP Clinic,Sun,,Closed,true
-Bukit Merah,HeartlandHealth (Telok Blangah),Mon,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Bukit Merah,HeartlandHealth (Telok Blangah),Tues,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Bukit Merah,HeartlandHealth (Telok Blangah),Wed,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Bukit Merah,HeartlandHealth (Telok Blangah),Mon,8:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Bukit Merah,HeartlandHealth (Telok Blangah),Tues,8:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Bukit Merah,HeartlandHealth (Telok Blangah),Wed,8:00am - 1:00pm | 2:00pm - 11:00pm,,false
 Bukit Merah,HeartlandHealth (Telok Blangah),Thurs,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Bukit Merah,HeartlandHealth (Telok Blangah),Fri,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Bukit Merah,HeartlandHealth (Telok Blangah),Sat,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
@@ -937,13 +977,6 @@ Bukit Panjang,OneCare Clinic Senja 643,Thurs,6:00pm - 9:00pm,,false
 Bukit Panjang,OneCare Clinic Senja 643,Fri,6:00pm - 9:00pm,,false
 Bukit Panjang,OneCare Clinic Senja 643,Sat,6:00pm - 9:00pm,Check with clinic website for latest updates for clinic's special opening hours on PH,false
 Bukit Panjang,OneCare Clinic Senja 643,Sun,6:00pm - 9:00pm,Check with clinic website for latest updates for clinic's special opening hours on PH,false
-Bukit Panjang,OneCare Clinic Bukit Panjang Segar,Mon,8:00am - 3:00pm | 5:00pm - 10:00pm,,false
-Bukit Panjang,OneCare Clinic Bukit Panjang Segar,Tues,8:00am - 3:00pm | 5:00pm - 9:30pm,,false
-Bukit Panjang,OneCare Clinic Bukit Panjang Segar,Wed,8:00am - 3:00pm | 5:00pm - 9:30pm,,false
-Bukit Panjang,OneCare Clinic Bukit Panjang Segar,Thurs,8:00am - 3:00pm | 5:00pm - 9:30pm,,false
-Bukit Panjang,OneCare Clinic Bukit Panjang Segar,Fri,8:00am - 3:00pm | 5:00pm - 9:30pm,,false
-Bukit Panjang,OneCare Clinic Bukit Panjang Segar,Sat,8:00am - 3:00pm | 6:00pm - 9:30pm,Check with clinic website for latest updates for clinic's special opening hours on PH,false
-Bukit Panjang,OneCare Clinic Bukit Panjang Segar,Sun,8:00am - 3:00pm | 6:00pm - 9:30pm,Check with clinic website for latest updates for clinic's special opening hours on PH,false
 Bukit Panjang,Petir Family Clinic,Mon,8:30am - 1:30pm,,false
 Bukit Panjang,Petir Family Clinic,Tues,8:30am - 1:30pm,,false
 Bukit Panjang,Petir Family Clinic,Wed,8:30am - 1:30pm,,false
@@ -992,14 +1025,14 @@ Bukit Timah,My Clinic,Fri,9:30am - 1:00pm | 2:30pm - 5:00pm,,false
 Bukit Timah,My Clinic,Sat,9:30am - 1:00pm,,false
 Bukit Timah,My Clinic,Sun,,Closed,true
 Bukit Timah,My Clinic,PH,,Closed,true
-Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah) **Opening on 27 Jul 2026,Mon,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
-Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah) **Opening on 27 Jul 2026,Tues,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
-Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah) **Opening on 27 Jul 2026,Wed,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
-Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah) **Opening on 27 Jul 2026,Thurs,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
-Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah) **Opening on 27 Jul 2026,Fri,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
-Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah) **Opening on 27 Jul 2026,Sat,,Closed,true
-Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah) **Opening on 27 Jul 2026,Sun,5:00pm - 8:30pm,,false
-Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah) **Opening on 27 Jul 2026,PH,,Closed,true
+Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Mon,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
+Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Tues,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
+Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Wed,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
+Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Thurs,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
+Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Fri,8:30am - 1:00pm | 2:30pm - 8:30pm,,false
+Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Sat,,Closed,true
+Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Sun,5:00pm - 8:30pm,,false
+Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),PH,,Closed,true
 Bukit Timah,Our Bukit Timah,Mon,9:00am - 3:00pm,,false
 Bukit Timah,Our Bukit Timah,Tues,9:00am - 3:00pm,,false
 Bukit Timah,Our Bukit Timah,Wed,9:00am - 3:00pm,,false
@@ -1053,6 +1086,14 @@ Buona Vista,Cornerstone Medical,Wed,9:00am - 1:00pm,,false
 Buona Vista,Cornerstone Medical,Fri,6:00pm - 9:00pm | 9:00am - 3:00pm | 9:00am - 1:00pm,,false
 Buona Vista,Cornerstone Medical,Sat,6:00pm - 9:00pm,,false
 Buona Vista,Cornerstone Medical,PH,,Closed,true
+Buona Vista,Family Clinic (Ghim Moh),Mon,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Buona Vista,Family Clinic (Ghim Moh),Tues,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Buona Vista,Family Clinic (Ghim Moh),Wed,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Buona Vista,Family Clinic (Ghim Moh),Thurs,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Buona Vista,Family Clinic (Ghim Moh),Fri,8:00am - 1:00pm | 2:00pm - 5:00pm,,false
+Buona Vista,Family Clinic (Ghim Moh),Sat,8:00am - 1:00pm,,false
+Buona Vista,Family Clinic (Ghim Moh),Sun,,Closed,true
+Buona Vista,Family Clinic (Ghim Moh),PH,,Closed,true
 Buona Vista,Keystone Clinic &,Mon,8:00am - 8:00pm,,false
 Buona Vista,Keystone Clinic &,Tues,8:00am - 8:00pm,,false
 Buona Vista,Keystone Clinic &,Wed,8:00am - 8:00pm,,false
@@ -1091,6 +1132,13 @@ Chinatown,Chinatown Wellness Clinic,Fri,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
 Chinatown,Chinatown Wellness Clinic,Sat,9:00am - 1:00pm,,false
 Chinatown,Chinatown Wellness Clinic,Sun,,Closed,true
 Chinatown,Chinatown Wellness Clinic,PH,,Closed,true
+Choa Chu Kang,A1 Medical Teck Whye,Mon,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Choa Chu Kang,A1 Medical Teck Whye,Tues,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Choa Chu Kang,A1 Medical Teck Whye,Wed,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Choa Chu Kang,A1 Medical Teck Whye,Thurs,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
+Choa Chu Kang,A1 Medical Teck Whye,Fri,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
+Choa Chu Kang,A1 Medical Teck Whye,Sat,9:00am - 12:00pm,,false
+Choa Chu Kang,A1 Medical Teck Whye,Sun,9:00am - 12:00pm,Closed,false
 Choa Chu Kang,Clover Medical Clinic,Mon,8:30am - 5:00pm | 6:00pm - 9:30pm,,false
 Choa Chu Kang,Clover Medical Clinic,Tues,8:30am - 5:00pm | 6:00pm - 9:30pm,,false
 Choa Chu Kang,Clover Medical Clinic,Wed,8:30am - 5:00pm | 6:00pm - 9:30pm,,false
@@ -1130,13 +1178,13 @@ Choa Chu Kang,Jo-Lin Family Clinic & Surgery,Fri,6:30pm - 9:30pm | 8:30am - 12:3
 Choa Chu Kang,Jo-Lin Family Clinic & Surgery,Sat,8:30am - 12:30pm,,false
 Choa Chu Kang,Jo-Lin Family Clinic & Surgery,Sun,6:30pm - 9:30pm,,false
 Choa Chu Kang,Jo-Lin Family Clinic & Surgery,PH,,Closed,true
-Choa Chu Kang,Life Vista Family Clinic Pte Ltd,Mon,8:00am - 10:00pm,,false
-Choa Chu Kang,Life Vista Family Clinic Pte Ltd,Tues,8:00am - 10:00pm,,false
-Choa Chu Kang,Life Vista Family Clinic Pte Ltd,Wed,8:00am - 10:00pm,,false
-Choa Chu Kang,Life Vista Family Clinic Pte Ltd,Thurs,8:00am - 10:00pm,,false
-Choa Chu Kang,Life Vista Family Clinic Pte Ltd,Fri,8:00am - 10:00pm,,false
-Choa Chu Kang,Life Vista Family Clinic Pte Ltd,Sat,8:00am - 10:00pm,,false
-Choa Chu Kang,Life Vista Family Clinic Pte Ltd,Sun,8:00am - 10:00pm,,false
+Choa Chu Kang,Life Vista Medical Clinic (MRT),Mon,8:00am - 9:00pm,,false
+Choa Chu Kang,Life Vista Medical Clinic (MRT),Tues,8:00am - 9:00pm,,false
+Choa Chu Kang,Life Vista Medical Clinic (MRT),Wed,8:00am - 9:00pm,,false
+Choa Chu Kang,Life Vista Medical Clinic (MRT),Thurs,8:00am - 9:00pm,,false
+Choa Chu Kang,Life Vista Medical Clinic (MRT),Fri,8:00am - 9:00pm,,false
+Choa Chu Kang,Life Vista Medical Clinic (MRT),Sat,8:00am - 9:00pm,,false
+Choa Chu Kang,Life Vista Medical Clinic (MRT),Sun,8:00am - 9:00pm,,false
 Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Mon,8:00am - 3:00pm | 6:00pm - 9:00pm,,false
 Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Tues,8:00am - 3:00pm | 6:00pm - 9:00pm,,false
 Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Wed,8:00am - 3:00pm | 6:00pm - 9:00pm,,false
@@ -1144,14 +1192,6 @@ Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Thurs,8:00am - 3:00pm | 6:00pm - 9:
 Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Fri,8:00am - 3:00pm | 6:00pm - 9:00pm,,false
 Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Sat,8:00am - 12:00pm,,false
 Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Sun,6:00pm - 9:00pm,Check with clinic website for latest updates for clinic's special opening hours on PH.,false
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Mon,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Tues,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Wed,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Thurs,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Fri,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Sat,8:30am - 1:00pm,,false
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Sun,8:30am - 1:00pm,,false
-Choa Chu Kang,Raffles Medical (Yew Tee Point),PH,,Closed,true
 Choa Chu Kang,The Edinburgh Clinic,Mon,8:30am - 12:30pm | 2:00pm - 4:00pm | 6:30pm - 9:30pm,,false
 Choa Chu Kang,The Edinburgh Clinic,Tues,8:30am - 12:30pm,,false
 Choa Chu Kang,The Edinburgh Clinic,Wed,8:30am - 12:30pm | 2:00pm - 4:00pm | 6:30pm - 9:30pm,,false
@@ -1176,6 +1216,14 @@ City Hall,Peninsula Medical Centre,Fri,11:00am - 7:00pm,,false
 City Hall,Peninsula Medical Centre,Sat,11:00am - 5:00pm,,false
 City Hall,Peninsula Medical Centre,Sun,11:00am - 5:00pm,,false
 City Hall,Peninsula Medical Centre,PH,11:00am - 5:00pm,,false
+Clementi,Bethesda Medical @ Margaret,Mon,8:30am - 5:30pm,,false
+Clementi,Bethesda Medical @ Margaret,Tues,8:30am - 5:30pm,,false
+Clementi,Bethesda Medical @ Margaret,Wed,8:30am - 5:30pm,,false
+Clementi,Bethesda Medical @ Margaret,Thurs,8:30am - 5:30pm,,false
+Clementi,Bethesda Medical @ Margaret,Fri,8:30am - 5:30pm,,false
+Clementi,Bethesda Medical @ Margaret,Sat,9:00am - 12:00pm,,false
+Clementi,Bethesda Medical @ Margaret,Sun,,Closed,true
+Clementi,Bethesda Medical @ Margaret,PH,,Closed,true
 Clementi,Claremont Medical Clinic,Mon,8:30am - 8:30pm,,false
 Clementi,Claremont Medical Clinic,Tues,8:30am - 8:30pm,,false
 Clementi,Claremont Medical Clinic,Wed,8:30am - 5:30pm,,false
@@ -1282,14 +1330,14 @@ Clementi,Love & Joy Family Clinic,Fri,8:30am - 1:00pm | 5:30pm - 8:30pm,,false
 Clementi,Love & Joy Family Clinic,Sat,9:00am - 1:00pm,"subject to change for PH, call the clinic before visit",false
 Clementi,Love & Joy Family Clinic,Sun,9:00am - 1:00pm,"subject to change for PH, call the clinic before visit",false
 Clementi,Love & Joy Family Clinic,PH,9:00am - 1:00pm,"subject to change for PH, call the clinic before visit",false
-Clementi,Raffles Medical (Clementi),Mon,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Clementi,Raffles Medical (Clementi),Tues,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Clementi,Raffles Medical (Clementi),Wed,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Clementi,Raffles Medical (Clementi),Thurs,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Clementi,Raffles Medical (Clementi),Fri,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Clementi,Raffles Medical (Clementi),Sat,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Clementi,Raffles Medical (Clementi),Sun,8:30am - 1:00pm,,false
-Clementi,Raffles Medical (Clementi),PH,8:30am - 1:00pm,,false
+Clementi,Pinnacle Family Clinic (Clementi),Mon,8:00am - 1:00pm,,false
+Clementi,Pinnacle Family Clinic (Clementi),Tues,8:00am - 1:00pm | 2:00pm - 5:00pm,,false
+Clementi,Pinnacle Family Clinic (Clementi),Wed,8:00am - 1:00pm,,false
+Clementi,Pinnacle Family Clinic (Clementi),Thurs,2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Clementi,Pinnacle Family Clinic (Clementi),Fri,8:00am - 1:00pm | 2:00pm - 5:00pm,,false
+Clementi,Pinnacle Family Clinic (Clementi),Sat,9:00am - 1:00pm,,false
+Clementi,Pinnacle Family Clinic (Clementi),Sun,,Closed,true
+Clementi,Pinnacle Family Clinic (Clementi),PH,,Closed,true
 Clementi,The Dublin Clinic,Mon,8:00am - 1:00pm | 5:00pm - 8:00pm,,false
 Clementi,The Dublin Clinic,Tues,8:00am - 1:00pm | 5:00pm - 8:00pm,,false
 Clementi,The Dublin Clinic,Wed,8:00am - 1:00pm | 5:00pm - 8:00pm,,false
@@ -1297,6 +1345,15 @@ Clementi,The Dublin Clinic,Thurs,8:00am - 1:00pm | 5:00pm - 8:00pm,,false
 Clementi,The Dublin Clinic,Fri,8:00am - 1:00pm,,false
 Clementi,The Dublin Clinic,Sat,10:00am - 1:00pm,,false
 Clementi,The Dublin Clinic,Sun,5:00pm - 8:00pm,,false
+Clementi,The Dublin Clinic,PH,,Closed,true
+Clementi,The Local Doctor Clinic Clementi,Mon,8:30am - 1:00pm | 2:00pm - 4:00pm | 6:00pm - 9:00pm,,false
+Clementi,The Local Doctor Clinic Clementi,Tues,8:30am - 1:30pm | 6:00pm - 9:00pm,,false
+Clementi,The Local Doctor Clinic Clementi,Wed,8:30am - 1:00pm | 2:00pm - 4:00pm | 6:00pm - 9:00pm,,false
+Clementi,The Local Doctor Clinic Clementi,Thurs,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
+Clementi,The Local Doctor Clinic Clementi,Fri,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
+Clementi,The Local Doctor Clinic Clementi,Sat,8:30am - 12:30pm,,false
+Clementi,The Local Doctor Clinic Clementi,Sun,,Closed,true
+Clementi,The Local Doctor Clinic Clementi,PH,,Closed,true
 Clementi,Yarra Medical Clinic,Mon,8:30am - 1:00pm | 2:00pm - 6:30pm,,false
 Clementi,Yarra Medical Clinic,Tues,8:30am - 1:00pm | 2:00pm - 6:30pm,,false
 Clementi,Yarra Medical Clinic,Wed,8:30am - 1:00pm | 2:00pm - 6:30pm,,false
@@ -1313,6 +1370,14 @@ Eunos,Caritas Clinic,Fri,8:30am - 4:00pm,,false
 Eunos,Caritas Clinic,Sat,9:30am - 12:00pm,,false
 Eunos,Caritas Clinic,Sun,9:30am - 12:00pm,,false
 Eunos,Caritas Clinic,PH,,Closed,true
+Eunos,OneCare Clinic (Ubi),Mon,8:00am - 3:00pm | 5:30pm - 9:00pm,,false
+Eunos,OneCare Clinic (Ubi),Tues,8:00am - 3:00pm | 5:30pm - 9:00pm,,false
+Eunos,OneCare Clinic (Ubi),Wed,8:00am - 3:00pm | 5:30pm - 9:00pm,,false
+Eunos,OneCare Clinic (Ubi),Thurs,8:00am - 3:00pm | 5:30pm - 9:00pm,,false
+Eunos,OneCare Clinic (Ubi),Fri,8:00am - 3:00pm | 5:30pm - 9:00pm,,false
+Eunos,OneCare Clinic (Ubi),Sat,8:00am - 1:00pm,,false
+Eunos,OneCare Clinic (Ubi),Sun,8:00am - 1:00pm,,false
+Eunos,OneCare Clinic (Ubi),PH,,Open at selected timing (To call the clinic to confirm),false
 Eunos,Prima Care Family Clinic,Mon,8:30am - 1:00pm,,false
 Eunos,Prima Care Family Clinic,Tues,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:00pm - 9:00pm,,false
 Eunos,Prima Care Family Clinic,Wed,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:00pm - 9:00pm,,false
@@ -1368,6 +1433,14 @@ Geylang,Bright View Clinic & Surgery,Fri,9:00am - 9:00pm,(WhatsApp,false
 Geylang,Bright View Clinic & Surgery,Sat,9:00am - 9:00pm,(WhatsApp,false
 Geylang,Bright View Clinic & Surgery,Sun,9:00am - 9:00pm,(WhatsApp,false
 Geylang,Bright View Clinic & Surgery,PH,9:00am - 9:00pm,Only) *Closed on Christmas & Chinese New Year Day 1,false
+Geylang,Trust Medical Clinic,Mon,9:00am - 1:00pm | 2:30pm - 5:30pm,,false
+Geylang,Trust Medical Clinic,Tues,9:00am - 1:00pm | 2:30pm - 5:30pm,,false
+Geylang,Trust Medical Clinic,Wed,9:00am - 1:00pm | 2:30pm - 5:30pm,,false
+Geylang,Trust Medical Clinic,Thurs,9:00am - 1:00pm | 2:30pm - 5:30pm,,false
+Geylang,Trust Medical Clinic,Fri,9:00am - 1:00pm | 2:30pm - 5:30pm,,false
+Geylang,Trust Medical Clinic,Sat,,Closed,true
+Geylang,Trust Medical Clinic,Sun,,Closed,true
+Geylang,Trust Medical Clinic,PH,,Closed,true
 Geylang,C3 Family Clinic @ Aljunied Crescent,Mon,7:30am - 10:00pm,,false
 Geylang,C3 Family Clinic @ Aljunied Crescent,Tues,7:30am - 2:00pm | 5:30pm - 9:00pm,,false
 Geylang,C3 Family Clinic @ Aljunied Crescent,Wed,7:30am - 1:30pm | 5:30pm - 10:00pm,,false
@@ -1424,14 +1497,6 @@ Geylang,Minmed Clinic (Paya Lebar),Fri,9:00am - 1:00pm | 2:00pm - 5:00pm,,false
 Geylang,Minmed Clinic (Paya Lebar),Sat,9:00am - 1:00pm,,false
 Geylang,Minmed Clinic (Paya Lebar),Sun,,Closed,true
 Geylang,Minmed Clinic (Paya Lebar),PH,,Closed,true
-Geylang,OneCare Clinic (Aljunied MRT),Mon,8:00am - 2:00pm | 5:00pm - 9:00pm,,false
-Geylang,OneCare Clinic (Aljunied MRT),Tues,8:00am - 2:00pm | 5:00pm - 9:00pm,,false
-Geylang,OneCare Clinic (Aljunied MRT),Wed,8:00am - 2:00pm | 5:00pm - 9:00pm,,false
-Geylang,OneCare Clinic (Aljunied MRT),Thurs,8:00am - 2:00pm | 5:00pm - 9:00pm,,false
-Geylang,OneCare Clinic (Aljunied MRT),Fri,8:00am - 2:00pm | 5:00pm - 9:00pm,,false
-Geylang,OneCare Clinic (Aljunied MRT),Sat,8:00am - 12:00pm,,false
-Geylang,OneCare Clinic (Aljunied MRT),Sun,6:00pm - 9:00pm,,false
-Geylang,OneCare Clinic (Aljunied MRT),PH,,To call the clinic to confirm,false
 Geylang,Sims Drive Medical Clinic,Mon,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
 Geylang,Sims Drive Medical Clinic,Tues,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
 Geylang,Sims Drive Medical Clinic,Wed,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
@@ -1464,10 +1529,10 @@ Geylang,1 Aljunied Medical,Fri,8:00am - 2:00pm | 6:00am - 9:00pm,,false
 Geylang,1 Aljunied Medical,Sat,,Closed,true
 Geylang,1 Aljunied Medical,Sun,8:00am - 2:00pm,,false
 Geylang,1 Aljunied Medical,PH,,Closed,true
-Geylang,57 Medical Clinic (Geylang Bahru),Mon,8:00am - 1:00pm,,false
-Geylang,57 Medical Clinic (Geylang Bahru),Tues,8:00am - 1:00pm,,false
-Geylang,57 Medical Clinic (Geylang Bahru),Wed,8:00am - 1:00pm,,false
-Geylang,57 Medical Clinic (Geylang Bahru),Thurs,6:00pm - 9:00pm,,false
+Geylang,57 Medical Clinic (Geylang Bahru),Mon,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
+Geylang,57 Medical Clinic (Geylang Bahru),Tues,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
+Geylang,57 Medical Clinic (Geylang Bahru),Wed,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
+Geylang,57 Medical Clinic (Geylang Bahru),Thurs,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
 Geylang,57 Medical Clinic (Geylang Bahru),Fri,8:00am - 1:00pm,,false
 Geylang,57 Medical Clinic (Geylang Bahru),Sat,8:00am - 1:00pm,,false
 Geylang,57 Medical Clinic (Geylang Bahru),Sun,9:00am - 12:00pm,,false
@@ -1528,6 +1593,14 @@ Holland Village,Yap Medicare Clinic & Surgery,Fri,8:30am - 11:30am | 2:00pm - 3:
 Holland Village,Yap Medicare Clinic & Surgery,Sat,8:30am - 11:30am,,false
 Holland Village,Yap Medicare Clinic & Surgery,Sun,8:30am - 11:30am,,false
 Holland Village,Yap Medicare Clinic & Surgery,PH,,Closed,true
+Hougang,A1 Medical Kovan,Mon,8:00am - 1:00pm | 6:30pm - 10:00pm,,false
+Hougang,A1 Medical Kovan,Tues,8:00am - 1:00pm | 6:30pm - 10:00pm,,false
+Hougang,A1 Medical Kovan,Wed,8:00am - 1:00pm | 6:30pm - 10:00pm,,false
+Hougang,A1 Medical Kovan,Thurs,8:00am - 1:00pm | 6:30pm - 10:00pm,,false
+Hougang,A1 Medical Kovan,Fri,8:00am - 1:00pm | 6:30pm - 10:00pm,,false
+Hougang,A1 Medical Kovan,Sat,9:00am - 12:00pm,,false
+Hougang,A1 Medical Kovan,Sun,9:00am - 12:00pm,,false
+Hougang,A1 Medical Kovan,PH,,Closed,true
 Hougang,Dedicare Medical Practice & Surgery,Mon,9:00am - 12:30pm | 5:30pm - 8:00pm,,false
 Hougang,Dedicare Medical Practice & Surgery,Tues,5:30pm - 8:00pm,,false
 Hougang,Dedicare Medical Practice & Surgery,Wed,5:30pm - 8:00pm,,false
@@ -1536,6 +1609,12 @@ Hougang,Dedicare Medical Practice & Surgery,Fri,9:00am - 12:30pm,,false
 Hougang,Dedicare Medical Practice & Surgery,Sat,2:00pm - 5:00pm,,false
 Hougang,Dedicare Medical Practice & Surgery,Sun,,Closed,true
 Hougang,Dedicare Medical Practice & Surgery,PH,,Closed,true
+Hougang,Dr+ Medical & Paincare Kovan,Mon,8:30am - 2:30pm | 6:00pm - 10:00pm | 8:30am - 12:30pm,(WhatsApp Only) Sat & Sun: *Clinic’s last registration is 15 minutes before closing time.,false
+Hougang,Dr+ Medical & Paincare Kovan,Tues,8:30am - 2:30pm | 6:00pm - 10:00pm | 8:30am - 12:30pm,(WhatsApp Only) Sat & Sun: *Clinic’s last registration is 15 minutes before closing time.,false
+Hougang,Dr+ Medical & Paincare Kovan,Wed,8:30am - 2:30pm | 6:00pm - 10:00pm | 8:30am - 12:30pm,(WhatsApp Only) Sat & Sun: *Clinic’s last registration is 15 minutes before closing time.,false
+Hougang,Dr+ Medical & Paincare Kovan,Thurs,8:30am - 2:30pm | 6:00pm - 10:00pm | 8:30am - 12:30pm,(WhatsApp Only) Sat & Sun: *Clinic’s last registration is 15 minutes before closing time.,false
+Hougang,Dr+ Medical & Paincare Kovan,Fri,8:30am - 2:30pm | 6:00pm - 10:00pm | 8:30am - 12:30pm,(WhatsApp Only) Sat & Sun: *Clinic’s last registration is 15 minutes before closing time.,false
+Hougang,Dr+ Medical & Paincare Kovan,PH,,Closed,true
 Hougang,EH Medical Family Clinic (Hougang),Mon,8:30am - 2:00pm | 5:00pm - 9:00pm,,false
 Hougang,EH Medical Family Clinic (Hougang),Tues,8:30am - 2:00pm,,false
 Hougang,EH Medical Family Clinic (Hougang),Wed,8:30am - 2:00pm,,false
@@ -1694,6 +1773,19 @@ Hougang,Prestige Family Clinic,Fri,9:00am - 1:30pm,,false
 Hougang,Prestige Family Clinic,Sat,9:00am - 1:30pm,,false
 Hougang,Prestige Family Clinic,Sun,,Closed,true
 Hougang,Prestige Family Clinic,PH,,Closed,true
+Hougang,181 Hougang Family Clinic,Mon,8:30am - 1:00pm | 6:00pm - 9:00pm,,false
+Hougang,181 Hougang Family Clinic,Tues,8:30am - 1:00pm | 6:00pm - 9:00pm,,false
+Hougang,181 Hougang Family Clinic,Wed,8:30am - 1:00pm | 6:00pm - 9:00pm,,false
+Hougang,181 Hougang Family Clinic,Thurs,8:30am - 1:00pm | 6:00pm - 9:00pm,,false
+Hougang,181 Hougang Family Clinic,Fri,8:30am - 1:00pm | 6:00pm - 9:00pm,,false
+Jurong East,Caring Medical Clinic Toh Guan,Mon,8:30am - 2:00pm | 3:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Jurong East,Caring Medical Clinic Toh Guan,Tues,8:30am - 2:00pm,,false
+Jurong East,Caring Medical Clinic Toh Guan,Wed,8:30am - 2:00pm,,false
+Jurong East,Caring Medical Clinic Toh Guan,Thurs,8:30am - 2:00pm,,false
+Jurong East,Caring Medical Clinic Toh Guan,Fri,8:30am - 2:00pm,,false
+Jurong East,Caring Medical Clinic Toh Guan,Sat,8:30am - 12:30pm,,false
+Jurong East,Caring Medical Clinic Toh Guan,Sun,8:30am - 12:30pm,,false
+Jurong East,Caring Medical Clinic Toh Guan,PH,,Closed,true
 Jurong East,EJ Tan Clinic & Surgery,Mon,8:30am - 12:30pm | 2:00pm - 4:00pm | 7:00pm - 9:30pm,,false
 Jurong East,EJ Tan Clinic & Surgery,Tues,8:30am - 12:30pm | 2:00pm - 4:00pm | 7:00pm - 9:30pm,,false
 Jurong East,EJ Tan Clinic & Surgery,Wed,8:30am - 12:30pm | 2:00pm - 4:00pm | 7:00pm - 9:30pm,,false
@@ -1791,6 +1883,14 @@ Jurong West,DA Clinic @ Taman Jurong,Fri,8:30am - 12:00pm | 1:00pm - 4:00pm | 6:
 Jurong West,DA Clinic @ Taman Jurong,Sat,8:30am - 12:30pm,,false
 Jurong West,DA Clinic @ Taman Jurong,Sun,8:30am - 12:00pm | 6:00pm - 9:00pm,,false
 Jurong West,DA Clinic @ Taman Jurong,PH,,To call clinic to confirm,false
+Jurong West,Everest Clinic (Tengah),Mon,8:30am - 3:00pm | 5:30pm - 10:00pm,,false
+Jurong West,Everest Clinic (Tengah),Tues,8:30am - 3:00pm | 5:30pm - 10:00pm,,false
+Jurong West,Everest Clinic (Tengah),Wed,8:30am - 3:00pm | 5:30pm - 10:00pm,,false
+Jurong West,Everest Clinic (Tengah),Thurs,8:30am - 3:00pm | 5:30pm - 10:00pm,,false
+Jurong West,Everest Clinic (Tengah),Fri,8:30am - 3:00pm | 5:30pm - 10:00pm,,false
+Jurong West,Everest Clinic (Tengah),Sat,8:30am - 3:00pm | 5:30pm - 10:00pm,,false
+Jurong West,Everest Clinic (Tengah),Sun,8:30am - 3:00pm | 5:30pm - 10:00pm,,false
+Jurong West,Everest Clinic (Tengah),PH,8:30am - 3:00pm,,false
 Jurong West,Healthmark Family Clinic (Pioneer),Mon,9:00am - 12:30pm,,false
 Jurong West,Healthmark Family Clinic (Pioneer),Tues,9:00am - 12:30pm,,false
 Jurong West,Healthmark Family Clinic (Pioneer),Wed,9:00am - 12:30pm,,false
@@ -1839,13 +1939,11 @@ Jurong West,Frontier Medical Associates (Jurong West),Fri,8:30am - 3:00pm,,false
 Jurong West,Frontier Medical Associates (Jurong West),Sat,8:30am - 1:00pm,,false
 Jurong West,Frontier Medical Associates (Jurong West),Sun,,Closed,true
 Jurong West,Frontier Medical Associates (Jurong West),PH,,Closed,true
-Jurong West,HeartlandHealth Jurong West,Mon,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Jurong West,HeartlandHealth Jurong West,Tues,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Jurong West,HeartlandHealth Jurong West,Wed,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Jurong West,HeartlandHealth Jurong West,Thurs,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Jurong West,HeartlandHealth Jurong West,Fri,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Jurong West,HeartlandHealth Jurong West,Sat,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Jurong West,HeartlandHealth Jurong West,Sun,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Jurong West,HeartlandHealth Jurong West,Mon,8:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Jurong West,HeartlandHealth Jurong West,Tues,8:00am - 1:00pm,,false
+Jurong West,HeartlandHealth Jurong West,Wed,8:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Jurong West,HeartlandHealth Jurong West,Thurs,8:00am - 1:00pm,,false
+Jurong West,HeartlandHealth Jurong West,Sun,6:00pm - 11:00pm,,false
 Jurong West,HeartlandHealth Jurong West,PH,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Jurong West,iDOC Clinic (Hong Kah),Thurs,,Closed,true
 Jurong West,iDOC Clinic (Hong Kah),Sat,9:00am - 1:00pm,,false
@@ -1892,14 +1990,6 @@ Jurong West,ProHealth Medical Group @ Taman Jurong,Fri,8:00am - 3:00pm | 6:00pm 
 Jurong West,ProHealth Medical Group @ Taman Jurong,Sat,8:00am - 3:00pm,,false
 Jurong West,ProHealth Medical Group @ Taman Jurong,Sun,8:00am - 3:00pm | 6:00pm - 9:00pm,,false
 Jurong West,ProHealth Medical Group @ Taman Jurong,PH,,As per non-PH operating hours,false
-Jurong West,Raffles Medical (Jurong Point),Mon,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Jurong West,Raffles Medical (Jurong Point),Tues,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Jurong West,Raffles Medical (Jurong Point),Wed,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Jurong West,Raffles Medical (Jurong Point),Thurs,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Jurong West,Raffles Medical (Jurong Point),Fri,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:30pm - 9:30pm,,false
-Jurong West,Raffles Medical (Jurong Point),Sat,8:30am - 1:00pm,,false
-Jurong West,Raffles Medical (Jurong Point),Sun,8:30am - 1:00pm,,false
-Jurong West,Raffles Medical (Jurong Point),PH,,Closed,true
 Jurong West,Shifa Clinic (Jurong),Mon,9:00am - 4:30pm,,false
 Jurong West,Shifa Clinic (Jurong),Tues,9:00am - 4:30pm,,false
 Jurong West,Shifa Clinic (Jurong),Wed,9:00am - 4:30pm,,false
@@ -1962,6 +2052,14 @@ Kallang,Low Medical 67 Clinic,Fri,8:00am - 12:00pm | 1:00pm - 3:00pm,,false
 Kallang,Low Medical 67 Clinic,Sat,8:00am - 11:30am,,false
 Kallang,Low Medical 67 Clinic,Sun,,Closed,true
 Kallang,Low Medical 67 Clinic,PH,,Closed,true
+Kallang,Medihealth 71 Clinic & Surgery,Mon,8:00am - 8:00pm,,false
+Kallang,Medihealth 71 Clinic & Surgery,Tues,8:00am - 8:00pm,,false
+Kallang,Medihealth 71 Clinic & Surgery,Wed,8:00am - 8:00pm,,false
+Kallang,Medihealth 71 Clinic & Surgery,Thurs,8:00am - 8:00pm,,false
+Kallang,Medihealth 71 Clinic & Surgery,Fri,8:00am - 8:00pm,,false
+Kallang,Medihealth 71 Clinic & Surgery,Sat,8:00am - 8:00pm,,false
+Kallang,Medihealth 71 Clinic & Surgery,Sun,8:00am - 8:00pm,,false
+Kallang,Medihealth 71 Clinic & Surgery,PH,8:00am - 8:00pm,,false
 Kallang,Bridgepoint 39 Health (Kallang),Mon,8:30am - 1:00pm | 2:00pm - 10:00pm,,false
 Kallang,Bridgepoint 39 Health (Kallang),Tues,8:30am - 1:00pm | 2:00pm - 10:00pm,,false
 Kallang,Bridgepoint 39 Health (Kallang),Wed,8:30am - 1:00pm | 2:00pm - 10:00pm,,false
@@ -2117,11 +2215,11 @@ Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Fri,8:30am - 12:30pm,,f
 Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Sat,8:30am - 12:30pm,,false
 Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Sun,8:30am - 12:30pm,,false
 Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,PH,8:30am - 12:30pm,(except some PH; to call the clinic to confirm),false
-Macpherson,HeartlandHealth (Circuit Road),Mon,7:00am - 11:00pm,,false
-Macpherson,HeartlandHealth (Circuit Road),Tues,7:00am - 11:00pm,,false
-Macpherson,HeartlandHealth (Circuit Road),Wed,7:00am - 11:00pm,,false
-Macpherson,HeartlandHealth (Circuit Road),Thurs,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Macpherson,HeartlandHealth (Circuit Road),Fri,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Macpherson,HeartlandHealth (Circuit Road),Mon,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Macpherson,HeartlandHealth (Circuit Road),Tues,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Macpherson,HeartlandHealth (Circuit Road),Wed,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Macpherson,HeartlandHealth (Circuit Road),Thurs,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Macpherson,HeartlandHealth (Circuit Road),Fri,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
 Macpherson,HeartlandHealth (Circuit Road),Sat,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Macpherson,HeartlandHealth (Circuit Road),Sun,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Macpherson,HeartlandHealth (Circuit Road),PH,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
@@ -2149,14 +2247,14 @@ Macpherson,LifeCare Medical Centre,Fri,8:30am - 3:00pm | 6:30pm - 9:00pm,,false
 Macpherson,LifeCare Medical Centre,Sat,8:30am - 12:00pm,,false
 Macpherson,LifeCare Medical Centre,Sun,,Closed,true
 Macpherson,LifeCare Medical Centre,PH,,Closed,true
-Macpherson,YSL Aljunied 5 Clinic & Surgery,Mon,8:30am - 3:00pm | 6:30pm - 9:00pm,,false
-Macpherson,YSL Aljunied 5 Clinic & Surgery,Tues,8:30am - 3:00pm | 6:30pm - 9:00pm,,false
-Macpherson,YSL Aljunied 5 Clinic & Surgery,Wed,8:30am - 3:00pm | 6:30pm - 9:00pm,,false
-Macpherson,YSL Aljunied 5 Clinic & Surgery,Thurs,8:30am - 3:00pm | 6:30pm - 9:00pm,,false
-Macpherson,YSL Aljunied 5 Clinic & Surgery,Fri,8:30am - 3:00pm | 6:30pm - 9:00pm,,false
+Macpherson,YSL Aljunied 5 Clinic & Surgery,Mon,8:30am - 4:30pm | 6:30pm - 9:00pm,,false
+Macpherson,YSL Aljunied 5 Clinic & Surgery,Tues,8:30am - 4:30pm | 6:30pm - 9:00pm,,false
+Macpherson,YSL Aljunied 5 Clinic & Surgery,Wed,8:30am - 4:30pm | 6:30pm - 9:00pm,,false
+Macpherson,YSL Aljunied 5 Clinic & Surgery,Thurs,8:30am - 4:30pm | 6:30pm - 9:00pm,,false
+Macpherson,YSL Aljunied 5 Clinic & Surgery,Fri,8:30am - 4:30pm,,false
 Macpherson,YSL Aljunied 5 Clinic & Surgery,Sat,8:30am - 12:30pm,,false
 Macpherson,YSL Aljunied 5 Clinic & Surgery,Sun,8:30am - 12:30pm,,false
-Macpherson,YSL Aljunied 5 Clinic & Surgery,PH,8:30am - 12:30pm,S,false
+Macpherson,YSL Aljunied 5 Clinic & Surgery,PH,,Closed,true
 Marine Parade,Advantage 80 Medical Clinic (Parkway Parade),Mon,9:00am - 1:00pm | 2:00pm - 6:00pm,,false
 Marine Parade,Advantage 80 Medical Clinic (Parkway Parade),Tues,9:00am - 1:00pm | 2:00pm - 6:00pm,,false
 Marine Parade,Advantage 80 Medical Clinic (Parkway Parade),Wed,9:00am - 1:00pm | 2:00pm - 6:00pm,,false
@@ -2237,18 +2335,18 @@ Marine Parade,Marine Terrace 57 Family Clinic,Fri,7:30am - 10:00am,,false
 Marine Parade,Marine Terrace 57 Family Clinic,Sat,7:30am - 8:30am,,false
 Marine Parade,Marine Terrace 57 Family Clinic,Sun,7:30am - 12:00pm,,false
 Marine Parade,Marine Terrace 57 Family Clinic,PH,,Closed,true
-Marine Parade,81 Mediline Wei Min Clinic (Marine Parade),Mon,8:00am - 2:00pm | 3:00pm - 8:00pm,,false
-Marine Parade,81 Mediline Wei Min Clinic (Marine Parade),Tues,8:00am - 2:00pm | 3:00pm - 8:00pm,,false
-Marine Parade,81 Mediline Wei Min Clinic (Marine Parade),Wed,8:00am - 2:00pm | 3:00pm - 8:00pm,,false
-Marine Parade,81 Mediline Wei Min Clinic (Marine Parade),Thurs,8:00am - 2:00pm | 3:00pm - 8:00pm,,false
-Marine Parade,81 Mediline Wei Min Clinic (Marine Parade),Fri,8:00am - 2:00pm | 3:00pm - 6:00pm,,false
-Marine Parade,81 Mediline Wei Min Clinic (Marine Parade),Sat,8:00am - 1:00pm | 2:00pm - 6:00pm,,false
-Marine Parade,81 Mediline Wei Min Clinic (Marine Parade),Sun,8:00am - 2:00pm | 3:00pm - 6:00pm,,false
-Marine Parade,81 Mediline Wei Min Clinic (Marine Parade),PH,8:00am - 2:00pm | 3:00pm - 6:00pm,,false
+Marine Parade,Mediline Wei 81 Min Clinic (Marine Parade),Mon,8:00am - 2:00pm | 3:00pm - 8:00pm,,false
+Marine Parade,Mediline Wei 81 Min Clinic (Marine Parade),Tues,8:00am - 2:00pm | 3:00pm - 8:00pm,,false
+Marine Parade,Mediline Wei 81 Min Clinic (Marine Parade),Wed,8:00am - 2:00pm | 3:00pm - 8:00pm,,false
+Marine Parade,Mediline Wei 81 Min Clinic (Marine Parade),Thurs,8:00am - 2:00pm | 3:00pm - 8:00pm,,false
+Marine Parade,Mediline Wei 81 Min Clinic (Marine Parade),Fri,8:00am - 2:00pm | 3:00pm - 6:00pm,,false
+Marine Parade,Mediline Wei 81 Min Clinic (Marine Parade),Sat,8:00am - 1:00pm | 2:00pm - 6:00pm,,false
+Marine Parade,Mediline Wei 81 Min Clinic (Marine Parade),Sun,8:00am - 2:00pm | 3:00pm - 6:00pm,,false
+Marine Parade,Mediline Wei 81 Min Clinic (Marine Parade),PH,8:00am - 2:00pm | 3:00pm - 6:00pm,,false
 Marine Parade,57 Medical 1 Clinic (Parkway Centre),Mon,8:00am - 1:00pm,,false
 Marine Parade,57 Medical 1 Clinic (Parkway Centre),Tues,8:00am - 1:00pm,,false
 Marine Parade,57 Medical 1 Clinic (Parkway Centre),Wed,8:00am - 1:00pm,,false
-Marine Parade,57 Medical 1 Clinic (Parkway Centre),Thurs,2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Marine Parade,57 Medical 1 Clinic (Parkway Centre),Thurs,8:00am - 1:00pm,,false
 Marine Parade,57 Medical 1 Clinic (Parkway Centre),Fri,8:00am - 1:00pm,,false
 Marine Parade,57 Medical 1 Clinic (Parkway Centre),Sat,8:00am - 1:00pm,,false
 Marine Parade,57 Medical 1 Clinic (Parkway Centre),Sun,9:00am - 12:00pm,,false
@@ -2269,11 +2367,11 @@ Novena,Dr Lim Lean Huat & Associates,Fri,8:30am - 12:30pm | 2:30pm - 5:30pm,,fal
 Novena,Dr Lim Lean Huat & Associates,Sat,8:30am - 12:30pm,,false
 Novena,Dr Lim Lean Huat & Associates,Sun,,Closed,true
 Novena,Dr Lim Lean Huat & Associates,PH,,Closed,true
-Novena,HeartlandHealth (Whampoa),Mon,7:00am - 11:00pm,,false
-Novena,HeartlandHealth (Whampoa),Tues,7:00am - 11:00pm,,false
-Novena,HeartlandHealth (Whampoa),Wed,7:00am - 11:00pm,,false
-Novena,HeartlandHealth (Whampoa),Thurs,7:00am - 11:00pm,,false
-Novena,HeartlandHealth (Whampoa),Fri,7:00am - 11:00pm,,false
+Novena,HeartlandHealth (Whampoa),Mon,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Novena,HeartlandHealth (Whampoa),Tues,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Novena,HeartlandHealth (Whampoa),Wed,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Novena,HeartlandHealth (Whampoa),Thurs,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Novena,HeartlandHealth (Whampoa),Fri,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
 Novena,HeartlandHealth (Whampoa),Sat,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Novena,HeartlandHealth (Whampoa),Sun,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Novena,HeartlandHealth (Whampoa),PH,7:00am - 11:00pm,,false
@@ -2370,22 +2468,14 @@ Pasir Ris,Caring Medical Clinic,Fri,8:30am - 2:00pm | 6:00pm - 9:00pm,,false
 Pasir Ris,Caring Medical Clinic,Sat,8:30am - 12:30pm,,false
 Pasir Ris,Caring Medical Clinic,Sun,8:30am - 2:00pm | 6:00pm - 9:00pm,,false
 Pasir Ris,Caring Medical Clinic,PH,,Closed,true
-Pasir Ris,Clinic10,Mon,8:30am - 4:15pm,,false
-Pasir Ris,Clinic10,Tues,8:30am - 4:15pm,,false
-Pasir Ris,Clinic10,Wed,8:30am - 4:15pm,,false
-Pasir Ris,Clinic10,Thurs,8:30am - 4:15pm,,false
-Pasir Ris,Clinic10,Fri,8:30am - 4:15pm,,false
-Pasir Ris,Clinic10,Sat,,Closed,true
-Pasir Ris,Clinic10,Sun,9:00am - 12:00pm,,false
-Pasir Ris,Clinic10,PH,,Closed,true
-Pasir Ris,Fullerton Health 7 Hub @ Pasir Ris,Mon,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
-Pasir Ris,Fullerton Health 7 Hub @ Pasir Ris,Tues,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
-Pasir Ris,Fullerton Health 7 Hub @ Pasir Ris,Wed,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
-Pasir Ris,Fullerton Health 7 Hub @ Pasir Ris,Thurs,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
-Pasir Ris,Fullerton Health 7 Hub @ Pasir Ris,Fri,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
-Pasir Ris,Fullerton Health 7 Hub @ Pasir Ris,Sat,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
-Pasir Ris,Fullerton Health 7 Hub @ Pasir Ris,Sun,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
-Pasir Ris,Fullerton Health 7 Hub @ Pasir Ris,PH,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
+Pasir Ris,Clinic10 7 Fullerton Health Hub @ Pasir Ris,Mon,8:30am - 4:15pm | 8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
+Pasir Ris,Clinic10 7 Fullerton Health Hub @ Pasir Ris,Tues,8:30am - 4:15pm | 8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
+Pasir Ris,Clinic10 7 Fullerton Health Hub @ Pasir Ris,Wed,8:30am - 4:15pm | 8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
+Pasir Ris,Clinic10 7 Fullerton Health Hub @ Pasir Ris,Thurs,8:30am - 4:15pm | 8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
+Pasir Ris,Clinic10 7 Fullerton Health Hub @ Pasir Ris,Fri,8:30am - 4:15pm | 8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
+Pasir Ris,Clinic10 7 Fullerton Health Hub @ Pasir Ris,Sat,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,Closed,false
+Pasir Ris,Clinic10 7 Fullerton Health Hub @ Pasir Ris,Sun,9:00am - 12:00pm | 8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,,false
+Pasir Ris,Clinic10 7 Fullerton Health Hub @ Pasir Ris,PH,8:30am - 12:30pm | 1:30pm - 5:30pm | 6:30pm - 8:30pm,Closed,false
 Pasir Ris,Hamid Family Clinic & Surgery,Mon,9:00am - 12:00pm | 1:30pm - 3:30pm | 7:00pm - 9:00pm,,false
 Pasir Ris,Hamid Family Clinic & Surgery,Tues,9:00am - 12:00pm | 1:30pm - 3:30pm,,false
 Pasir Ris,Hamid Family Clinic & Surgery,Wed,9:00am - 12:00pm | 1:30pm - 3:30pm | 7:00pm - 9:00pm,,false
@@ -2481,11 +2571,13 @@ Punggol,Edgedale Medical Clinic (Punggol),Fri,9:00am - 4:00pm | 6:00pm - 10:00pm
 Punggol,Edgedale Medical Clinic (Punggol),Sat,9:00am - 1:00pm | 6:00pm - 10:00pm,,false
 Punggol,Edgedale Medical Clinic (Punggol),Sun,9:00am - 1:00pm | 6:00pm - 10:00pm,,false
 Punggol,Edgedale Medical Clinic (Punggol),PH,9:00am - 12:00pm,,false
-Punggol,Etern Medical 70 Clinic,Mon,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm | 8:30am - 1:00pm,(WhatsApp Only) Sat & Sun:,false
-Punggol,Etern Medical 70 Clinic,Tues,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm | 8:30am - 1:00pm,(WhatsApp Only) Sat & Sun:,false
-Punggol,Etern Medical 70 Clinic,Wed,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm | 8:30am - 1:00pm,(WhatsApp Only) Sat & Sun:,false
-Punggol,Etern Medical 70 Clinic,Thurs,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm | 8:30am - 1:00pm,(WhatsApp Only) Sat & Sun:,false
-Punggol,Etern Medical 70 Clinic,Fri,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm | 8:30am - 1:00pm,(WhatsApp Only) Sat & Sun:,false
+Punggol,Etern Medical 70 Clinic,Mon,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm,(WhatsApp Only),false
+Punggol,Etern Medical 70 Clinic,Tues,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm,(WhatsApp Only),false
+Punggol,Etern Medical 70 Clinic,Wed,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm,(WhatsApp Only),false
+Punggol,Etern Medical 70 Clinic,Thurs,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm,(WhatsApp Only),false
+Punggol,Etern Medical 70 Clinic,Fri,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:30pm - 9:30pm,(WhatsApp Only),false
+Punggol,Etern Medical 70 Clinic,Sat,8:30am - 1:00pm,,false
+Punggol,Etern Medical 70 Clinic,Sun,8:30am - 1:00pm,,false
 Punggol,Etern Medical 70 Clinic,PH,8:30am - 1:00pm,,false
 Punggol,Healthmark Family Clinic (Punggol),Mon,8:30am - 2:00pm | 6:00pm - 9:00pm,,false
 Punggol,Healthmark Family Clinic (Punggol),Tues,8:30am - 2:00pm | 6:00pm - 9:00pm,,false
@@ -2776,14 +2868,14 @@ Sengkang,Acumed Medical Group (Sengkang),Fri,8:30am - 1:00pm,,false
 Sengkang,Acumed Medical Group (Sengkang),Sat,8:30am - 1:00pm,,false
 Sengkang,Acumed Medical Group (Sengkang),Sun,9:00am - 12:00pm,,false
 Sengkang,Acumed Medical Group (Sengkang),PH,9:00am - 12:00pm,,false
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Mon,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Tues,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Wed,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Thurs,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Fri,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Sat,8:30am - 12:30pm,,false
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Sun,8:30am - 12:30pm,,false
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),PH,,Closed,true
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Mon,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Tues,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Wed,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Thurs,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Fri,8:00am - 12:30pm | 2:00pm - 4:30pm | 5:30pm - 9:30pm,,false
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Sat,8:30am - 12:30pm,,false
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Sun,8:30am - 12:30pm,,false
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,PH,,Closed,true
 Sengkang,DA Clinic @ Anchorvale,Mon,8:30am - 12:00pm | 1:00pm - 9:00pm,,false
 Sengkang,DA Clinic @ Anchorvale,Tues,8:30am - 12:00pm | 1:00pm - 9:00pm,,false
 Sengkang,DA Clinic @ Anchorvale,Wed,8:30am - 12:00pm | 1:00pm - 9:00pm,,false
@@ -2871,11 +2963,19 @@ Sengkang,Medivene Clinic & Surgery,Fri,8:30am - 2:00pm,,false
 Sengkang,Medivene Clinic & Surgery,Sat,9:00am - 1:00pm,,false
 Sengkang,Medivene Clinic & Surgery,Sun,,Closed,true
 Sengkang,Medivene Clinic & Surgery,PH,,Closed,true
-Sengkang,Minmed Clinic (Anchorvale),Mon,9:00am - 1:00pm | 2:00pm - 4:00pm | 5:00pm - 9:00pm,(WhatsApp Only),false
-Sengkang,Minmed Clinic (Anchorvale),Tues,9:00am - 1:00pm | 2:00pm - 4:00pm | 5:00pm - 9:00pm,(WhatsApp Only),false
-Sengkang,Minmed Clinic (Anchorvale),Wed,9:00am - 1:00pm | 2:00pm - 4:00pm | 5:00pm - 9:00pm,(WhatsApp Only),false
-Sengkang,Minmed Clinic (Anchorvale),Thurs,9:00am - 1:00pm | 2:00pm - 4:00pm | 5:00pm - 9:00pm,(WhatsApp Only),false
-Sengkang,Minmed Clinic (Anchorvale),Fri,9:00am - 1:00pm | 2:00pm - 4:00pm | 5:00pm - 9:00pm,(WhatsApp Only),false
+Sengkang,Minmed Clinic (Buangkok),Mon,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Sengkang,Minmed Clinic (Buangkok),Tues,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Sengkang,Minmed Clinic (Buangkok),Wed,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Sengkang,Minmed Clinic (Buangkok),Thurs,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Sengkang,Minmed Clinic (Buangkok),Fri,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Sengkang,Minmed Clinic (Buangkok),Sat,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
+Sengkang,Minmed Clinic (Buangkok),Sun,9:00am - 1:00pm | 2:00pm - 5:00pm,,false
+Sengkang,Minmed Clinic (Buangkok),PH,,To call the clinic to confirm,false
+Sengkang,Minmed Clinic (Anchorvale),Mon,9:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Sengkang,Minmed Clinic (Anchorvale),Tues,9:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Sengkang,Minmed Clinic (Anchorvale),Wed,9:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Sengkang,Minmed Clinic (Anchorvale),Thurs,9:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Sengkang,Minmed Clinic (Anchorvale),Fri,9:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
 Sengkang,Minmed Clinic (Anchorvale),Sat,9:00am - 1:00pm,,false
 Sengkang,Minmed Clinic (Anchorvale),Sun,9:00am - 1:00pm,,false
 Sengkang,Minmed Clinic (Anchorvale),PH,9:00am - 1:00pm,,false
@@ -2927,16 +3027,10 @@ Sengkang,ProHealth Medical Group @ Buangkok,Fri,8:00am - 10:00pm,,false
 Sengkang,ProHealth Medical Group @ Buangkok,Sat,8:00am - 10:00pm,,false
 Sengkang,ProHealth Medical Group @ Buangkok,Sun,8:00am - 10:00pm,,false
 Sengkang,ProHealth Medical Group @ Buangkok,PH,9:00am - 10:00pm,,false
-Sengkang,ProHealth Medical Group @ Fernvale,Mon,8:00am - 10:00pm,,false
-Sengkang,ProHealth Medical Group @ Fernvale,Tues,8:00am - 10:00pm,,false
-Sengkang,ProHealth Medical Group @ Fernvale,Wed,8:00am - 10:00pm,,false
-Sengkang,ProHealth Medical Group @ Fernvale,Thurs,8:00am - 10:00pm,,false
-Sengkang,ProHealth Medical Group @ Fernvale,Fri,8:00am - 10:00pm,,false
-Sengkang,ProHealth Medical Group @ Fernvale,Sat,8:00am - 10:00pm,,false
-Sengkang,ProHealth Medical Group @ Fernvale,Sun,8:00am - 10:00pm,,false
-Sengkang,ProHealth Medical Group @ Fernvale,PH,9:00am - 10:00pm,,false
 Sengkang,ProHealth Medical Group @ LRT Fernvale,Sat,8:00am - 3:00pm,,false
 Sengkang,ProHealth Medical Group @ LRT Fernvale,Sun,8:00am - 10:00pm,,false
+Sengkang,ProHealth Medical Group @ Fernvale,Sat,8:00am - 3:00pm,,false
+Sengkang,ProHealth Medical Group @ Fernvale,Sun,8:00am - 10:00pm,,false
 Sengkang,RCMC Rivervale Crescent Medical Centre,Mon,9:00am - 2:00pm | 6:30pm - 9:30pm,,false
 Sengkang,RCMC Rivervale Crescent Medical Centre,Tues,9:00am - 2:00pm | 6:30pm - 9:30pm,,false
 Sengkang,RCMC Rivervale Crescent Medical Centre,Wed,9:00am - 2:00pm | 6:30pm - 9:30pm,,false
@@ -3056,14 +3150,14 @@ Serangoon,Medivine Family Clinic,Fri,8:30am - 1:00pm | 2:00pm - 4:30pm | 7:00pm 
 Serangoon,Medivine Family Clinic,Sat,8:30am - 1:00pm,,false
 Serangoon,Medivine Family Clinic,Sun,2:00pm - 4:00pm,,false
 Serangoon,Medivine Family Clinic,PH,,Closed,true
-Serangoon,OneDoctors Medical Centre (Serangoon Nex),Mon,9:00am - 9:00pm,,false
-Serangoon,OneDoctors Medical Centre (Serangoon Nex),Tues,9:00am - 9:00pm,,false
-Serangoon,OneDoctors Medical Centre (Serangoon Nex),Wed,9:00am - 9:00pm,,false
-Serangoon,OneDoctors Medical Centre (Serangoon Nex),Thurs,9:00am - 6:00pm,,false
-Serangoon,OneDoctors Medical Centre (Serangoon Nex),Fri,9:00am - 6:00pm,,false
-Serangoon,OneDoctors Medical Centre (Serangoon Nex),Sat,9:00am - 9:00pm,,false
-Serangoon,OneDoctors Medical Centre (Serangoon Nex),Sun,9:00am - 6:00pm,,false
-Serangoon,OneDoctors Medical Centre (Serangoon Nex),PH,1:00pm - 6:00pm,,false
+Serangoon,OneDoctors Medical Centre (Serangoon),Mon,8:00am - 9:00pm,,false
+Serangoon,OneDoctors Medical Centre (Serangoon),Tues,8:00am - 9:00pm,,false
+Serangoon,OneDoctors Medical Centre (Serangoon),Wed,8:00am - 9:00pm,,false
+Serangoon,OneDoctors Medical Centre (Serangoon),Thurs,8:00am - 9:00pm,,false
+Serangoon,OneDoctors Medical Centre (Serangoon),Fri,8:00am - 9:00pm,,false
+Serangoon,OneDoctors Medical Centre (Serangoon),Sat,8:00am - 1:00pm,,false
+Serangoon,OneDoctors Medical Centre (Serangoon),Sun,8:00am - 9:00pm,,false
+Serangoon,OneDoctors Medical Centre (Serangoon),PH,8:00pm - 1:00pm,(*Please call clinic to confirm),false
 Serangoon,Pancare Medical (Serangoon),Mon,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
 Serangoon,Pancare Medical (Serangoon),Tues,8:00am - 1:00pm,,false
 Serangoon,Pancare Medical (Serangoon),Wed,8:00am - 1:00pm,,false
@@ -3162,14 +3256,6 @@ Simei,DA Clinic @ Simei,Fri,8:30am - 12:00pm | 1:00pm - 9:00pm,,false
 Simei,DA Clinic @ Simei,Sat,8:30am - 12:00pm,,false
 Simei,DA Clinic @ Simei,Sun,8:30am - 12:00pm,,false
 Simei,DA Clinic @ Simei,PH,,Please call the clinic to confirm,false
-Simei,Northeast Medical Group (Simei),Mon,8:00am - 1:00pm | 2:00pm - 10:00pm,,false
-Simei,Northeast Medical Group (Simei),Tues,8:00am - 1:00pm | 2:00pm - 10:00pm,,false
-Simei,Northeast Medical Group (Simei),Wed,8:00am - 1:00pm | 2:00pm - 10:00pm,,false
-Simei,Northeast Medical Group (Simei),Thurs,8:00am - 1:00pm | 2:00pm - 10:00pm,,false
-Simei,Northeast Medical Group (Simei),Fri,8:00am - 1:00pm | 2:00pm - 10:00pm,,false
-Simei,Northeast Medical Group (Simei),Sat,8:00am - 1:00pm | 2:00pm - 10:00pm,,false
-Simei,Northeast Medical Group (Simei),Sun,8:00am - 1:00pm | 2:00pm - 10:00pm,,false
-Simei,Northeast Medical Group (Simei),PH,10:00am - 6:00pm,,false
 Simei,St Andrew’s Mission Hospital Clinic (Simei),Mon,8:00am - 1:00pm | 2:00pm - 5:00pm,,false
 Simei,St Andrew’s Mission Hospital Clinic (Simei),Tues,8:00am - 1:00pm | 2:00pm - 5:00pm,,false
 Simei,St Andrew’s Mission Hospital Clinic (Simei),Wed,8:00am - 1:00pm | 2:00pm - 5:00pm,,false
@@ -3194,11 +3280,13 @@ Tanjong Pagar,AscendCare Medical Clinic,Fri,9:00am - 12:30pm | 1:30pm - 5:00pm,,
 Tanjong Pagar,AscendCare Medical Clinic,Sat,,Closed,true
 Tanjong Pagar,AscendCare Medical Clinic,Sun,,Closed,true
 Tanjong Pagar,AscendCare Medical Clinic,PH,,Closed,true
-Tanjong Pagar,Beacon Medical Clinic Tanjong Pagar,Mon,8:30am - 12:00pm | 1:00pm - 5:00pm | 8:30am - 1:00pm,(WhatsApp Sat: Only) Closed on Sun & PH,false
-Tanjong Pagar,Beacon Medical Clinic Tanjong Pagar,Tues,8:30am - 12:00pm | 1:00pm - 5:00pm | 8:30am - 1:00pm,(WhatsApp Sat: Only) Closed on Sun & PH,false
-Tanjong Pagar,Beacon Medical Clinic Tanjong Pagar,Wed,8:30am - 12:00pm | 1:00pm - 5:00pm | 8:30am - 1:00pm,(WhatsApp Sat: Only) Closed on Sun & PH,false
-Tanjong Pagar,Beacon Medical Clinic Tanjong Pagar,Thurs,8:30am - 12:00pm | 1:00pm - 5:00pm | 8:30am - 1:00pm,(WhatsApp Sat: Only) Closed on Sun & PH,false
-Tanjong Pagar,Beacon Medical Clinic Tanjong Pagar,Fri,8:30am - 12:00pm | 1:00pm - 5:00pm | 8:30am - 1:00pm,(WhatsApp Sat: Only) Closed on Sun & PH,false
+Tanjong Pagar,Beacon Medical,Mon,8:30am - 12:00pm,,false
+Tanjong Pagar,Beacon Medical,Tues,8:30am - 12:00pm,,false
+Tanjong Pagar,Beacon Medical,Wed,8:30am - 12:00pm,,false
+Tanjong Pagar,Beacon Medical,Thurs,8:30am - 12:00pm,,false
+Tanjong Pagar,Beacon Medical,Fri,8:30am - 12:00pm,,false
+Tanjong Pagar,Clinic Tanjong Pagar,Sun,,Closed,true
+Tanjong Pagar,Clinic Tanjong Pagar,PH,,Closed,true
 Tanjong Pagar,Bridgepoint Health,Mon,8:00am - 1:30pm,,false
 Tanjong Pagar,Bridgepoint Health,Wed,8:00am - 1:30pm,,false
 Tanjong Pagar,(Everton Park Clinic),Tues,8:00am - 1:30pm | 6:30pm - 9:30pm,,false
@@ -3236,6 +3324,14 @@ Tanjong Pagar,HMI Health Screening (Amara),Fri,9:00am - 5:00pm,,false
 Tanjong Pagar,HMI Health Screening (Amara),Sat,9:00am - 1:00pm,,false
 Tanjong Pagar,HMI Health Screening (Amara),Sun,,Closed,true
 Tanjong Pagar,HMI Health Screening (Amara),PH,,Closed,true
+Tanjong Pagar,The Downstairs Clinic,Mon,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 10:00pm,,false
+Tanjong Pagar,The Downstairs Clinic,Tues,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 10:00pm,,false
+Tanjong Pagar,The Downstairs Clinic,Wed,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 10:00pm,,false
+Tanjong Pagar,The Downstairs Clinic,Thurs,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 10:00pm,,false
+Tanjong Pagar,The Downstairs Clinic,Fri,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 10:00pm,,false
+Tanjong Pagar,The Downstairs Clinic,Sat,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 10:00pm,,false
+Tanjong Pagar,The Downstairs Clinic,Sun,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 10:00pm,,false
+Tanjong Pagar,The Downstairs Clinic,PH,8:00am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 10:00pm,,false
 Tampines,Acumed Medical Group (Tampines West),Mon,8:30am - 2:00pm,,false
 Tampines,Acumed Medical Group (Tampines West),Tues,8:30am - 2:00pm,,false
 Tampines,Acumed Medical Group (Tampines West),Wed,8:30am - 2:00pm,,false
@@ -3316,14 +3412,14 @@ Tampines,HeartlandHealth (Tampines),Fri,8:00am - 1:00pm | 6:00pm - 11:00pm,,fals
 Tampines,HeartlandHealth (Tampines),Sat,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Tampines,HeartlandHealth (Tampines),Sun,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Tampines,HeartlandHealth (Tampines),PH,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Tampines,HeartlandHealth (Tampines East),Mon,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Tampines,HeartlandHealth (Tampines East),Tues,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Tampines,HeartlandHealth (Tampines East),Wed,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Tampines,HeartlandHealth (Tampines East),Thurs,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Tampines,HeartlandHealth (Tampines East),Fri,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Tampines,HeartlandHealth (Tampines East),Sat,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Tampines,HeartlandHealth (Tampines East),Sun,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Tampines,HeartlandHealth (Tampines East),PH,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Tampines,HeartlandHealth (Tampines East),Mon,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Tampines,HeartlandHealth (Tampines East),Tues,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Tampines,HeartlandHealth (Tampines East),Wed,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Tampines,HeartlandHealth (Tampines East),Thurs,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Tampines,HeartlandHealth (Tampines East),Fri,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Tampines,HeartlandHealth (Tampines East),Sat,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Tampines,HeartlandHealth (Tampines East),Sun,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
+Tampines,HeartlandHealth (Tampines East),PH,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Tampines,Intemedical Tampines,Mon,8:00am - 10:00pm,(WhatsApp,false
 Tampines,Intemedical Tampines,Tues,8:00am - 10:00pm,(WhatsApp,false
 Tampines,Intemedical Tampines,Wed,8:00am - 10:00pm,(WhatsApp,false
@@ -3356,6 +3452,14 @@ Tampines,Little Cross Family Clinic Pte Ltd,Fri,8:30am - 3:00pm | 7:00pm - 9:00p
 Tampines,Little Cross Family Clinic Pte Ltd,Sat,8:30am - 12:30pm | 7:00pm - 9:00pm,,false
 Tampines,Little Cross Family Clinic Pte Ltd,Sun,,Closed,true
 Tampines,Little Cross Family Clinic Pte Ltd,PH,8:30am - 12:30pm,,false
+Tampines,MD Family Clinic (Tampines),Mon,8:00am - 1:00pm | 2:00pm - 4:00pm | 5:30pm - 9:00pm,,false
+Tampines,MD Family Clinic (Tampines),Tues,8:00am - 1:00pm | 5:30pm - 9:00pm,,false
+Tampines,MD Family Clinic (Tampines),Wed,8:00am - 1:00pm | 2:00pm - 4:00pm | 5:30pm - 9:00pm,,false
+Tampines,MD Family Clinic (Tampines),Thurs,8:00am - 1:00pm | 5:30pm - 9:00pm,,false
+Tampines,MD Family Clinic (Tampines),Fri,8:00am - 1:00pm | 2:00pm - 4:00pm | 5:30pm - 9:00pm,,false
+Tampines,MD Family Clinic (Tampines),Sat,8:00am - 1:00pm,,false
+Tampines,MD Family Clinic (Tampines),Sun,8:00am - 1:00pm,,false
+Tampines,MD Family Clinic (Tampines),PH,9:30am - 12:30pm,,false
 Tampines,Medina Medical Centre,Mon,8:00am - 12:30pm | 2:30pm - 5:00pm,,false
 Tampines,Medina Medical Centre,Tues,8:00am - 12:30pm | 2:30pm - 5:00pm,,false
 Tampines,Medina Medical Centre,Wed,8:00am - 12:30pm | 2:30pm - 5:00pm,,false
@@ -3372,6 +3476,22 @@ Tampines,Northeast Medical 20 Group (Tampines),Fri,8:00am - 1:00pm | 2:00pm - 10
 Tampines,Northeast Medical 20 Group (Tampines),Sat,8:00am - 1:00pm | 2:00pm - 10:00pm,,false
 Tampines,Northeast Medical 20 Group (Tampines),Sun,8:00am - 1:00pm | 2:00pm - 10:00pm,,false
 Tampines,Northeast Medical 20 Group (Tampines),PH,8:00am - 1:00pm,,false
+Tampines,OneCare Clinic (Tampines),Mon,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Tampines,OneCare Clinic (Tampines),Tues,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Tampines,OneCare Clinic (Tampines),Wed,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Tampines,OneCare Clinic (Tampines),Thurs,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Tampines,OneCare Clinic (Tampines),Fri,8:00am - 3:00pm,,false
+Tampines,OneCare Clinic (Tampines),Sat,8:00am - 12:00pm,,false
+Tampines,OneCare Clinic (Tampines),Sun,8:00am - 12:00pm,,false
+Tampines,OneCare Clinic (Tampines),PH,,Open at selected timing (To call the clinic to confirm),false
+Tampines,OneCare Clinic 20 (Tampines MRT),Mon,8:00am - 3:00pm | 5:00pm - 9:30pm,,false
+Tampines,OneCare Clinic 20 (Tampines MRT),Tues,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Tampines,OneCare Clinic 20 (Tampines MRT),Wed,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Tampines,OneCare Clinic 20 (Tampines MRT),Thurs,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Tampines,OneCare Clinic 20 (Tampines MRT),Fri,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Tampines,OneCare Clinic 20 (Tampines MRT),Sat,8:00am - 1:00pm,,false
+Tampines,OneCare Clinic 20 (Tampines MRT),Sun,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
+Tampines,OneCare Clinic 20 (Tampines MRT),PH,,Open at selected timing (To call the clinic to confirm),false
 Tampines,Our Family Physician Clinic & Surgery,Mon,8:00am - 11:00pm,,false
 Tampines,Our Family Physician Clinic & Surgery,Tues,8:00am - 11:00pm,,false
 Tampines,Our Family Physician Clinic & Surgery,Wed,8:00am - 11:00pm,,false
@@ -3474,6 +3594,14 @@ Tiong Bahru,Healthway 18 Medical (Jalan Membina),Fri,2:00pm - 5:00pm,,false
 Tiong Bahru,Healthway 18 Medical (Jalan Membina),Sat,8:30am - 1:00pm,,false
 Tiong Bahru,Healthway 18 Medical (Jalan Membina),Sun,,Closed,true
 Tiong Bahru,Healthway 18 Medical (Jalan Membina),PH,,Closed,true
+Tiong Bahru,iCare Medical Centre,Mon,8:00am - 10:00pm,,false
+Tiong Bahru,iCare Medical Centre,Tues,8:00am - 10:00pm,,false
+Tiong Bahru,iCare Medical Centre,Wed,8:00am - 10:00pm,,false
+Tiong Bahru,iCare Medical Centre,Thurs,8:00am - 10:00pm,,false
+Tiong Bahru,iCare Medical Centre,Fri,8:00am - 10:00pm,,false
+Tiong Bahru,iCare Medical Centre,Sat,8:00am - 10:00pm,,false
+Tiong Bahru,iCare Medical Centre,Sun,,10S:00am 10:00pm,false
+Tiong Bahru,iCare Medical Centre,PH,,10S:00am 10:00pm,false
 Tiong Bahru,Kao & Tan Family 18 Medical Centre & Surgery (Prohealth Medical Group Of Clinics),Mon,7:00am - 10:00pm,,false
 Tiong Bahru,Kao & Tan Family 18 Medical Centre & Surgery (Prohealth Medical Group Of Clinics),Tues,7:00am - 10:00pm,,false
 Tiong Bahru,Kao & Tan Family 18 Medical Centre & Surgery (Prohealth Medical Group Of Clinics),Wed,7:00am - 10:00pm,,false
@@ -3514,14 +3642,14 @@ Toa Payoh,Camry Medical 95 Centre,Fri,8:30am - 12:00pm | 1:00pm - 4:00pm,,false
 Toa Payoh,Camry Medical 95 Centre,Sat,8:30am - 12:00pm,,false
 Toa Payoh,Camry Medical 95 Centre,Sun,,Closed,true
 Toa Payoh,Camry Medical 95 Centre,PH,,Closed,true
-Toa Payoh,178 Joyce & Partners Family Clinic,Mon,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
-Toa Payoh,178 Joyce & Partners Family Clinic,Tues,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
-Toa Payoh,178 Joyce & Partners Family Clinic,Wed,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
-Toa Payoh,178 Joyce & Partners Family Clinic,Thurs,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
-Toa Payoh,178 Joyce & Partners Family Clinic,Fri,8:30am - 1:00pm,,false
-Toa Payoh,178 Joyce & Partners Family Clinic,Sat,2:00pm - 4:00pm,(Please call the clinic to confirm),false
-Toa Payoh,178 Joyce & Partners Family Clinic,Sun,,Closed,true
-Toa Payoh,178 Joyce & Partners Family Clinic,PH,,Closed,true
+Toa Payoh,Joyce & 178 Partners Family Clinic,Mon,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
+Toa Payoh,Joyce & 178 Partners Family Clinic,Tues,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
+Toa Payoh,Joyce & 178 Partners Family Clinic,Wed,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
+Toa Payoh,Joyce & 178 Partners Family Clinic,Thurs,8:30am - 1:00pm | 6:00pm - 8:30pm,,false
+Toa Payoh,Joyce & 178 Partners Family Clinic,Fri,8:30am - 1:00pm,,false
+Toa Payoh,Joyce & 178 Partners Family Clinic,Sat,2:00pm - 4:00pm,(Please call the clinic to confirm),false
+Toa Payoh,Joyce & 178 Partners Family Clinic,Sun,,Closed,true
+Toa Payoh,Joyce & 178 Partners Family Clinic,PH,,Closed,true
 Toa Payoh,Finest Health 19 Medical Centre,Mon,8:30am - 12:30pm | 7:00pm - 10:00pm | 8:30am - 12:30pm,"(WhatsApp Only) Tues, Thurs, Fri & Sat:",false
 Toa Payoh,Finest Health 19 Medical Centre,Wed,8:30am - 12:30pm | 7:00pm - 10:00pm | 8:30am - 12:30pm,"(WhatsApp Only) Tues, Thurs, Fri & Sat:",false
 Toa Payoh,Finest Health 19 Medical Centre,Sun,,Closed,true
@@ -3542,11 +3670,11 @@ Toa Payoh,HeartlandHealth 124 (Braddell Medical Clinic),Fri,8:00am - 1:00pm | 6:
 Toa Payoh,HeartlandHealth 124 (Braddell Medical Clinic),Sat,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Toa Payoh,HeartlandHealth 124 (Braddell Medical Clinic),Sun,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Toa Payoh,HeartlandHealth 124 (Braddell Medical Clinic),PH,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Toa Payoh,HeartlandHealth 19 (Kim Keat),Mon,7:00am - 11:00pm,,false
-Toa Payoh,HeartlandHealth 19 (Kim Keat),Tues,7:00am - 11:00pm,,false
-Toa Payoh,HeartlandHealth 19 (Kim Keat),Wed,7:00am - 11:00pm,,false
-Toa Payoh,HeartlandHealth 19 (Kim Keat),Thurs,7:00am - 11:00pm,,false
-Toa Payoh,HeartlandHealth 19 (Kim Keat),Fri,7:00am - 11:00pm,,false
+Toa Payoh,HeartlandHealth 19 (Kim Keat),Mon,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Toa Payoh,HeartlandHealth 19 (Kim Keat),Tues,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Toa Payoh,HeartlandHealth 19 (Kim Keat),Wed,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Toa Payoh,HeartlandHealth 19 (Kim Keat),Thurs,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
+Toa Payoh,HeartlandHealth 19 (Kim Keat),Fri,7:00am - 1:00pm | 2:00pm - 11:00pm,,false
 Toa Payoh,HeartlandHealth 19 (Kim Keat),Sat,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Toa Payoh,HeartlandHealth 19 (Kim Keat),Sun,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Toa Payoh,HeartlandHealth 19 (Kim Keat),PH,7:00am - 1:00pm | 6:00pm - 11:00pm,,false
@@ -3558,13 +3686,6 @@ Toa Payoh,HeartlandHealth 66 (Toa Payoh),Fri,8:00am - 1:00pm | 6:00pm - 11:00pm,
 Toa Payoh,HeartlandHealth 66 (Toa Payoh),Sat,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Toa Payoh,HeartlandHealth 66 (Toa Payoh),Sun,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
 Toa Payoh,HeartlandHealth 66 (Toa Payoh),PH,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Mon,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:00pm - 10:00pm | 1:00pm - 10:00pm,((WhatsApp Only) Sun:,false
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Tues,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:00pm - 10:00pm | 1:00pm - 10:00pm,((WhatsApp Only) Sun:,false
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Wed,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:00pm - 10:00pm | 1:00pm - 10:00pm,((WhatsApp Only) Sun:,false
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Thurs,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:00pm - 10:00pm | 1:00pm - 10:00pm,((WhatsApp Only) Sun:,false
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Fri,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:00pm - 10:00pm | 1:00pm - 10:00pm,((WhatsApp Only) Sun:,false
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Sat,8:30am - 1:00pm | 2:00pm - 5:30pm | 6:00pm - 10:00pm | 1:00pm - 10:00pm,((WhatsApp Only) Sun:,false
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),PH,,Closed,true
 Toa Payoh,Family Clinic 79D (Toa Payoh Central),Mon,8:30am - 2:00pm | 2:30pm - 4:30pm | 6:00pm - 10:00pm,,false
 Toa Payoh,Family Clinic 79D (Toa Payoh Central),Tues,8:30am - 2:00pm | 2:30pm - 4:30pm | 6:00pm - 10:00pm,,false
 Toa Payoh,Family Clinic 79D (Toa Payoh Central),Wed,8:30am - 2:00pm | 6:00pm - 10:00pm,,false
@@ -3684,14 +3805,22 @@ Woodlands,GoClinic Marsiling,Fri,8:00am - 3:00pm,,false
 Woodlands,GoClinic Marsiling,Sat,8:00am - 12:30pm,,false
 Woodlands,GoClinic Marsiling,Sun,,Closed,true
 Woodlands,GoClinic Marsiling,PH,,Closed,true
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Mon,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Tues,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm | 8:30am - 12:00pm | 1:00pm - 5:00pm,,false
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Wed,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Thurs,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm | 8:30am - 12:00pm | 1:00pm - 5:00pm,,false
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Fri,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm | 8:30am - 12:00pm | 1:00pm - 5:00pm,,false
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Sat,8:30am - 12:30pm,Closed,false
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Sun,8:30am - 12:30pm | 2:00pm - 5:00pm,,false
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,PH,8:30am - 12:30pm | 8:30am - 12:00pm | 1:00pm - 5:00pm | 6:00pm - 8:30pm,(To call clinic to confirm) 730131 Mon & Wed: | Closed,false
+Woodlands,Martin Medical Centre,Mon,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
+Woodlands,Martin Medical Centre,Tues,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
+Woodlands,Martin Medical Centre,Wed,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
+Woodlands,Martin Medical Centre,Thurs,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
+Woodlands,Martin Medical Centre,Fri,8:30am - 12:30pm | 2:00pm - 4:30pm | 7:00pm - 9:00pm,,false
+Woodlands,Martin Medical Centre,Sat,8:30am - 12:30pm,,false
+Woodlands,Martin Medical Centre,Sun,8:30am - 12:30pm,,false
+Woodlands,Martin Medical Centre,PH,8:30am - 12:30pm,(To call clinic to confirm),false
+Woodlands,Marsiling Clinic & Surgery,Mon,8:30am - 12:00pm | 1:00pm - 5:00pm | 6:00pm - 8:30pm,,false
+Woodlands,Marsiling Clinic & Surgery,Tues,8:30am - 12:00pm | 1:00pm - 5:00pm,,false
+Woodlands,Marsiling Clinic & Surgery,Wed,8:30am - 12:00pm | 1:00pm - 5:00pm | 6:00pm - 8:30pm,,false
+Woodlands,Marsiling Clinic & Surgery,Thurs,8:30am - 12:00pm | 1:00pm - 5:00pm,,false
+Woodlands,Marsiling Clinic & Surgery,Fri,8:30am - 12:00pm | 1:00pm - 5:00pm,,false
+Woodlands,Marsiling Clinic & Surgery,Sat,,Closed,true
+Woodlands,Marsiling Clinic & Surgery,Sun,2:00pm - 5:00pm,,false
+Woodlands,Marsiling Clinic & Surgery,PH,,Closed,true
 Woodlands,Family Clinic,Mon,8:00am - 1:00pm | 2:00pm - 4:30pm | 6:00pm - 9:30pm,,false
 Woodlands,Family Clinic,Tues,8:00am - 1:00pm | 2:00pm - 4:30pm | 6:00pm - 9:30pm,,false
 Woodlands,Family Clinic,Wed,8:00am - 1:00pm | 2:00pm - 4:30pm | 6:00pm - 9:30pm,,false
@@ -3739,6 +3868,14 @@ Woodlands,Norwood Medical Clinic,Thurs,8:00am - 1:00pm | 6:00pm - 7:30pm,& Fri:,
 Woodlands,Norwood Medical Clinic,Sat,8:00am - 1:00pm,,false
 Woodlands,Norwood Medical Clinic,Sun,9:00am - 1:00pm,,false
 Woodlands,Norwood Medical Clinic,PH,,Closed,true
+Woodlands,Parkway Shenton Medical Clinic (Woodlands MRT),Mon,8:30am - 5:30pm | 6:30pm - 9:00pm,,false
+Woodlands,Parkway Shenton Medical Clinic (Woodlands MRT),Tues,8:30am - 5:30pm,,false
+Woodlands,Parkway Shenton Medical Clinic (Woodlands MRT),Wed,8:30am - 5:30pm,,false
+Woodlands,Parkway Shenton Medical Clinic (Woodlands MRT),Thurs,8:30am - 5:30pm | 6:30pm - 9:00pm,,false
+Woodlands,Parkway Shenton Medical Clinic (Woodlands MRT),Fri,8:30am - 5:30pm,,false
+Woodlands,Parkway Shenton Medical Clinic (Woodlands MRT),Sat,8:30am - 12:30pm,,false
+Woodlands,Parkway Shenton Medical Clinic (Woodlands MRT),Sun,8:30am - 12:30pm,,false
+Woodlands,Parkway Shenton Medical Clinic (Woodlands MRT),PH,,Closed,true
 Woodlands,Royal Medical Centre,Mon,8:30am - 1:00pm | 2:00pm - 4:00pm | 6:30pm - 9:00pm,,false
 Woodlands,Royal Medical Centre,Tues,8:30am - 1:00pm | 2:00pm - 4:00pm | 6:30pm - 9:00pm,,false
 Woodlands,Royal Medical Centre,Wed,8:30am - 1:00pm | 2:00pm - 4:00pm | 6:30pm - 9:00pm,,false
@@ -3761,13 +3898,13 @@ Woodlands,Victoria Medical House,Thurs,9:00am - 12:00pm | 6:30pm - 8:30pm,,false
 Woodlands,Victoria Medical House,Fri,9:00am - 12:00pm,,false
 Woodlands,Victoria Medical House,Sun,,Closed,true
 Woodlands,Victoria Medical House,PH,,Closed,true
-Woodlands,Virtue Family Clinic (Woodlands),Mon,8:30am - 2:00pm | 5:00pm - 8:30pm,,false
-Woodlands,Virtue Family Clinic (Woodlands),Tues,8:30am - 2:00pm | 5:00pm - 8:30pm,,false
-Woodlands,Virtue Family Clinic (Woodlands),Wed,8:30am - 2:00pm | 5:00pm - 8:30pm,,false
-Woodlands,Virtue Family Clinic (Woodlands),Thurs,8:30am - 2:00pm | 5:00pm - 8:30pm,,false
-Woodlands,Virtue Family Clinic (Woodlands),Fri,8:30am - 2:00pm | 5:00pm - 8:30pm,,false
-Woodlands,Virtue Family Clinic (Woodlands),Sat,8:30am - 1:00pm,,false
-Woodlands,Virtue Family Clinic (Woodlands),Sun,8:30am - 2:00pm | 5:00pm - 8:30pm,,false
+Woodlands,Virtue Family Clinic (Woodlands),Mon,8:00am - 3:00pm | 4:00pm - 9:00pm,,false
+Woodlands,Virtue Family Clinic (Woodlands),Tues,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Woodlands,Virtue Family Clinic (Woodlands),Wed,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Woodlands,Virtue Family Clinic (Woodlands),Thurs,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Woodlands,Virtue Family Clinic (Woodlands),Fri,8:00am - 3:00pm | 5:00pm - 9:00pm,,false
+Woodlands,Virtue Family Clinic (Woodlands),Sat,8:00am - 1:00pm,,false
+Woodlands,Virtue Family Clinic (Woodlands),Sun,8:00am - 1:00pm,,false
 Woodlands,Virtue Family Clinic (Woodlands),PH,,Closed,true
 Woodlands,Woodlands Medical Center,Mon,2:00pm - 4:30pm | 6:00pm - 8:30pm,,false
 Woodlands,Woodlands Medical Center,Tues,2:00pm - 4:30pm | 6:00pm - 8:30pm,,false
@@ -3785,14 +3922,14 @@ Woodlands,Medical Centre (Admiralty MRT),Fri,8:30am - 1:00pm,,false
 Woodlands,Medical Centre (Admiralty MRT),Sat,8:30am - 1:00pm,,false
 Woodlands,Medical Centre (Admiralty MRT),Sun,,Closed,true
 Woodlands,Medical Centre (Admiralty MRT),PH,,Closed,true
-Woodlands,Medical Clinic (Woodlands),Mon,8:00am - 1:00pm | 5:00pm - 9:00pm,,false
-Woodlands,Medical Clinic (Woodlands),Tues,8:00am - 1:00pm | 5:00pm - 9:00pm,,false
-Woodlands,Medical Clinic (Woodlands),Wed,8:00am - 1:00pm | 5:00pm - 9:00pm,,false
-Woodlands,Medical Clinic (Woodlands),Thurs,8:00am - 1:00pm | 5:00pm - 9:00pm,,false
+Woodlands,Medical Clinic (Woodlands),Mon,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
+Woodlands,Medical Clinic (Woodlands),Tues,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
+Woodlands,Medical Clinic (Woodlands),Wed,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
+Woodlands,Medical Clinic (Woodlands),Thurs,8:00am - 1:00pm | 6:00pm - 9:00pm,,false
 Woodlands,Medical Clinic (Woodlands),Fri,8:00am - 1:00pm,,false
 Woodlands,Medical Clinic (Woodlands),Sat,8:00am - 1:00pm,,false
-Woodlands,Medical Clinic (Woodlands),Sun,8:00am - 1:00pm,,false
-Woodlands,Medical Clinic (Woodlands),PH,8:00am - 1:00pm,,false
+Woodlands,Medical Clinic (Woodlands),Sun,9:00am - 12:00pm,,false
+Woodlands,Medical Clinic (Woodlands),PH,9:00am - 12:00pm,,false
 Yishun,Apex Medical 844 Group (Yishun),Mon,8:30am - 12:30pm | 2:30pm - 4:00pm | 7:00pm - 9:00pm,& Fri:,false
 Yishun,Apex Medical 844 Group (Yishun),Tues,8:30am - 12:30pm | 2:30pm - 4:00pm,,false
 Yishun,Apex Medical 844 Group (Yishun),Wed,8:30am - 12:30pm | 2:30pm - 4:00pm | 7:00pm - 9:00pm,& Fri:,false
@@ -3832,14 +3969,14 @@ Yishun,GoClinic Yishun 769,Fri,8:00am - 2:00pm | 6:00pm - 9:00pm,,false
 Yishun,GoClinic Yishun 769,Sat,8:00am - 1:00pm,,false
 Yishun,GoClinic Yishun 769,Sun,,Closed,true
 Yishun,GoClinic Yishun 769,PH,,Closed,true
-Yishun,Healthway 101 Medical (Yishun Ave 5),Mon,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
-Yishun,Healthway 101 Medical (Yishun Ave 5),Tues,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
-Yishun,Healthway 101 Medical (Yishun Ave 5),Wed,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
-Yishun,Healthway 101 Medical (Yishun Ave 5),Thurs,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
-Yishun,Healthway 101 Medical (Yishun Ave 5),Fri,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
-Yishun,Healthway 101 Medical (Yishun Ave 5),Sat,8:30am - 1:00pm,,false
-Yishun,Healthway 101 Medical (Yishun Ave 5),Sun,9:00am - 12:00pm,,false
-Yishun,Healthway 101 Medical (Yishun Ave 5),PH,9:00am - 12:00pm,,false
+Yishun,101 Healthway Medical (Yishun Ave 5),Mon,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Yishun,101 Healthway Medical (Yishun Ave 5),Tues,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
+Yishun,101 Healthway Medical (Yishun Ave 5),Wed,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
+Yishun,101 Healthway Medical (Yishun Ave 5),Thurs,8:30am - 1:00pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
+Yishun,101 Healthway Medical (Yishun Ave 5),Fri,8:30am - 1:00pm | 2:00pm - 5:00pm,,false
+Yishun,101 Healthway Medical (Yishun Ave 5),Sat,8:30am - 1:00pm,,false
+Yishun,101 Healthway Medical (Yishun Ave 5),Sun,9:00am - 12:00pm,,false
+Yishun,101 Healthway Medical (Yishun Ave 5),PH,9:00am - 12:00pm,,false
 Yishun,Healthway 417 Medical (Yishun Ave 11),Mon,8:30am - 12:30pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
 Yishun,Healthway 417 Medical (Yishun Ave 11),Tues,8:30am - 12:30pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
 Yishun,Healthway 417 Medical (Yishun Ave 11),Wed,8:30am - 12:30pm | 2:00pm - 5:00pm | 6:00pm - 9:00pm,,false
@@ -3856,21 +3993,21 @@ Yishun,Heartland Family 333C Clinic,Fri,8:00am - 12:30pm,,false
 Yishun,Heartland Family 333C Clinic,Sat,8:30am - 12:00pm,,false
 Yishun,Heartland Family 333C Clinic,Sun,8:30am - 12:00pm,,false
 Yishun,Heartland Family 333C Clinic,PH,,Closed,true
-Yishun,HeartlandHealth 18 (Yishun),Mon,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Yishun,HeartlandHealth 18 (Yishun),Tues,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Yishun,HeartlandHealth 18 (Yishun),Wed,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Yishun,HeartlandHealth 18 (Yishun),Thurs,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Yishun,HeartlandHealth 18 (Yishun),Fri,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Yishun,HeartlandHealth 18 (Yishun),Sat,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Yishun,HeartlandHealth 18 (Yishun),Sun,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Yishun,HeartlandHealth 18 (Yishun),PH,8:00am - 1:00pm | 6:00pm - 11:00pm,,false
-Yishun,Intemedical 419 Yishun,Mon,8:00am - 10:00pm,,false
-Yishun,Intemedical 419 Yishun,Tues,8:00am - 10:00pm,,false
-Yishun,Intemedical 419 Yishun,Wed,8:00am - 10:00pm,,false
-Yishun,Intemedical 419 Yishun,Thurs,8:00am - 10:00pm,,false
-Yishun,Intemedical 419 Yishun,Fri,8:00am - 10:00pm,,false
-Yishun,Intemedical 419 Yishun,Sat,8:00am - 10:00pm,,false
-Yishun,Intemedical 419 Yishun,Sun,8:00am - 10:00pm,,false
+Yishun,HeartlandHealth 18 (Yishun),Mon,7:00am - 1:00pm | 5:00pm - 10:00pm,,false
+Yishun,HeartlandHealth 18 (Yishun),Tues,7:00am - 1:00pm | 5:00pm - 10:00pm,,false
+Yishun,HeartlandHealth 18 (Yishun),Wed,7:00am - 1:00pm | 5:00pm - 10:00pm,,false
+Yishun,HeartlandHealth 18 (Yishun),Thurs,7:00am - 1:00pm | 5:00pm - 10:00pm,,false
+Yishun,HeartlandHealth 18 (Yishun),Fri,7:00am - 1:00pm | 5:00pm - 10:00pm,,false
+Yishun,HeartlandHealth 18 (Yishun),Sat,7:00am - 1:00pm | 5:00pm - 10:00pm,,false
+Yishun,HeartlandHealth 18 (Yishun),Sun,7:00am - 1:00pm | 5:00pm - 10:00pm,,false
+Yishun,HeartlandHealth 18 (Yishun),PH,7:00am - 1:00pm | 5:00pm - 10:00pm,,false
+Yishun,Intemedical 419 Yishun,Mon,8:00am - 10:00pm | 8:00am - 10:00pm,(WhatsApp Only) PH:,false
+Yishun,Intemedical 419 Yishun,Tues,8:00am - 10:00pm | 8:00am - 10:00pm,(WhatsApp Only) PH:,false
+Yishun,Intemedical 419 Yishun,Wed,8:00am - 10:00pm | 8:00am - 10:00pm,(WhatsApp Only) PH:,false
+Yishun,Intemedical 419 Yishun,Thurs,8:00am - 10:00pm | 8:00am - 10:00pm,(WhatsApp Only) PH:,false
+Yishun,Intemedical 419 Yishun,Fri,8:00am - 10:00pm | 8:00am - 10:00pm,(WhatsApp Only) PH:,false
+Yishun,Intemedical 419 Yishun,Sat,8:00am - 10:00pm | 8:00am - 10:00pm,(WhatsApp Only) PH:,false
+Yishun,Intemedical 419 Yishun,Sun,8:00am - 10:00pm | 8:00am - 10:00pm,(WhatsApp Only) PH:,false
 Yishun,Clinic and 844 Surgery #,Mon,8:00am - 5:00pm,,false
 Yishun,Clinic and 844 Surgery #,Tues,8:00am - 5:00pm,,false
 Yishun,Clinic and 844 Surgery #,Wed,8:00am - 4:00pm,,false
@@ -3995,6 +4132,9 @@ Yishun,Psalms Family 293 Clinic,Fri,8:30am - 1:00pm | 2:00pm - 4:00pm,,false
 Yishun,Psalms Family 293 Clinic,Sat,8:30am - 12:00pm,,false
 Yishun,Psalms Family 293 Clinic,Sun,,Closed,true
 Yishun,Psalms Family 293 Clinic,PH,,Closed,true
+Yishun,Purecare Medical 418 Clinic,Sat,8:30am - 2:30pm,,false
+Yishun,Purecare Medical 418 Clinic,Sun,8:30am - 2:30pm | 6:00pm - 9:00pm,,false
+Yishun,Purecare Medical 418 Clinic,PH,,Closed,true
 Yishun,Silver Cross 846 Family Clinic (Yishun),Mon,8:00am - 5:00pm | 6:00pm - 9:00pm,,false
 Yishun,Silver Cross 846 Family Clinic (Yishun),Tues,8:00am - 5:00pm | 6:00pm - 9:00pm,,false
 Yishun,Silver Cross 846 Family Clinic (Yishun),Wed,8:00am - 5:00pm | 6:00pm - 9:00pm,,false
