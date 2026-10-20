@@ -6,7 +6,7 @@
 // environment variables:
 //   NOUS_PORTAL_API_KEY  (required for LLM answers; without it, a
 //                         deterministic fallback answer is returned)
-//   NOUS_MODEL           (optional; default stepfun/step-3.7-flash —
+//   NOUS_MODEL           (optional; default stepfun/step-3.7-flash:free —
 //                         free-model slugs rotate, copy the exact slug from
 //                         portal.nousresearch.com/info)
 import {
@@ -15,7 +15,7 @@ import {
 } from "../_lib/clinics.js";
 
 const NOUS_URL = "https://inference-api.nousresearch.com/v1/chat/completions";
-const DEFAULT_MODEL = "stepfun/step-3.7-flash";
+const DEFAULT_MODEL = "stepfun/step-3.7-flash:free";
 const MAX_RESULTS = 8;
 
 function parseQuestion(message, clinics) {

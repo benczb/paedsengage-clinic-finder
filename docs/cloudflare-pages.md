@@ -38,7 +38,7 @@ set these in the Pages project's production environment:
 
 ```text
 NOUS_PORTAL_API_KEY=<key from portal.nousresearch.com API Keys page>
-NOUS_MODEL=stepfun/step-3.7-flash   # optional; free-model slugs rotate —
+NOUS_MODEL=stepfun/step-3.7-flash:free   # optional; free-model slugs rotate —
                                     # copy the exact slug from
                                     # https://portal.nousresearch.com/info
 ```
