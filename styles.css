@@ -458,6 +458,19 @@ button {
 }
 .area-link:hover { border-color: var(--brand); color: var(--brand); }
 .area-link span { color: var(--muted); font-weight: 600; }
+/* Footer social buttons (ported from procss.online) */
+.footer-socials { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.footer-socials .social-icon {
+  width: 38px; height: 38px; display: inline-flex; align-items: center; justify-content: center;
+  border: 1px solid var(--line); border-radius: 50%; color: var(--muted); background: #fff;
+  text-decoration: none; transition: color .2s ease, border-color .2s ease, transform .2s ease;
+}
+.footer-socials .social-icon:hover { border-color: currentColor; transform: translateY(-2px); }
+.footer-socials .social-icon:focus-visible { outline: 3px solid var(--brand); outline-offset: 3px; }
+.footer-socials .social-icon svg { width: 20px; height: 20px; fill: currentColor; }
+.footer-socials .social-icon--youspot img,
+.footer-socials .social-icon--coffee img { width: 22px; height: 22px; border-radius: 50%; object-fit: cover; }
+
 .faq-item { border-top: 1px solid var(--line); padding: 16px 0; }
 .faq-item:first-of-type { border-top: 0; }
 .faq-item summary {

@@ -5,7 +5,7 @@ DIST="$ROOT/dist"
 rm -rf "$DIST"
 mkdir -p "$DIST/data"
 cp "$ROOT/index.html" "$ROOT/app.js" "$ROOT/chat.js" "$ROOT/styles.css" "$DIST/"
-cp "$ROOT/robots.txt" "$ROOT/sitemap.xml" "$ROOT/favicon.svg" "$ROOT/og-image.png" "$DIST/"
+cp "$ROOT/robots.txt" "$ROOT/sitemap.xml" "$ROOT/favicon.svg" "$ROOT/og-image.png" "$ROOT/youspot-icon.png" "$ROOT/buymeacoffee-icon.webp" "$DIST/"
 cp "$ROOT/data/clinics.json" "$DIST/data/clinics.json"
 # Bot pack: machine-readable datasets, LLM index files, API spec + Functions.
 # GeoJSON / llms-full.txt are produced by scripts/enrich_clinics.py and
