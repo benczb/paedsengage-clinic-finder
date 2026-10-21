@@ -347,9 +347,9 @@ button {
 }
 .site-footer {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 20px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
   padding: 24px;
   color: var(--muted);
 }
@@ -466,6 +466,7 @@ button {
   text-decoration: none; transition: color .2s ease, border-color .2s ease, transform .2s ease;
 }
 .footer-socials .social-icon:hover { border-color: currentColor; transform: translateY(-2px); }
+.site-footer .footer-socials .social-icon:hover { text-decoration: none; }
 .footer-socials .social-icon:focus-visible { outline: 3px solid var(--brand); outline-offset: 3px; }
 .footer-socials .social-icon svg { width: 20px; height: 20px; fill: currentColor; }
 .footer-socials .social-icon--youspot img,
@@ -487,6 +488,15 @@ button {
 .faq-item summary:hover { color: var(--brand); }
 .faq-item summary:focus-visible { outline: 2px solid var(--brand); outline-offset: 3px; border-radius: 4px; }
 .faq-item p { margin: 8px 0 0; color: var(--muted); line-height: 1.65; }
+@keyframes faq-flow {
+  from { opacity: 0; transform: translateY(-6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.faq-item[open ] p { animation: faq-flow 0.35s ease both; }
+@media (prefers-reduced-motion: reduce) {
+  .faq-item[open ] p { animation: none; }
+  .faq-item summary::after { transition: none; }
+}
 
 @media (max-width: 900px) {
   .area-grid { grid-template-columns: 1fr 1fr; }
