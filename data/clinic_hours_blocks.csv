@@ -155,6 +155,17 @@ Ang Mo Kio,Summit Medical Clinic,Thurs,13:30,15:30,810,930,False,1:30pm - 3:30pm
 Ang Mo Kio,Summit Medical Clinic,Fri,08:30,12:30,510,750,False,8:30am - 12:30pm
 Ang Mo Kio,Summit Medical Clinic,Fri,13:30,15:30,810,930,False,1:30pm - 3:30pm
 Ang Mo Kio,Summit Medical Clinic,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Tues,08:30,12:30,510,750,False,8:30am - 12:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Tues,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Wed,08:30,12:30,510,750,False,8:30am - 12:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Wed,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Thurs,08:30,12:30,510,750,False,8:30am - 12:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Thurs,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Fri,08:30,12:30,510,750,False,8:30am - 12:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Ang Mo Kio,Teck Ghee Clinic (Dr Tan Yang Khai) Pte Ltd,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
 Ang Mo Kio,Trust Health Medical,Mon,09:00,12:30,540,750,False,9:00am - 12:30pm
 Ang Mo Kio,Trust Health Medical,Mon,13:30,16:30,810,990,False,1:30pm - 4:30pm
 Ang Mo Kio,Trust Health Medical,Tues,09:00,12:30,540,750,False,9:00am - 12:30pm
@@ -166,6 +177,19 @@ Ang Mo Kio,Trust Health Medical,Thurs,13:30,16:30,810,990,False,1:30pm - 4:30pm
 Ang Mo Kio,Trust Health Medical,Fri,09:00,12:30,540,750,False,9:00am - 12:30pm
 Ang Mo Kio,Trust Health Medical,Fri,13:30,16:30,810,990,False,1:30pm - 4:30pm
 Ang Mo Kio,Trust Health Medical,Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Tues,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Wed,08:00,13:00,480,780,False,8:00am - 1:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Thurs,08:00,13:00,480,780,False,8:00am - 1:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Ang Mo Kio,Trucare Medical and Surgery (Ang Mo Kio),Sat,08:00,13:00,480,780,False,8:00am - 1:00pm
 Ang Mo Kio,Vital-Care Clinic & Surgery Pte Ltd,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
 Ang Mo Kio,Vital-Care Clinic & Surgery Pte Ltd,Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Ang Mo Kio,Vital-Care Clinic & Surgery Pte Ltd,Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
@@ -279,6 +303,22 @@ Balestier,Plushealth Medical Clinic & Surgery,Fri,08:30,12:30,510,750,False,8:30
 Balestier,Plushealth Medical Clinic & Surgery,Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
 Balestier,Plushealth Medical Clinic & Surgery,Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
 Balestier,Plushealth Medical Clinic & Surgery,Sun,09:00,13:00,540,780,False,9:00am - 1:00pm
+Bedok,1 Health,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
+Bedok,1 Health,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Bedok,1 Health,Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
+Bedok,1 Health,Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Bedok,1 Health,Wed,08:00,13:00,480,780,False,8:00am - 1:00pm
+Bedok,1 Health,Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Bedok,1 Health,Thurs,08:00,13:00,480,780,False,8:00am - 1:00pm
+Bedok,1 Health,Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Bedok,1 Health,Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
+Bedok,1 Health,Fri,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Bedok,1 Health,Sat,08:00,13:00,480,780,False,8:00am - 1:00pm
+Bedok,1 Health,Sat,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Bedok,1 Health,Sun,08:00,13:00,480,780,False,8:00am - 1:00pm
+Bedok,1 Health,Sun,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Bedok,1 Health,PH,08:00,13:00,480,780,False,8:00am - 1:00pm
+Bedok,1 Health,PH,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Bedok,A1 Medical Clinic,Mon,09:00,13:00,540,780,False,9:00am - 1:00pm
 Bedok,A1 Medical Clinic,Tues,09:00,13:00,540,780,False,9:00am - 1:00pm
 Bedok,A1 Medical Clinic,Wed,09:00,13:00,540,780,False,9:00am - 1:00pm
@@ -329,23 +369,23 @@ Bedok,Bok Family Clinic Pte Ltd,Fri,09:00,12:30,540,750,False,9:00am - 12:30pm
 Bedok,Bok Family Clinic Pte Ltd,Fri,15:00,16:30,900,990,False,3:00pm - 4:30pm
 Bedok,Bok Family Clinic Pte Ltd,Sat,09:00,12:30,540,750,False,9:00am - 12:30pm
 Bedok,Bok Family Clinic Pte Ltd,Sun,09:00,12:30,540,750,False,9:00am - 12:30pm
-Bedok,Carelite Medical Clinic,Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
-Bedok,Carelite Medical Clinic,Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Bedok,Carelite Medical Clinic,Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
-Bedok,Carelite Medical Clinic,Tues,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Bedok,Carelite Medical Clinic,Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
-Bedok,Carelite Medical Clinic,Wed,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Bedok,Carelite Medical Clinic,Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
-Bedok,Carelite Medical Clinic,Thurs,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Bedok,Carelite Medical Clinic,Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
-Bedok,Carelite Medical Clinic,Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Bedok,Carelite Medical Clinic,Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
-Bedok,Clinic@Costa,Mon,08:30,14:30,510,870,False,8:30am - 2:30pm
-Bedok,Clinic@Costa,Tues,08:30,14:30,510,870,False,8:30am - 2:30pm
-Bedok,Clinic@Costa,Wed,08:30,14:30,510,870,False,8:30am - 2:30pm
-Bedok,Clinic@Costa,Thurs,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
-Bedok,Clinic@Costa,Fri,08:30,14:30,510,870,False,8:30am - 2:30pm
-Bedok,Clinic@Costa,Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Mon,08:30,14:30,510,870,False,8:30am - 2:30pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Tues,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Tues,08:30,14:30,510,870,False,8:30am - 2:30pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Wed,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Wed,08:30,14:30,510,870,False,8:30am - 2:30pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Thurs,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Thurs,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Fri,08:30,14:30,510,870,False,8:30am - 2:30pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
+Bedok,Carelite Medical Clinic Clinic@Costa,Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
 Bedok,Eastern Medical Centre,Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
 Bedok,Eastern Medical Centre,Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
 Bedok,Eastern Medical Centre,Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
@@ -378,6 +418,13 @@ Bedok,Famicare Bedok Clinic,Thurs,10:00,14:00,600,840,False,10:00am - 2:00pm
 Bedok,Famicare Bedok Clinic,Fri,11:00,19:30,660,1170,False,11:00am - 7:30pm
 Bedok,Famicare Bedok Clinic,Fri,10:00,16:30,600,990,False,10:00am - 4:30pm
 Bedok,Famicare Bedok Clinic,Fri,10:00,14:00,600,840,False,10:00am - 2:00pm
+Bedok,Frontier People’s Clinic,Mon,08:30,16:30,510,990,False,8:30am - 4:30pm
+Bedok,Frontier People’s Clinic,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Bedok,Frontier People’s Clinic,Mon,08:30,16:30,510,990,False,8:30am - 4:30pm
+Bedok,Frontier People’s Clinic,Wed,08:30,12:30,510,750,False,8:30am - 12:30pm
+Bedok,Frontier People’s Clinic,Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Bedok,Frontier People’s Clinic,Fri,08:30,12:30,510,750,False,8:30am - 12:30pm
+Bedok,Frontier People’s Clinic,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
 Bedok,Gryphon Medical Clinic,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
 Bedok,Gryphon Medical Clinic,Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Bedok,Gryphon Medical Clinic,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
@@ -915,12 +962,8 @@ Boon Lay,OneCare Clinic (Boon Lay),Sat,08:00,16:00,480,960,False,8:00am - 4:00pm
 Boon Lay,OneCare Clinic (Boon Lay),Sat,17:00,22:00,1020,1320,False,5:00pm - 10:00pm
 Boon Lay,OneCare Clinic (Boon Lay),Sun,08:00,16:00,480,960,False,8:00am - 4:00pm
 Boon Lay,OneCare Clinic (Boon Lay),Sun,17:00,22:00,1020,1320,False,5:00pm - 10:00pm
-Boon Lay,Our Jurong West,Mon,08:00,13:30,480,810,False,8:00am - 1:30pm
-Boon Lay,Our Jurong West,Tues,08:00,13:30,480,810,False,8:00am - 1:30pm
-Boon Lay,Our Jurong West,Wed,08:00,13:30,480,810,False,8:00am - 1:30pm
-Boon Lay,Our Jurong West,Thurs,08:00,13:30,480,810,False,8:00am - 1:30pm
-Boon Lay,Family Clinic,Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
-Boon Lay,Family Clinic,Sun,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Boon Lay,Our Jurong West Family Clinic,Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
+Boon Lay,Our Jurong West Family Clinic,Sun,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Boon Lay,Raffles Medical Nanyang Technological University,Mon,08:30,21:00,510,1260,False,8:30am - 9:00pm
 Boon Lay,Raffles Medical Nanyang Technological University,Tues,08:30,21:00,510,1260,False,8:30am - 9:00pm
 Boon Lay,Raffles Medical Nanyang Technological University,Wed,08:30,21:00,510,1260,False,8:30am - 9:00pm
@@ -1408,6 +1451,17 @@ Bukit Panjang,Sunbeam Medical Clinic,Fri,08:30,14:00,510,840,False,8:30am - 2:00
 Bukit Panjang,Sunbeam Medical Clinic,Fri,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
 Bukit Panjang,Sunbeam Medical Clinic,Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
 Bukit Panjang,Sunbeam Medical Clinic,Sun,08:30,13:00,510,780,False,8:30am - 1:00pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Tues,08:30,12:30,510,750,False,8:30am - 12:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Tues,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Wed,08:30,12:30,510,750,False,8:30am - 12:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Wed,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Thurs,08:30,12:30,510,750,False,8:30am - 12:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Thurs,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Fri,08:30,12:30,510,750,False,8:30am - 12:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Bukit Timah,Bukit Timah Family Clinic & Surgery,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
 Bukit Timah,Chang Clinic,Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
 Bukit Timah,Chang Clinic,Tues,08:30,12:30,510,750,False,8:30am - 12:30pm
 Bukit Timah,Chang Clinic,Wed,08:30,12:30,510,750,False,8:30am - 12:30pm
@@ -1450,12 +1504,22 @@ Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Thurs,14:30,20:30,870,1230
 Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
 Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Fri,14:30,20:30,870,1230,False,2:30pm - 8:30pm
 Bukit Timah,Oaklife Family Clinic (Upper Bukit Timah),Sun,17:00,20:30,1020,1230,False,5:00pm - 8:30pm
-Bukit Timah,Our Bukit Timah,Mon,09:00,15:00,540,900,False,9:00am - 3:00pm
-Bukit Timah,Our Bukit Timah,Tues,09:00,15:00,540,900,False,9:00am - 3:00pm
-Bukit Timah,Our Bukit Timah,Wed,09:00,15:00,540,900,False,9:00am - 3:00pm
-Bukit Timah,Our Bukit Timah,Thurs,09:00,15:00,540,900,False,9:00am - 3:00pm
-Bukit Timah,Our Bukit Timah,Fri,09:00,15:00,540,900,False,9:00am - 3:00pm
-Bukit Timah,Family Clinic,Sun,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Mon,09:00,15:00,540,900,False,9:00am - 3:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Mon,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Mon,09:00,13:30,540,810,False,9:00am - 1:30pm
+Bukit Timah,Our Bukit Timah Family Clinic,Tues,09:00,15:00,540,900,False,9:00am - 3:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Tues,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Tues,09:00,13:30,540,810,False,9:00am - 1:30pm
+Bukit Timah,Our Bukit Timah Family Clinic,Wed,09:00,15:00,540,900,False,9:00am - 3:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Wed,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Wed,09:00,13:30,540,810,False,9:00am - 1:30pm
+Bukit Timah,Our Bukit Timah Family Clinic,Thurs,09:00,15:00,540,900,False,9:00am - 3:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Thurs,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Thurs,09:00,13:30,540,810,False,9:00am - 1:30pm
+Bukit Timah,Our Bukit Timah Family Clinic,Fri,09:00,15:00,540,900,False,9:00am - 3:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Fri,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Bukit Timah,Our Bukit Timah Family Clinic,Fri,09:00,13:30,540,810,False,9:00am - 1:30pm
+Bukit Timah,Our Bukit Timah Family Clinic,Sun,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
 Bukit Timah,Parkway Shenton Medical Group (Toh Yi),Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
 Bukit Timah,Parkway Shenton Medical Group (Toh Yi),Mon,14:00,17:30,840,1050,False,2:00pm - 5:30pm
 Bukit Timah,Parkway Shenton Medical Group (Toh Yi),Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
@@ -1565,15 +1629,21 @@ Chinatown,Huan Clinic,Fri,14:00,15:00,840,900,False,2:00pm - 3:00pm
 Chinatown,Huan Clinic,Sat,09:00,11:30,540,690,False,9:00am - 11:30am
 Chinatown,Chinatown Wellness Clinic,Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
 Chinatown,Chinatown Wellness Clinic,Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Chinatown,Chinatown Wellness Clinic,Mon,07:30,18:00,450,1080,False,7:30am - 6:00pm
 Chinatown,Chinatown Wellness Clinic,Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
 Chinatown,Chinatown Wellness Clinic,Tues,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Chinatown,Chinatown Wellness Clinic,Tues,07:30,18:00,450,1080,False,7:30am - 6:00pm
 Chinatown,Chinatown Wellness Clinic,Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
 Chinatown,Chinatown Wellness Clinic,Wed,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Chinatown,Chinatown Wellness Clinic,Wed,07:30,18:00,450,1080,False,7:30am - 6:00pm
 Chinatown,Chinatown Wellness Clinic,Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
 Chinatown,Chinatown Wellness Clinic,Thurs,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Chinatown,Chinatown Wellness Clinic,Thurs,07:30,18:00,450,1080,False,7:30am - 6:00pm
 Chinatown,Chinatown Wellness Clinic,Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
 Chinatown,Chinatown Wellness Clinic,Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Chinatown,Chinatown Wellness Clinic,Fri,07:30,18:00,450,1080,False,7:30am - 6:00pm
 Chinatown,Chinatown Wellness Clinic,Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
+Chinatown,Mediway Medical Centre,Sat,07:30,13:00,450,780,False,7:30am - 1:00pm
 Choa Chu Kang,A1 Medical Teck Whye,Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
 Choa Chu Kang,A1 Medical Teck Whye,Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Choa Chu Kang,A1 Medical Teck Whye,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
@@ -1667,23 +1737,6 @@ Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Fri,08:00,15:00,480,900,False,8:00a
 Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Fri,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Sat,08:00,12:00,480,720,False,8:00am - 12:00pm
 Choa Chu Kang,OneCare Clinic (Keat Hong LRT),Sun,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Mon,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Mon,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Tues,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Tues,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Wed,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Wed,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Thurs,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Thurs,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Fri,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Fri,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
-Choa Chu Kang,Raffles Medical (Yew Tee Point),Sun,08:30,13:00,510,780,False,8:30am - 1:00pm
 Choa Chu Kang,The Edinburgh Clinic,Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
 Choa Chu Kang,The Edinburgh Clinic,Mon,14:00,16:00,840,960,False,2:00pm - 4:00pm
 Choa Chu Kang,The Edinburgh Clinic,Mon,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
@@ -1713,6 +1766,12 @@ City Hall,Peninsula Medical Centre,Fri,11:00,19:00,660,1140,False,11:00am - 7:00
 City Hall,Peninsula Medical Centre,Sat,11:00,17:00,660,1020,False,11:00am - 5:00pm
 City Hall,Peninsula Medical Centre,Sun,11:00,17:00,660,1020,False,11:00am - 5:00pm
 City Hall,Peninsula Medical Centre,PH,11:00,17:00,660,1020,False,11:00am - 5:00pm
+Clementi,Bethesda Medical @ Margaret,Mon,08:30,17:30,510,1050,False,8:30am - 5:30pm
+Clementi,Bethesda Medical @ Margaret,Tues,08:30,17:30,510,1050,False,8:30am - 5:30pm
+Clementi,Bethesda Medical @ Margaret,Wed,08:30,17:30,510,1050,False,8:30am - 5:30pm
+Clementi,Bethesda Medical @ Margaret,Thurs,08:30,17:30,510,1050,False,8:30am - 5:30pm
+Clementi,Bethesda Medical @ Margaret,Fri,08:30,17:30,510,1050,False,8:30am - 5:30pm
+Clementi,Bethesda Medical @ Margaret,Sat,09:00,12:00,540,720,False,9:00am - 12:00pm
 Clementi,Claremont Medical Clinic,Mon,08:30,20:30,510,1230,False,8:30am - 8:30pm
 Clementi,Claremont Medical Clinic,Tues,08:30,20:30,510,1230,False,8:30am - 8:30pm
 Clementi,Claremont Medical Clinic,Wed,08:30,17:30,510,1050,False,8:30am - 5:30pm
@@ -1873,26 +1932,6 @@ Clementi,Pinnacle Family Clinic (Clementi),Thurs,18:00,21:00,1080,1260,False,6:0
 Clementi,Pinnacle Family Clinic (Clementi),Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
 Clementi,Pinnacle Family Clinic (Clementi),Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Clementi,Pinnacle Family Clinic (Clementi),Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
-Clementi,Raffles Medical (Clementi),Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
-Clementi,Raffles Medical (Clementi),Mon,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Clementi,Raffles Medical (Clementi),Mon,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Clementi,Raffles Medical (Clementi),Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
-Clementi,Raffles Medical (Clementi),Tues,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Clementi,Raffles Medical (Clementi),Tues,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Clementi,Raffles Medical (Clementi),Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
-Clementi,Raffles Medical (Clementi),Wed,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Clementi,Raffles Medical (Clementi),Wed,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Clementi,Raffles Medical (Clementi),Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
-Clementi,Raffles Medical (Clementi),Thurs,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Clementi,Raffles Medical (Clementi),Thurs,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Clementi,Raffles Medical (Clementi),Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
-Clementi,Raffles Medical (Clementi),Fri,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Clementi,Raffles Medical (Clementi),Fri,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Clementi,Raffles Medical (Clementi),Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
-Clementi,Raffles Medical (Clementi),Sat,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Clementi,Raffles Medical (Clementi),Sat,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Clementi,Raffles Medical (Clementi),Sun,08:30,13:00,510,780,False,8:30am - 1:00pm
-Clementi,Raffles Medical (Clementi),PH,08:30,13:00,510,780,False,8:30am - 1:00pm
 Clementi,The Dublin Clinic,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
 Clementi,The Dublin Clinic,Mon,17:00,20:00,1020,1200,False,5:00pm - 8:00pm
 Clementi,The Dublin Clinic,Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
@@ -1904,6 +1943,27 @@ Clementi,The Dublin Clinic,Thurs,17:00,20:00,1020,1200,False,5:00pm - 8:00pm
 Clementi,The Dublin Clinic,Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
 Clementi,The Dublin Clinic,Sat,10:00,13:00,600,780,False,10:00am - 1:00pm
 Clementi,The Dublin Clinic,Sun,17:00,20:00,1020,1200,False,5:00pm - 8:00pm
+Clementi,The Local Doctor Clinic Clementi,Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
+Clementi,The Local Doctor Clinic Clementi,Mon,14:00,16:00,840,960,False,2:00pm - 4:00pm
+Clementi,The Local Doctor Clinic Clementi,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Clementi,The Local Doctor Clinic Clementi,Tues,08:30,13:30,510,810,False,8:30am - 1:30pm
+Clementi,The Local Doctor Clinic Clementi,Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Clementi,The Local Doctor Clinic Clementi,Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
+Clementi,The Local Doctor Clinic Clementi,Wed,14:00,16:00,840,960,False,2:00pm - 4:00pm
+Clementi,The Local Doctor Clinic Clementi,Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Clementi,The Local Doctor Clinic Clementi,Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
+Clementi,The Local Doctor Clinic Clementi,Thurs,18:00,20:30,1080,1230,False,6:00pm - 8:30pm
+Clementi,The Local Doctor Clinic Clementi,Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
+Clementi,The Local Doctor Clinic Clementi,Fri,18:00,20:30,1080,1230,False,6:00pm - 8:30pm
+Clementi,The Local Doctor Clinic Clementi,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
+Clementi,West Family Clinic,Mon,08:30,15:30,510,930,False,8:30am - 3:30pm
+Clementi,West Family Clinic,Mon,17:30,20:30,1050,1230,False,5:30pm - 8:30pm
+Clementi,West Family Clinic,Wed,08:30,15:30,510,930,False,8:30am - 3:30pm
+Clementi,West Family Clinic,Wed,17:30,20:30,1050,1230,False,5:30pm - 8:30pm
+Clementi,West Family Clinic,Fri,08:30,15:30,510,930,False,8:30am - 3:30pm
+Clementi,West Family Clinic,Fri,17:30,20:30,1050,1230,False,5:30pm - 8:30pm
+Clementi,West Family Clinic,Sat,09:00,12:30,540,750,False,9:00am - 12:30pm
+Clementi,West Family Clinic,Sun,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Clementi,Yarra Medical Clinic,Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
 Clementi,Yarra Medical Clinic,Mon,14:00,18:30,840,1110,False,2:00pm - 6:30pm
 Clementi,Yarra Medical Clinic,Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
@@ -1923,6 +1983,18 @@ Eunos,Caritas Clinic,Thurs,08:30,16:00,510,960,False,8:30am - 4:00pm
 Eunos,Caritas Clinic,Fri,08:30,16:00,510,960,False,8:30am - 4:00pm
 Eunos,Caritas Clinic,Sat,09:30,12:00,570,720,False,9:30am - 12:00pm
 Eunos,Caritas Clinic,Sun,09:30,12:00,570,720,False,9:30am - 12:00pm
+Eunos,OneCare Clinic (Ubi),Mon,08:00,15:00,480,900,False,8:00am - 3:00pm
+Eunos,OneCare Clinic (Ubi),Mon,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Eunos,OneCare Clinic (Ubi),Tues,08:00,15:00,480,900,False,8:00am - 3:00pm
+Eunos,OneCare Clinic (Ubi),Tues,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Eunos,OneCare Clinic (Ubi),Wed,08:00,15:00,480,900,False,8:00am - 3:00pm
+Eunos,OneCare Clinic (Ubi),Wed,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Eunos,OneCare Clinic (Ubi),Thurs,08:00,15:00,480,900,False,8:00am - 3:00pm
+Eunos,OneCare Clinic (Ubi),Thurs,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Eunos,OneCare Clinic (Ubi),Fri,08:00,15:00,480,900,False,8:00am - 3:00pm
+Eunos,OneCare Clinic (Ubi),Fri,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Eunos,OneCare Clinic (Ubi),Sat,08:00,13:00,480,780,False,8:00am - 1:00pm
+Eunos,OneCare Clinic (Ubi),Sun,08:00,13:00,480,780,False,8:00am - 1:00pm
 Eunos,Prima Care Family Clinic,Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
 Eunos,Prima Care Family Clinic,Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
 Eunos,Prima Care Family Clinic,Tues,14:00,17:30,840,1050,False,2:00pm - 5:30pm
@@ -1993,6 +2065,16 @@ Geylang,Bright View Clinic & Surgery,Fri,09:00,21:00,540,1260,False,9:00am - 9:0
 Geylang,Bright View Clinic & Surgery,Sat,09:00,21:00,540,1260,False,9:00am - 9:00pm
 Geylang,Bright View Clinic & Surgery,Sun,09:00,21:00,540,1260,False,9:00am - 9:00pm
 Geylang,Bright View Clinic & Surgery,PH,09:00,21:00,540,1260,False,9:00am - 9:00pm
+Geylang,Trust Medical Clinic,Mon,09:00,13:00,540,780,False,9:00am - 1:00pm
+Geylang,Trust Medical Clinic,Mon,14:30,17:30,870,1050,False,2:30pm - 5:30pm
+Geylang,Trust Medical Clinic,Tues,09:00,13:00,540,780,False,9:00am - 1:00pm
+Geylang,Trust Medical Clinic,Tues,14:30,17:30,870,1050,False,2:30pm - 5:30pm
+Geylang,Trust Medical Clinic,Wed,09:00,13:00,540,780,False,9:00am - 1:00pm
+Geylang,Trust Medical Clinic,Wed,14:30,17:30,870,1050,False,2:30pm - 5:30pm
+Geylang,Trust Medical Clinic,Thurs,09:00,13:00,540,780,False,9:00am - 1:00pm
+Geylang,Trust Medical Clinic,Thurs,14:30,17:30,870,1050,False,2:30pm - 5:30pm
+Geylang,Trust Medical Clinic,Fri,09:00,13:00,540,780,False,9:00am - 1:00pm
+Geylang,Trust Medical Clinic,Fri,14:30,17:30,870,1050,False,2:30pm - 5:30pm
 Geylang,C3 Family Clinic @ Aljunied Crescent,Mon,07:30,22:00,450,1320,False,7:30am - 10:00pm
 Geylang,C3 Family Clinic @ Aljunied Crescent,Tues,07:30,14:00,450,840,False,7:30am - 2:00pm
 Geylang,C3 Family Clinic @ Aljunied Crescent,Tues,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
@@ -2443,6 +2525,21 @@ Hougang,Prestige Family Clinic,Thurs,09:00,13:30,540,810,False,9:00am - 1:30pm
 Hougang,Prestige Family Clinic,Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Hougang,Prestige Family Clinic,Fri,09:00,13:30,540,810,False,9:00am - 1:30pm
 Hougang,Prestige Family Clinic,Sat,09:00,13:30,540,810,False,9:00am - 1:30pm
+Hougang,181 Hougang Family Clinic,Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
+Hougang,181 Hougang Family Clinic,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Hougang,181 Hougang Family Clinic,Mon,09:00,12:00,540,720,False,9:00am - 12:00pm
+Hougang,181 Hougang Family Clinic,Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
+Hougang,181 Hougang Family Clinic,Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Hougang,181 Hougang Family Clinic,Tues,09:00,12:00,540,720,False,9:00am - 12:00pm
+Hougang,181 Hougang Family Clinic,Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
+Hougang,181 Hougang Family Clinic,Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Hougang,181 Hougang Family Clinic,Wed,09:00,12:00,540,720,False,9:00am - 12:00pm
+Hougang,181 Hougang Family Clinic,Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
+Hougang,181 Hougang Family Clinic,Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Hougang,181 Hougang Family Clinic,Thurs,09:00,12:00,540,720,False,9:00am - 12:00pm
+Hougang,181 Hougang Family Clinic,Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
+Hougang,181 Hougang Family Clinic,Fri,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Hougang,181 Hougang Family Clinic,Fri,09:00,12:00,540,720,False,9:00am - 12:00pm
 Jurong East,Caring Medical Clinic Toh Guan,Mon,08:30,14:00,510,840,False,8:30am - 2:00pm
 Jurong East,Caring Medical Clinic Toh Guan,Mon,15:00,17:00,900,1020,False,3:00pm - 5:00pm
 Jurong East,Caring Medical Clinic Toh Guan,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
@@ -2756,23 +2853,6 @@ Jurong West,ProHealth Medical Group @ Taman Jurong,Fri,18:00,21:00,1080,1260,Fal
 Jurong West,ProHealth Medical Group @ Taman Jurong,Sat,08:00,15:00,480,900,False,8:00am - 3:00pm
 Jurong West,ProHealth Medical Group @ Taman Jurong,Sun,08:00,15:00,480,900,False,8:00am - 3:00pm
 Jurong West,ProHealth Medical Group @ Taman Jurong,Sun,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Jurong West,Raffles Medical (Jurong Point),Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
-Jurong West,Raffles Medical (Jurong Point),Mon,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Jurong West,Raffles Medical (Jurong Point),Mon,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Jurong West,Raffles Medical (Jurong Point),Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
-Jurong West,Raffles Medical (Jurong Point),Tues,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Jurong West,Raffles Medical (Jurong Point),Tues,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Jurong West,Raffles Medical (Jurong Point),Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
-Jurong West,Raffles Medical (Jurong Point),Wed,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Jurong West,Raffles Medical (Jurong Point),Wed,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Jurong West,Raffles Medical (Jurong Point),Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
-Jurong West,Raffles Medical (Jurong Point),Thurs,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Jurong West,Raffles Medical (Jurong Point),Thurs,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Jurong West,Raffles Medical (Jurong Point),Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
-Jurong West,Raffles Medical (Jurong Point),Fri,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Jurong West,Raffles Medical (Jurong Point),Fri,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Jurong West,Raffles Medical (Jurong Point),Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
-Jurong West,Raffles Medical (Jurong Point),Sun,08:30,13:00,510,780,False,8:30am - 1:00pm
 Jurong West,Shifa Clinic (Jurong),Mon,09:00,16:30,540,990,False,9:00am - 4:30pm
 Jurong West,Shifa Clinic (Jurong),Tues,09:00,16:30,540,990,False,9:00am - 4:30pm
 Jurong West,Shifa Clinic (Jurong),Wed,09:00,16:30,540,990,False,9:00am - 4:30pm
@@ -2862,6 +2942,14 @@ Kallang,Low Medical 67 Clinic,Thurs,13:00,15:00,780,900,False,1:00pm - 3:00pm
 Kallang,Low Medical 67 Clinic,Fri,08:00,12:00,480,720,False,8:00am - 12:00pm
 Kallang,Low Medical 67 Clinic,Fri,13:00,15:00,780,900,False,1:00pm - 3:00pm
 Kallang,Low Medical 67 Clinic,Sat,08:00,11:30,480,690,False,8:00am - 11:30am
+Kallang,71 Medihealth Clinic & Surgery,Mon,08:00,20:00,480,1200,False,8:00am - 8:00pm
+Kallang,71 Medihealth Clinic & Surgery,Tues,08:00,20:00,480,1200,False,8:00am - 8:00pm
+Kallang,71 Medihealth Clinic & Surgery,Wed,08:00,20:00,480,1200,False,8:00am - 8:00pm
+Kallang,71 Medihealth Clinic & Surgery,Thurs,08:00,20:00,480,1200,False,8:00am - 8:00pm
+Kallang,71 Medihealth Clinic & Surgery,Fri,08:00,20:00,480,1200,False,8:00am - 8:00pm
+Kallang,71 Medihealth Clinic & Surgery,Sat,08:00,20:00,480,1200,False,8:00am - 8:00pm
+Kallang,71 Medihealth Clinic & Surgery,Sun,08:00,20:00,480,1200,False,8:00am - 8:00pm
+Kallang,71 Medihealth Clinic & Surgery,PH,08:00,20:00,480,1200,False,8:00am - 8:00pm
 Kallang,Bridgepoint 39 Health (Kallang),Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
 Kallang,Bridgepoint 39 Health (Kallang),Mon,14:00,22:00,840,1320,False,2:00pm - 10:00pm
 Kallang,Bridgepoint 39 Health (Kallang),Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
@@ -2980,26 +3068,14 @@ Little India,Little Haven Family Clinic,Mon,08:30,12:30,510,750,False,8:30am - 1
 Little India,Little Haven Family Clinic,Mon,13:30,17:30,810,1050,False,1:30pm - 5:30pm
 Little India,Shifa Clinic and Surgery (Little India),Mon,09:00,13:00,540,780,False,9:00am - 1:00pm
 Little India,Shifa Clinic and Surgery (Little India),Mon,14:00,21:00,840,1260,False,2:00pm - 9:00pm
-Little India,Shifa Clinic and Surgery (Little India),Mon,09:00,13:00,540,780,False,9:00am - 1:00pm
-Little India,Shifa Clinic and Surgery (Little India),Mon,14:00,19:00,840,1140,False,2:00pm - 7:00pm
 Little India,Shifa Clinic and Surgery (Little India),Tues,09:00,13:00,540,780,False,9:00am - 1:00pm
 Little India,Shifa Clinic and Surgery (Little India),Tues,14:00,21:00,840,1260,False,2:00pm - 9:00pm
-Little India,Shifa Clinic and Surgery (Little India),Tues,09:00,13:00,540,780,False,9:00am - 1:00pm
-Little India,Shifa Clinic and Surgery (Little India),Tues,14:00,19:00,840,1140,False,2:00pm - 7:00pm
 Little India,Shifa Clinic and Surgery (Little India),Wed,09:00,13:00,540,780,False,9:00am - 1:00pm
 Little India,Shifa Clinic and Surgery (Little India),Wed,14:00,21:00,840,1260,False,2:00pm - 9:00pm
-Little India,Shifa Clinic and Surgery (Little India),Wed,09:00,13:00,540,780,False,9:00am - 1:00pm
-Little India,Shifa Clinic and Surgery (Little India),Wed,14:00,19:00,840,1140,False,2:00pm - 7:00pm
 Little India,Shifa Clinic and Surgery (Little India),Thurs,09:00,13:00,540,780,False,9:00am - 1:00pm
 Little India,Shifa Clinic and Surgery (Little India),Thurs,14:00,21:00,840,1260,False,2:00pm - 9:00pm
-Little India,Shifa Clinic and Surgery (Little India),Thurs,09:00,13:00,540,780,False,9:00am - 1:00pm
-Little India,Shifa Clinic and Surgery (Little India),Thurs,14:00,19:00,840,1140,False,2:00pm - 7:00pm
 Little India,Shifa Clinic and Surgery (Little India),Fri,09:00,13:00,540,780,False,9:00am - 1:00pm
 Little India,Shifa Clinic and Surgery (Little India),Fri,14:00,21:00,840,1260,False,2:00pm - 9:00pm
-Little India,Shifa Clinic and Surgery (Little India),Fri,09:00,13:00,540,780,False,9:00am - 1:00pm
-Little India,Shifa Clinic and Surgery (Little India),Fri,14:00,19:00,840,1140,False,2:00pm - 7:00pm
-Little India,Shifa Clinic and Surgery (Little India),PH,09:00,13:00,540,780,False,9:00am - 1:00pm
-Little India,Shifa Clinic and Surgery (Little India),PH,14:00,19:00,840,1140,False,2:00pm - 7:00pm
 Little India,Stella Maris Family Clinic & Surgery,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
 Little India,Stella Maris Family Clinic & Surgery,Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
 Little India,Stella Maris Family Clinic & Surgery,Wed,08:00,13:00,480,780,False,8:00am - 1:00pm
@@ -3040,32 +3116,32 @@ Macpherson,Bethesda Medical @MacPherson,Thurs,14:00,17:30,840,1050,False,2:00pm 
 Macpherson,Bethesda Medical @MacPherson,Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
 Macpherson,Bethesda Medical @MacPherson,Fri,14:00,17:30,840,1050,False,2:00pm - 5:30pm
 Macpherson,Bethesda Medical @MacPherson,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Mon,08:30,15:30,510,930,False,8:30am - 3:30pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Mon,16:30,21:00,990,1260,False,4:30pm - 9:00pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Mon,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Tues,08:30,15:30,510,930,False,8:30am - 3:30pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Tues,16:30,21:00,990,1260,False,4:30pm - 9:00pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Tues,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Wed,08:30,15:30,510,930,False,8:30am - 3:30pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Wed,16:30,21:00,990,1260,False,4:30pm - 9:00pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Wed,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Thurs,08:30,15:30,510,930,False,8:30am - 3:30pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Thurs,16:30,21:00,990,1260,False,4:30pm - 9:00pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Thurs,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Fri,08:30,15:30,510,930,False,8:30am - 3:30pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Fri,16:30,21:00,990,1260,False,4:30pm - 9:00pm
-Macpherson,Care & Cure Medical Clinic and Surgery,Fri,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
-Macpherson,Care For You Medical Clinic,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
-Macpherson,Care For You Medical Clinic,Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Macpherson,Care For You Medical Clinic,Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
-Macpherson,Care For You Medical Clinic,Tues,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Macpherson,Care For You Medical Clinic,Wed,08:00,13:00,480,780,False,8:00am - 1:00pm
-Macpherson,Care For You Medical Clinic,Wed,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Macpherson,Care For You Medical Clinic,Thurs,08:00,13:00,480,780,False,8:00am - 1:00pm
-Macpherson,Care For You Medical Clinic,Thurs,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Macpherson,Care For You Medical Clinic,Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
-Macpherson,Care For You Medical Clinic,Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Macpherson,Care For You Medical Clinic,Sat,08:00,12:00,480,720,False,8:00am - 12:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Mon,08:30,15:30,510,930,False,8:30am - 3:30pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Mon,16:30,21:00,990,1260,False,4:30pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Mon,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Tues,08:30,15:30,510,930,False,8:30am - 3:30pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Tues,16:30,21:00,990,1260,False,4:30pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Tues,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Tues,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Wed,08:30,15:30,510,930,False,8:30am - 3:30pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Wed,16:30,21:00,990,1260,False,4:30pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Wed,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Wed,08:00,13:00,480,780,False,8:00am - 1:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Wed,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Thurs,08:30,15:30,510,930,False,8:30am - 3:30pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Thurs,16:30,21:00,990,1260,False,4:30pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Thurs,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Thurs,08:00,13:00,480,780,False,8:00am - 1:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Thurs,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Fri,08:30,15:30,510,930,False,8:30am - 3:30pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Fri,16:30,21:00,990,1260,False,4:30pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Fri,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Macpherson,Care & Cure Medical Clinic and Surgery Care For You Medical Clinic,Sat,08:00,12:00,480,720,False,8:00am - 12:00pm
 Macpherson,FairCare Family Clinic (Macpherson),Mon,08:30,21:00,510,1260,False,8:30am - 9:00pm
 Macpherson,FairCare Family Clinic (Macpherson),Tues,08:30,21:00,510,1260,False,8:30am - 9:00pm
 Macpherson,FairCare Family Clinic (Macpherson),Wed,08:30,21:00,510,1260,False,8:30am - 9:00pm
@@ -3073,22 +3149,22 @@ Macpherson,FairCare Family Clinic (Macpherson),Thurs,08:30,21:00,510,1260,False,
 Macpherson,FairCare Family Clinic (Macpherson),Fri,08:30,21:00,510,1260,False,8:30am - 9:00pm
 Macpherson,FairCare Family Clinic (Macpherson),Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
 Macpherson,FairCare Family Clinic (Macpherson),Sun,08:30,13:00,510,780,False,8:30am - 1:00pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Mon,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Tues,08:30,12:30,510,750,False,8:30am - 12:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Tues,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Tues,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Wed,08:30,12:30,510,750,False,8:30am - 12:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Wed,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Wed,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Thurs,08:30,12:30,510,750,False,8:30am - 12:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Thurs,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Thurs,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Fri,08:30,12:30,510,750,False,8:30am - 12:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,Sun,08:30,12:30,510,750,False,8:30am - 12:30pm
-Macpherson,5 Healthlink Medical Clinic & Surgery Pte Ltd,PH,08:30,12:30,510,750,False,8:30am - 12:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Mon,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Tues,08:30,12:30,510,750,False,8:30am - 12:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Tues,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Tues,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Wed,08:30,12:30,510,750,False,8:30am - 12:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Wed,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Wed,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Thurs,08:30,12:30,510,750,False,8:30am - 12:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Thurs,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Thurs,18:30,21:00,1110,1260,False,6:30pm - 9:00pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Fri,08:30,12:30,510,750,False,8:30am - 12:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,Sun,08:30,12:30,510,750,False,8:30am - 12:30pm
+Macpherson,Healthlink 5 Medical Clinic & Surgery Pte Ltd,PH,08:30,12:30,510,750,False,8:30am - 12:30pm
 Macpherson,HeartlandHealth (Circuit Road),Mon,07:00,13:00,420,780,False,7:00am - 1:00pm
 Macpherson,HeartlandHealth (Circuit Road),Mon,14:00,23:00,840,1380,False,2:00pm - 11:00pm
 Macpherson,HeartlandHealth (Circuit Road),Tues,07:00,13:00,420,780,False,7:00am - 1:00pm
@@ -4048,23 +4124,23 @@ Sengkang,Acumed Medical Group (Sengkang),Fri,08:30,13:00,510,780,False,8:30am - 
 Sengkang,Acumed Medical Group (Sengkang),Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
 Sengkang,Acumed Medical Group (Sengkang),Sun,09:00,12:00,540,720,False,9:00am - 12:00pm
 Sengkang,Acumed Medical Group (Sengkang),PH,09:00,12:00,540,720,False,9:00am - 12:00pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Mon,08:00,12:30,480,750,False,8:00am - 12:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Mon,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Tues,08:00,12:30,480,750,False,8:00am - 12:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Tues,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Tues,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Wed,08:00,12:30,480,750,False,8:00am - 12:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Wed,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Wed,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Thurs,08:00,12:30,480,750,False,8:00am - 12:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Thurs,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Thurs,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Fri,08:00,12:30,480,750,False,8:00am - 12:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Fri,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
-Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare (Fernvale),Sun,08:30,12:30,510,750,False,8:30am - 12:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Mon,08:00,12:30,480,750,False,8:00am - 12:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Mon,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Tues,08:00,12:30,480,750,False,8:00am - 12:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Tues,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Tues,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Wed,08:00,12:30,480,750,False,8:00am - 12:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Wed,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Wed,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Thurs,08:00,12:30,480,750,False,8:00am - 12:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Thurs,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Thurs,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Fri,08:00,12:30,480,750,False,8:00am - 12:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Fri,17:30,21:30,1050,1290,False,5:30pm - 9:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
+Sengkang,AE Medical Clinic ”*previously known as DR+ Medical & Paincare Fernvale,Sun,08:30,12:30,510,750,False,8:30am - 12:30pm
 Sengkang,DA Clinic @ Anchorvale,Mon,08:30,12:00,510,720,False,8:30am - 12:00pm
 Sengkang,DA Clinic @ Anchorvale,Mon,13:00,21:00,780,1260,False,1:00pm - 9:00pm
 Sengkang,DA Clinic @ Anchorvale,Tues,08:30,12:00,510,720,False,8:30am - 12:00pm
@@ -4216,21 +4292,40 @@ Sengkang,Medivene Clinic & Surgery,Thurs,08:30,14:00,510,840,False,8:30am - 2:00
 Sengkang,Medivene Clinic & Surgery,Thurs,18:30,20:30,1110,1230,False,6:30pm - 8:30pm
 Sengkang,Medivene Clinic & Surgery,Fri,08:30,14:00,510,840,False,8:30am - 2:00pm
 Sengkang,Medivene Clinic & Surgery,Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
+Sengkang,Minmed Clinic (Buangkok),Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
+Sengkang,Minmed Clinic (Buangkok),Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Buangkok),Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Sengkang,Minmed Clinic (Buangkok),Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
+Sengkang,Minmed Clinic (Buangkok),Tues,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Buangkok),Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Sengkang,Minmed Clinic (Buangkok),Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
+Sengkang,Minmed Clinic (Buangkok),Wed,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Buangkok),Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Sengkang,Minmed Clinic (Buangkok),Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
+Sengkang,Minmed Clinic (Buangkok),Thurs,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Buangkok),Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Sengkang,Minmed Clinic (Buangkok),Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
+Sengkang,Minmed Clinic (Buangkok),Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Buangkok),Fri,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Sengkang,Minmed Clinic (Buangkok),Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
+Sengkang,Minmed Clinic (Buangkok),Sat,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Buangkok),Sun,09:00,13:00,540,780,False,9:00am - 1:00pm
+Sengkang,Minmed Clinic (Buangkok),Sun,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Sengkang,Minmed Clinic (Anchorvale),Mon,09:00,13:00,540,780,False,9:00am - 1:00pm
-Sengkang,Minmed Clinic (Anchorvale),Mon,14:00,16:00,840,960,False,2:00pm - 4:00pm
-Sengkang,Minmed Clinic (Anchorvale),Mon,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Sengkang,Minmed Clinic (Anchorvale),Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Anchorvale),Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Sengkang,Minmed Clinic (Anchorvale),Tues,09:00,13:00,540,780,False,9:00am - 1:00pm
-Sengkang,Minmed Clinic (Anchorvale),Tues,14:00,16:00,840,960,False,2:00pm - 4:00pm
-Sengkang,Minmed Clinic (Anchorvale),Tues,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Sengkang,Minmed Clinic (Anchorvale),Tues,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Anchorvale),Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Sengkang,Minmed Clinic (Anchorvale),Wed,09:00,13:00,540,780,False,9:00am - 1:00pm
-Sengkang,Minmed Clinic (Anchorvale),Wed,14:00,16:00,840,960,False,2:00pm - 4:00pm
-Sengkang,Minmed Clinic (Anchorvale),Wed,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Sengkang,Minmed Clinic (Anchorvale),Wed,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Anchorvale),Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Sengkang,Minmed Clinic (Anchorvale),Thurs,09:00,13:00,540,780,False,9:00am - 1:00pm
-Sengkang,Minmed Clinic (Anchorvale),Thurs,14:00,16:00,840,960,False,2:00pm - 4:00pm
-Sengkang,Minmed Clinic (Anchorvale),Thurs,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Sengkang,Minmed Clinic (Anchorvale),Thurs,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Anchorvale),Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Sengkang,Minmed Clinic (Anchorvale),Fri,09:00,13:00,540,780,False,9:00am - 1:00pm
-Sengkang,Minmed Clinic (Anchorvale),Fri,14:00,16:00,840,960,False,2:00pm - 4:00pm
-Sengkang,Minmed Clinic (Anchorvale),Fri,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Sengkang,Minmed Clinic (Anchorvale),Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Minmed Clinic (Anchorvale),Fri,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Sengkang,Minmed Clinic (Anchorvale),Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
 Sengkang,Minmed Clinic (Anchorvale),Sun,09:00,13:00,540,780,False,9:00am - 1:00pm
 Sengkang,Minmed Clinic (Anchorvale),PH,09:00,13:00,540,780,False,9:00am - 1:00pm
@@ -4274,20 +4369,16 @@ Sengkang,Our Fernvale Family Clinic,Fri,17:30,21:00,1050,1260,False,5:30pm - 9:0
 Sengkang,Our Fernvale Family Clinic,Sat,15:00,18:00,900,1080,False,3:00pm - 6:00pm
 Sengkang,Our Fernvale Family Clinic,Sun,08:00,13:00,480,780,False,8:00am - 1:00pm
 Sengkang,Our Fernvale Family Clinic,Sun,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
-Sengkang,Pinnacle Family,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
-Sengkang,Clinic (Sengkang),Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
-Sengkang,Clinic (Sengkang),Tues,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Sengkang,Clinic (Sengkang),Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Sengkang,Clinic (Sengkang),Wed,08:00,13:00,480,780,False,8:00am - 1:00pm
-Sengkang,Clinic (Sengkang),Wed,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Sengkang,Clinic (Sengkang),Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Sengkang,Clinic (Sengkang),Thurs,08:00,13:00,480,780,False,8:00am - 1:00pm
-Sengkang,Clinic (Sengkang),Thurs,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Sengkang,Clinic (Sengkang),Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Sengkang,Clinic (Sengkang),Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
-Sengkang,Clinic (Sengkang),Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Sengkang,Clinic (Sengkang),Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
-Sengkang,Clinic (Sengkang),Sun,09:00,13:00,540,780,False,9:00am - 1:00pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Sat,09:00,13:00,540,780,False,9:00am - 1:00pm
+Sengkang,Pinnacle Family Clinic (Sengkang),Sun,09:00,13:00,540,780,False,9:00am - 1:00pm
 Sengkang,ProHealth Medical Group @ Buangkok,Mon,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Sengkang,ProHealth Medical Group @ Buangkok,Tues,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Sengkang,ProHealth Medical Group @ Buangkok,Wed,08:00,22:00,480,1320,False,8:00am - 10:00pm
@@ -4388,6 +4479,21 @@ Serangoon,DA Clinic @ Potong Pasir,Fri,13:00,16:00,780,960,False,1:00pm - 4:00pm
 Serangoon,DA Clinic @ Potong Pasir,Fri,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Serangoon,DA Clinic @ Potong Pasir,Sat,08:30,12:00,510,720,False,8:30am - 12:00pm
 Serangoon,DA Clinic @ Potong Pasir,Sun,08:30,12:00,510,720,False,8:30am - 12:00pm
+Serangoon,Dr+ Medical & Paincare Kovan,Mon,08:30,14:30,510,870,False,8:30am - 2:30pm
+Serangoon,Dr+ Medical & Paincare Kovan,Mon,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
+Serangoon,Dr+ Medical & Paincare Kovan,Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
+Serangoon,Dr+ Medical & Paincare Kovan,Tues,08:30,14:30,510,870,False,8:30am - 2:30pm
+Serangoon,Dr+ Medical & Paincare Kovan,Tues,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
+Serangoon,Dr+ Medical & Paincare Kovan,Tues,08:30,12:30,510,750,False,8:30am - 12:30pm
+Serangoon,Dr+ Medical & Paincare Kovan,Wed,08:30,14:30,510,870,False,8:30am - 2:30pm
+Serangoon,Dr+ Medical & Paincare Kovan,Wed,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
+Serangoon,Dr+ Medical & Paincare Kovan,Wed,08:30,12:30,510,750,False,8:30am - 12:30pm
+Serangoon,Dr+ Medical & Paincare Kovan,Thurs,08:30,14:30,510,870,False,8:30am - 2:30pm
+Serangoon,Dr+ Medical & Paincare Kovan,Thurs,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
+Serangoon,Dr+ Medical & Paincare Kovan,Thurs,08:30,12:30,510,750,False,8:30am - 12:30pm
+Serangoon,Dr+ Medical & Paincare Kovan,Fri,08:30,14:30,510,870,False,8:30am - 2:30pm
+Serangoon,Dr+ Medical & Paincare Kovan,Fri,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
+Serangoon,Dr+ Medical & Paincare Kovan,Fri,08:30,12:30,510,750,False,8:30am - 12:30pm
 Serangoon,GoClinic Serangoon,Mon,08:30,15:00,510,900,False,8:30am - 3:00pm
 Serangoon,GoClinic Serangoon,Tues,08:30,15:00,510,900,False,8:30am - 3:00pm
 Serangoon,GoClinic Serangoon,Wed,08:30,15:00,510,900,False,8:30am - 3:00pm
@@ -4475,21 +4581,23 @@ Serangoon,Pancare Medical (Serangoon),Thurs,18:00,21:00,1080,1260,False,6:00pm -
 Serangoon,Pancare Medical (Serangoon),Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Serangoon,Pancare Medical (Serangoon),Sat,08:00,13:00,480,780,False,8:00am - 1:00pm
 Serangoon,Pancare Medical (Serangoon),Sun,14:00,20:00,840,1200,False,2:00pm - 8:00pm
-Serangoon,Parkway MediCentre,Mon,08:00,12:00,480,720,False,8:00am - 12:00pm
-Serangoon,Parkway MediCentre,Mon,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Serangoon,Parkway MediCentre,Mon,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
-Serangoon,Parkway MediCentre,Tues,08:00,12:00,480,720,False,8:00am - 12:00pm
-Serangoon,Parkway MediCentre,Tues,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Serangoon,Parkway MediCentre,Tues,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
-Serangoon,Parkway MediCentre,Wed,08:00,12:00,480,720,False,8:00am - 12:00pm
-Serangoon,Parkway MediCentre,Wed,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Serangoon,Parkway MediCentre,Wed,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
-Serangoon,Parkway MediCentre,Thurs,08:00,12:00,480,720,False,8:00am - 12:00pm
-Serangoon,Parkway MediCentre,Thurs,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Serangoon,Parkway MediCentre,Thurs,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
-Serangoon,Parkway MediCentre,Fri,08:00,12:00,480,720,False,8:00am - 12:00pm
-Serangoon,Parkway MediCentre,Fri,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Serangoon,Parkway MediCentre,Fri,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Mon,08:00,12:00,480,720,False,8:00am - 12:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Mon,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Mon,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Tues,08:00,12:00,480,720,False,8:00am - 12:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Tues,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Tues,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Wed,08:00,12:00,480,720,False,8:00am - 12:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Wed,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Wed,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Thurs,08:00,12:00,480,720,False,8:00am - 12:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Thurs,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Thurs,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Fri,08:00,12:00,480,720,False,8:00am - 12:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Fri,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Fri,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Sat,08:00,12:30,480,750,False,8:00am - 12:30pm
+Serangoon,Parkway MediCentre (The Woodleigh Mall),Sat,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Serangoon,Phoenix Medical Group (Potong Pasir),Mon,09:00,15:00,540,900,False,9:00am - 3:00pm
 Serangoon,Phoenix Medical Group (Potong Pasir),Tues,09:00,15:00,540,900,False,9:00am - 3:00pm
 Serangoon,Phoenix Medical Group (Potong Pasir),Wed,09:00,15:00,540,900,False,9:00am - 3:00pm
@@ -4570,6 +4678,23 @@ Serangoon,Sterling Clinic and Surgery,Fri,09:00,12:30,540,750,False,9:00am - 12:
 Serangoon,Sterling Clinic and Surgery,Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
 Serangoon,Sterling Clinic and Surgery,Sat,09:00,12:30,540,750,False,9:00am - 12:30pm
 Serangoon,Sterling Clinic and Surgery,Sun,09:00,12:30,540,750,False,9:00am - 12:30pm
+Serangoon,Trucare Medical and Surgery,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
+Serangoon,Trucare Medical and Surgery,Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Serangoon,Trucare Medical and Surgery,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Serangoon,Trucare Medical and Surgery,Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
+Serangoon,Trucare Medical and Surgery,Tues,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Serangoon,Trucare Medical and Surgery,Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Serangoon,Trucare Medical and Surgery,Wed,08:00,13:00,480,780,False,8:00am - 1:00pm
+Serangoon,Trucare Medical and Surgery,Wed,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Serangoon,Trucare Medical and Surgery,Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Serangoon,Trucare Medical and Surgery,Thurs,08:00,13:00,480,780,False,8:00am - 1:00pm
+Serangoon,Trucare Medical and Surgery,Thurs,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Serangoon,Trucare Medical and Surgery,Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Serangoon,Trucare Medical and Surgery,Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
+Serangoon,Trucare Medical and Surgery,Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
+Serangoon,Trucare Medical and Surgery,Fri,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Serangoon,Trucare Medical and Surgery,Sat,08:00,13:00,480,780,False,8:00am - 1:00pm
+Serangoon,Trucare Medical and Surgery,Sun,09:00,13:00,540,780,False,9:00am - 1:00pm
 Serangoon,Union Medical Clinic & Surgery (Serangoon North),Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
 Serangoon,Union Medical Clinic & Surgery (Serangoon North),Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
 Serangoon,Union Medical Clinic & Surgery (Serangoon North),Mon,18:30,20:30,1110,1230,False,6:30pm - 8:30pm
@@ -4905,6 +5030,22 @@ Tampines,Little Cross Family Clinic Pte Ltd,Fri,19:00,21:00,1140,1260,False,7:00
 Tampines,Little Cross Family Clinic Pte Ltd,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
 Tampines,Little Cross Family Clinic Pte Ltd,Sat,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
 Tampines,Little Cross Family Clinic Pte Ltd,PH,08:30,12:30,510,750,False,8:30am - 12:30pm
+Tampines,MD Family Clinic (Tampines),Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,MD Family Clinic (Tampines),Mon,14:00,16:00,840,960,False,2:00pm - 4:00pm
+Tampines,MD Family Clinic (Tampines),Mon,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Tampines,MD Family Clinic (Tampines),Tues,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,MD Family Clinic (Tampines),Tues,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Tampines,MD Family Clinic (Tampines),Wed,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,MD Family Clinic (Tampines),Wed,14:00,16:00,840,960,False,2:00pm - 4:00pm
+Tampines,MD Family Clinic (Tampines),Wed,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Tampines,MD Family Clinic (Tampines),Thurs,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,MD Family Clinic (Tampines),Thurs,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Tampines,MD Family Clinic (Tampines),Fri,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,MD Family Clinic (Tampines),Fri,14:00,16:00,840,960,False,2:00pm - 4:00pm
+Tampines,MD Family Clinic (Tampines),Fri,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Tampines,MD Family Clinic (Tampines),Sat,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,MD Family Clinic (Tampines),Sun,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,MD Family Clinic (Tampines),PH,09:30,12:30,570,750,False,9:30am - 12:30pm
 Tampines,Medina Medical Centre,Mon,08:00,12:30,480,750,False,8:00am - 12:30pm
 Tampines,Medina Medical Centre,Mon,14:30,17:00,870,1020,False,2:30pm - 5:00pm
 Tampines,Medina Medical Centre,Tues,08:00,12:30,480,750,False,8:00am - 12:30pm
@@ -4931,6 +5072,30 @@ Tampines,Northeast Medical 20 Group (Tampines),Sat,14:00,22:00,840,1320,False,2:
 Tampines,Northeast Medical 20 Group (Tampines),Sun,08:00,13:00,480,780,False,8:00am - 1:00pm
 Tampines,Northeast Medical 20 Group (Tampines),Sun,14:00,22:00,840,1320,False,2:00pm - 10:00pm
 Tampines,Northeast Medical 20 Group (Tampines),PH,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,OneCare Clinic (Tampines),Mon,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic (Tampines),Mon,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Tampines,OneCare Clinic (Tampines),Tues,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic (Tampines),Tues,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Tampines,OneCare Clinic (Tampines),Wed,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic (Tampines),Wed,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Tampines,OneCare Clinic (Tampines),Thurs,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic (Tampines),Thurs,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Tampines,OneCare Clinic (Tampines),Fri,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic (Tampines),Sat,08:00,12:00,480,720,False,8:00am - 12:00pm
+Tampines,OneCare Clinic (Tampines),Sun,08:00,12:00,480,720,False,8:00am - 12:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Mon,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Mon,17:00,21:30,1020,1290,False,5:00pm - 9:30pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Tues,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Tues,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Wed,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Wed,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Thurs,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Thurs,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Fri,08:00,15:00,480,900,False,8:00am - 3:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Fri,17:00,21:00,1020,1260,False,5:00pm - 9:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Sat,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Sun,08:00,13:00,480,780,False,8:00am - 1:00pm
+Tampines,OneCare Clinic 20 (Tampines MRT),Sun,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Tampines,Our Family Physician Clinic & Surgery,Mon,08:00,23:00,480,1380,False,8:00am - 11:00pm
 Tampines,Our Family Physician Clinic & Surgery,Tues,08:00,23:00,480,1380,False,8:00am - 11:00pm
 Tampines,Our Family Physician Clinic & Surgery,Wed,08:00,23:00,480,1380,False,8:00am - 11:00pm
@@ -5068,6 +5233,12 @@ Tiong Bahru,Healthway 18 Medical (Jalan Membina),Thurs,14:00,17:00,840,1020,Fals
 Tiong Bahru,Healthway 18 Medical (Jalan Membina),Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
 Tiong Bahru,Healthway 18 Medical (Jalan Membina),Fri,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Tiong Bahru,Healthway 18 Medical (Jalan Membina),Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
+Tiong Bahru,iCare Medical Centre,Mon,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Tiong Bahru,iCare Medical Centre,Tues,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Tiong Bahru,iCare Medical Centre,Wed,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Tiong Bahru,iCare Medical Centre,Thurs,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Tiong Bahru,iCare Medical Centre,Fri,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Tiong Bahru,iCare Medical Centre,Sat,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Tiong Bahru,Kao & Tan Family 18 Medical Centre & Surgery (Prohealth Medical Group Of Clinics),Mon,07:00,22:00,420,1320,False,7:00am - 10:00pm
 Tiong Bahru,Kao & Tan Family 18 Medical Centre & Surgery (Prohealth Medical Group Of Clinics),Tues,07:00,22:00,420,1320,False,7:00am - 10:00pm
 Tiong Bahru,Kao & Tan Family 18 Medical Centre & Surgery (Prohealth Medical Group Of Clinics),Wed,07:00,22:00,420,1320,False,7:00am - 10:00pm
@@ -5208,30 +5379,6 @@ Toa Payoh,HeartlandHealth 66 (Toa Payoh),Sun,08:00,13:00,480,780,False,8:00am - 
 Toa Payoh,HeartlandHealth 66 (Toa Payoh),Sun,18:00,23:00,1080,1380,False,6:00pm - 11:00pm
 Toa Payoh,HeartlandHealth 66 (Toa Payoh),PH,08:00,13:00,480,780,False,8:00am - 1:00pm
 Toa Payoh,HeartlandHealth 66 (Toa Payoh),PH,18:00,23:00,1080,1380,False,6:00pm - 11:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Mon,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Mon,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Mon,13:00,22:00,780,1320,False,1:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Tues,08:30,13:00,510,780,False,8:30am - 1:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Tues,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Tues,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Tues,13:00,22:00,780,1320,False,1:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Wed,08:30,13:00,510,780,False,8:30am - 1:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Wed,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Wed,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Wed,13:00,22:00,780,1320,False,1:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Thurs,08:30,13:00,510,780,False,8:30am - 1:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Thurs,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Thurs,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Thurs,13:00,22:00,780,1320,False,1:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Fri,08:30,13:00,510,780,False,8:30am - 1:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Fri,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Fri,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Fri,13:00,22:00,780,1320,False,1:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Sat,14:00,17:30,840,1050,False,2:00pm - 5:30pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Sat,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
-Toa Payoh,Kingsway Medical 109 Clinic (Braddell MRT),Sat,13:00,22:00,780,1320,False,1:00pm - 10:00pm
 Toa Payoh,Family Clinic 79D (Toa Payoh Central),Mon,08:30,14:00,510,840,False,8:30am - 2:00pm
 Toa Payoh,Family Clinic 79D (Toa Payoh Central),Mon,14:30,16:30,870,990,False,2:30pm - 4:30pm
 Toa Payoh,Family Clinic 79D (Toa Payoh Central),Mon,18:00,22:00,1080,1320,False,6:00pm - 10:00pm
@@ -5324,19 +5471,6 @@ Woodlands,Banyan Clinic Pte Ltd,Sat,08:30,14:30,510,870,False,8:30am - 2:30pm
 Woodlands,Banyan Clinic Pte Ltd,Sat,17:30,22:30,1050,1350,False,5:30pm - 10:30pm
 Woodlands,Banyan Clinic Pte Ltd,Sun,08:30,14:30,510,870,False,8:30am - 2:30pm
 Woodlands,Banyan Clinic Pte Ltd,Sun,17:30,22:30,1050,1350,False,5:30pm - 10:30pm
-Woodlands,Beacon Medical Clinic Marsiling,Mon,08:30,12:00,510,720,False,8:30am - 12:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Mon,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Mon,18:00,20:30,1080,1230,False,6:00pm - 8:30pm
-Woodlands,Beacon Medical Clinic Marsiling,Tues,08:30,12:00,510,720,False,8:30am - 12:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Tues,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Wed,08:30,12:00,510,720,False,8:30am - 12:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Wed,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Wed,18:00,20:30,1080,1230,False,6:00pm - 8:30pm
-Woodlands,Beacon Medical Clinic Marsiling,Thurs,08:30,12:00,510,720,False,8:30am - 12:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Thurs,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Fri,08:30,12:00,510,720,False,8:30am - 12:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Fri,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Woodlands,Beacon Medical Clinic Marsiling,Sun,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Woodlands,Caring Medical Clinic Woodlands,Mon,08:30,13:30,510,810,False,8:30am - 1:30pm
 Woodlands,Caring Medical Clinic Woodlands,Tues,08:30,13:30,510,810,False,8:30am - 1:30pm
 Woodlands,Caring Medical Clinic Woodlands,Wed,08:30,13:30,510,810,False,8:30am - 1:30pm
@@ -5404,34 +5538,37 @@ Woodlands,GoClinic Marsiling,Wed,08:00,15:00,480,900,False,8:00am - 3:00pm
 Woodlands,GoClinic Marsiling,Thurs,08:00,15:00,480,900,False,8:00am - 3:00pm
 Woodlands,GoClinic Marsiling,Fri,08:00,15:00,480,900,False,8:00am - 3:00pm
 Woodlands,GoClinic Marsiling,Sat,08:00,12:30,480,750,False,8:00am - 12:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Mon,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Tues,08:30,12:30,510,750,False,8:30am - 12:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Tues,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Tues,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Tues,08:30,12:00,510,720,False,8:30am - 12:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Tues,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Wed,08:30,12:30,510,750,False,8:30am - 12:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Wed,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Wed,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Thurs,08:30,12:30,510,750,False,8:30am - 12:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Thurs,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Thurs,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Thurs,08:30,12:00,510,720,False,8:30am - 12:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Thurs,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Fri,08:30,12:30,510,750,False,8:30am - 12:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Fri,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Fri,08:30,12:00,510,720,False,8:30am - 12:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Fri,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Sun,08:30,12:30,510,750,False,8:30am - 12:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,Sun,14:00,17:00,840,1020,False,2:00pm - 5:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,PH,08:30,12:30,510,750,False,8:30am - 12:30pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,PH,08:30,12:00,510,720,False,8:30am - 12:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,PH,13:00,17:00,780,1020,False,1:00pm - 5:00pm
-Woodlands,Martin Medical Centre Marsiling Clinic & Surgery,PH,18:00,20:30,1080,1230,False,6:00pm - 8:30pm
+Woodlands,Martin Medical Centre,Mon,08:30,12:30,510,750,False,8:30am - 12:30pm
+Woodlands,Martin Medical Centre,Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Woodlands,Martin Medical Centre,Mon,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
+Woodlands,Martin Medical Centre,Tues,08:30,12:30,510,750,False,8:30am - 12:30pm
+Woodlands,Martin Medical Centre,Tues,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Woodlands,Martin Medical Centre,Tues,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
+Woodlands,Martin Medical Centre,Wed,08:30,12:30,510,750,False,8:30am - 12:30pm
+Woodlands,Martin Medical Centre,Wed,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Woodlands,Martin Medical Centre,Wed,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
+Woodlands,Martin Medical Centre,Thurs,08:30,12:30,510,750,False,8:30am - 12:30pm
+Woodlands,Martin Medical Centre,Thurs,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Woodlands,Martin Medical Centre,Thurs,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
+Woodlands,Martin Medical Centre,Fri,08:30,12:30,510,750,False,8:30am - 12:30pm
+Woodlands,Martin Medical Centre,Fri,14:00,16:30,840,990,False,2:00pm - 4:30pm
+Woodlands,Martin Medical Centre,Fri,19:00,21:00,1140,1260,False,7:00pm - 9:00pm
+Woodlands,Martin Medical Centre,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
+Woodlands,Martin Medical Centre,Sun,08:30,12:30,510,750,False,8:30am - 12:30pm
+Woodlands,Martin Medical Centre,PH,08:30,12:30,510,750,False,8:30am - 12:30pm
+Woodlands,Marsiling Clinic & Surgery,Mon,08:30,12:00,510,720,False,8:30am - 12:00pm
+Woodlands,Marsiling Clinic & Surgery,Mon,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Woodlands,Marsiling Clinic & Surgery,Mon,18:00,20:30,1080,1230,False,6:00pm - 8:30pm
+Woodlands,Marsiling Clinic & Surgery,Tues,08:30,12:00,510,720,False,8:30am - 12:00pm
+Woodlands,Marsiling Clinic & Surgery,Tues,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Woodlands,Marsiling Clinic & Surgery,Wed,08:30,12:00,510,720,False,8:30am - 12:00pm
+Woodlands,Marsiling Clinic & Surgery,Wed,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Woodlands,Marsiling Clinic & Surgery,Wed,18:00,20:30,1080,1230,False,6:00pm - 8:30pm
+Woodlands,Marsiling Clinic & Surgery,Thurs,08:30,12:00,510,720,False,8:30am - 12:00pm
+Woodlands,Marsiling Clinic & Surgery,Thurs,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Woodlands,Marsiling Clinic & Surgery,Fri,08:30,12:00,510,720,False,8:30am - 12:00pm
+Woodlands,Marsiling Clinic & Surgery,Fri,13:00,17:00,780,1020,False,1:00pm - 5:00pm
+Woodlands,Marsiling Clinic & Surgery,Sun,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Woodlands,Family Clinic,Mon,08:00,13:00,480,780,False,8:00am - 1:00pm
 Woodlands,Family Clinic,Mon,14:00,16:30,840,990,False,2:00pm - 4:30pm
 Woodlands,Family Clinic,Mon,18:00,21:30,1080,1290,False,6:00pm - 9:30pm
@@ -5717,11 +5854,18 @@ Yishun,HeartlandHealth 18 (Yishun),Sun,17:00,22:00,1020,1320,False,5:00pm - 10:0
 Yishun,HeartlandHealth 18 (Yishun),PH,07:00,13:00,420,780,False,7:00am - 1:00pm
 Yishun,HeartlandHealth 18 (Yishun),PH,17:00,22:00,1020,1320,False,5:00pm - 10:00pm
 Yishun,Intemedical 419 Yishun,Mon,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Yishun,Intemedical 419 Yishun,Mon,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Yishun,Intemedical 419 Yishun,Tues,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Yishun,Intemedical 419 Yishun,Tues,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Yishun,Intemedical 419 Yishun,Wed,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Yishun,Intemedical 419 Yishun,Wed,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Yishun,Intemedical 419 Yishun,Thurs,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Yishun,Intemedical 419 Yishun,Thurs,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Yishun,Intemedical 419 Yishun,Fri,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Yishun,Intemedical 419 Yishun,Fri,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Yishun,Intemedical 419 Yishun,Sat,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Yishun,Intemedical 419 Yishun,Sat,08:00,22:00,480,1320,False,8:00am - 10:00pm
+Yishun,Intemedical 419 Yishun,Sun,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Yishun,Intemedical 419 Yishun,Sun,08:00,22:00,480,1320,False,8:00am - 10:00pm
 Yishun,Clinic and 844 Surgery #,Mon,08:00,17:00,480,1020,False,8:00am - 5:00pm
 Yishun,Clinic and 844 Surgery #,Tues,08:00,17:00,480,1020,False,8:00am - 5:00pm
@@ -5838,34 +5982,34 @@ Yishun,OneCare Clinic 431 (Yishun),Fri,18:00,21:00,1080,1260,False,6:00pm - 9:00
 Yishun,OneCare Clinic 431 (Yishun),Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
 Yishun,OneCare Clinic 431 (Yishun),Sun,08:30,13:00,510,780,False,8:30am - 1:00pm
 Yishun,OneCare Clinic 431 (Yishun),Sun,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Mon,08:30,14:30,510,870,False,8:30am - 2:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Mon,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Mon,08:30,14:30,510,870,False,8:30am - 2:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Mon,08:30,15:00,510,900,False,8:30am - 3:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Mon,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Tues,08:30,14:30,510,870,False,8:30am - 2:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Tues,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Tues,08:30,14:30,510,870,False,8:30am - 2:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Tues,08:30,15:00,510,900,False,8:30am - 3:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Wed,08:30,14:30,510,870,False,8:30am - 2:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Wed,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Wed,08:30,14:30,510,870,False,8:30am - 2:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Wed,08:30,15:00,510,900,False,8:30am - 3:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Wed,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Thurs,08:30,14:30,510,870,False,8:30am - 2:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Thurs,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Thurs,08:30,14:30,510,870,False,8:30am - 2:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Thurs,08:30,15:00,510,900,False,8:30am - 3:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Fri,08:30,15:00,510,900,False,8:30am - 3:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Fri,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Sun,08:30,13:00,510,780,False,8:30am - 1:00pm
-Yishun,Our Yishun 471B Family Clinic 716 Pacific Medical and Dental Group,Sun,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Yishun,Our Yishun 471B Family Clinic,Mon,08:30,14:30,510,870,False,8:30am - 2:30pm
+Yishun,Our Yishun 471B Family Clinic,Mon,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Yishun,Our Yishun 471B Family Clinic,Mon,08:30,14:30,510,870,False,8:30am - 2:30pm
+Yishun,Our Yishun 471B Family Clinic,Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Yishun,Our Yishun 471B Family Clinic,Tues,08:30,14:30,510,870,False,8:30am - 2:30pm
+Yishun,Our Yishun 471B Family Clinic,Tues,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Yishun,Our Yishun 471B Family Clinic,Tues,08:30,14:30,510,870,False,8:30am - 2:30pm
+Yishun,Our Yishun 471B Family Clinic,Tues,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Yishun,Our Yishun 471B Family Clinic,Wed,08:30,14:30,510,870,False,8:30am - 2:30pm
+Yishun,Our Yishun 471B Family Clinic,Wed,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Yishun,Our Yishun 471B Family Clinic,Wed,08:30,14:30,510,870,False,8:30am - 2:30pm
+Yishun,Our Yishun 471B Family Clinic,Wed,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Yishun,Our Yishun 471B Family Clinic,Thurs,08:30,14:30,510,870,False,8:30am - 2:30pm
+Yishun,Our Yishun 471B Family Clinic,Thurs,17:30,21:00,1050,1260,False,5:30pm - 9:00pm
+Yishun,Our Yishun 471B Family Clinic,Thurs,08:30,14:30,510,870,False,8:30am - 2:30pm
+Yishun,Our Yishun 471B Family Clinic,Thurs,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Yishun,Our Yishun 471B Family Clinic,Sat,08:30,13:00,510,780,False,8:30am - 1:00pm
+Yishun,Our Yishun 471B Family Clinic,Sun,08:30,13:00,510,780,False,8:30am - 1:00pm
+Yishun,Our Yishun 471B Family Clinic,Sun,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
+Yishun,Pacific Medical 716 and Dental Group,Mon,08:30,15:00,510,900,False,8:30am - 3:00pm
+Yishun,Pacific Medical 716 and Dental Group,Mon,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
+Yishun,Pacific Medical 716 and Dental Group,Tues,08:30,15:00,510,900,False,8:30am - 3:00pm
+Yishun,Pacific Medical 716 and Dental Group,Wed,08:30,15:00,510,900,False,8:30am - 3:00pm
+Yishun,Pacific Medical 716 and Dental Group,Wed,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
+Yishun,Pacific Medical 716 and Dental Group,Thurs,08:30,15:00,510,900,False,8:30am - 3:00pm
+Yishun,Pacific Medical 716 and Dental Group,Fri,08:30,15:00,510,900,False,8:30am - 3:00pm
+Yishun,Pacific Medical 716 and Dental Group,Fri,18:30,21:30,1110,1290,False,6:30pm - 9:30pm
+Yishun,Pacific Medical 716 and Dental Group,Sat,08:30,12:30,510,750,False,8:30am - 12:30pm
 Yishun,PanCare Medical 605 Clinic (Yishun Nee 605),Mon,08:30,13:00,510,780,False,8:30am - 1:00pm
 Yishun,PanCare Medical 605 Clinic (Yishun Nee 605),Mon,14:00,17:00,840,1020,False,2:00pm - 5:00pm
 Yishun,PanCare Medical 605 Clinic (Yishun Nee 605),Mon,18:00,21:00,1080,1260,False,6:00pm - 9:00pm
