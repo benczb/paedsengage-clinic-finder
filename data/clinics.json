@@ -4877,7 +4877,8 @@
     "location": "Bedok",
     "clinic_name": "A1 Medical Clinic",
     "doctors": [
-      "Dr Chua Yao Dong"
+      "Dr Chua Yao Dong",
+      "Dr Ang Jie"
     ],
     "address": "418 Bedok North, Avenue 2, #01-63, Garden Hill Singapore, 460418",
     "contacts": [
@@ -4888,8 +4889,8 @@
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=A1+Medical+Clinic%2C+418+Bedok+North%2C+Avenue+2%2C+%2301-63%2C+Garden+Hill+Singapore%2C+460418",
     "operating_hours_text": [
       "Mon, Tues, 9:00am - 1:00pm",
-      "Thurs & Fri: 6:30pm - 10:00pm",
-      "Wed: 9:00am - 1:00pm",
+      "Thurs & Fri: 2:00pm - 5:00pm 6:30pm - 10:00pm",
+      "Wed: 9:00am - 1:00pm 2:00pm - 5:00pm",
       "Sat: 9:00am - 12:00pm",
       "Sun: 7:00pm - 10:00pm",
       "Closed on PH"
@@ -4936,6 +4937,14 @@
               "end_minutes": 780,
               "overnight": false,
               "display": "9:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:00",
+              "start_minutes": 840,
+              "end_minutes": 1020,
+              "overnight": false,
+              "display": "2:00pm - 5:00pm"
             }
           ],
           "notes": [],
@@ -4944,6 +4953,14 @@
         {
           "day": "Thurs",
           "time_blocks": [
+            {
+              "start": "14:00",
+              "end": "17:00",
+              "start_minutes": 840,
+              "end_minutes": 1020,
+              "overnight": false,
+              "display": "2:00pm - 5:00pm"
+            },
             {
               "start": "18:30",
               "end": "22:00",
@@ -4959,6 +4976,14 @@
         {
           "day": "Fri",
           "time_blocks": [
+            {
+              "start": "14:00",
+              "end": "17:00",
+              "start_minutes": 840,
+              "end_minutes": 1020,
+              "overnight": false,
+              "display": "2:00pm - 5:00pm"
+            },
             {
               "start": "18:30",
               "end": "22:00",
@@ -5605,26 +5630,19 @@
   },
   {
     "location": "Bedok",
-    "clinic_name": "Carelite Medical Clinic Clinic@Costa",
+    "clinic_name": "Carelite Medical Clinic",
     "doctors": [
-      "Dr Ek Jen Lih",
-      "Dr Nam Min Fern Alvina"
+      "Dr Ek Jen Lih"
     ],
-    "address": "18 Bedok South Road, #01- 67, Singapore 460018, 84 Bayshore Road, #01-35/36, Singapore 469994",
+    "address": "18 Bedok South Road, #01- 67, Singapore 460018",
     "contacts": [
-      "62612410",
-      "62433638"
+      "62612410"
     ],
     "contact_primary": "62612410",
     "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Carelite+Medical+Clinic+Clinic%40Costa%2C+18+Bedok+South+Road%2C+%2301-+67%2C+Singapore+460018%2C+84+Bayshore+Road%2C+%2301-35%2F36%2C+Singapore+469994",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Carelite+Medical+Clinic%2C+18+Bedok+South+Road%2C+%2301-+67%2C+Singapore+460018",
     "operating_hours_text": [
       "Mon - Fri: 8:30am - 1:00pm 2:00pm - 5:00pm",
-      "Sat: 8:30am - 1:00pm",
-      "Closed on Sun & PH",
-      "Mon, Tues & 8:30am - 2:30pm",
-      "Thurs: 6:30pm - 9:00pm",
-      "Wed & Fri: 8:30am - 2:30pm",
       "Sat: 8:30am - 1:00pm",
       "Closed on Sun & PH"
     ],
@@ -5648,14 +5666,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "08:30",
-              "end": "14:30",
-              "start_minutes": 510,
-              "end_minutes": 870,
-              "overnight": false,
-              "display": "8:30am - 2:30pm"
             }
           ],
           "notes": [],
@@ -5679,14 +5689,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "08:30",
-              "end": "14:30",
-              "start_minutes": 510,
-              "end_minutes": 870,
-              "overnight": false,
-              "display": "8:30am - 2:30pm"
             }
           ],
           "notes": [],
@@ -5710,14 +5712,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "08:30",
-              "end": "14:30",
-              "start_minutes": 510,
-              "end_minutes": 870,
-              "overnight": false,
-              "display": "8:30am - 2:30pm"
             }
           ],
           "notes": [],
@@ -5741,14 +5735,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "18:30",
-              "end": "21:00",
-              "start_minutes": 1110,
-              "end_minutes": 1260,
-              "overnight": false,
-              "display": "6:30pm - 9:00pm"
             }
           ],
           "notes": [],
@@ -5772,14 +5758,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "08:30",
-              "end": "14:30",
-              "start_minutes": 510,
-              "end_minutes": 870,
-              "overnight": false,
-              "display": "8:30am - 2:30pm"
             }
           ],
           "notes": [],
@@ -5795,7 +5773,131 @@
               "end_minutes": 780,
               "overnight": false,
               "display": "8:30am - 1:00pm"
-            },
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Sun",
+          "time_blocks": [],
+          "notes": [
+            "Closed"
+          ],
+          "is_closed": true
+        },
+        {
+          "day": "PH",
+          "time_blocks": [],
+          "notes": [
+            "Closed"
+          ],
+          "is_closed": true
+        }
+      ],
+      "general_notes": []
+    }
+  },
+  {
+    "location": "Bedok",
+    "clinic_name": "Clinic@Costa",
+    "doctors": [
+      "Dr Nam Min Fern Alvina"
+    ],
+    "address": "84 Bayshore Road, #01-35/36, Singapore 469994",
+    "contacts": [
+      "62433638"
+    ],
+    "contact_primary": "62433638",
+    "contact_notes": [],
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clinic%40Costa%2C+84+Bayshore+Road%2C+%2301-35%2F36%2C+Singapore+469994",
+    "operating_hours_text": [
+      "Mon, Tues & 8:30am - 2:30pm",
+      "Thurs: 6:30pm - 9:00pm",
+      "Wed & Fri: 8:30am - 2:30pm",
+      "Sat: 8:30am - 1:00pm",
+      "Closed on Sun & PH"
+    ],
+    "schedule": {
+      "days": [
+        {
+          "day": "Mon",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "14:30",
+              "start_minutes": 510,
+              "end_minutes": 870,
+              "overnight": false,
+              "display": "8:30am - 2:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Tues",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "14:30",
+              "start_minutes": 510,
+              "end_minutes": 870,
+              "overnight": false,
+              "display": "8:30am - 2:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Wed",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "14:30",
+              "start_minutes": 510,
+              "end_minutes": 870,
+              "overnight": false,
+              "display": "8:30am - 2:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Thurs",
+          "time_blocks": [
+            {
+              "start": "18:30",
+              "end": "21:00",
+              "start_minutes": 1110,
+              "end_minutes": 1260,
+              "overnight": false,
+              "display": "6:30pm - 9:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Fri",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "14:30",
+              "start_minutes": 510,
+              "end_minutes": 870,
+              "overnight": false,
+              "display": "8:30am - 2:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Sat",
+          "time_blocks": [
             {
               "start": "08:30",
               "end": "13:00",
@@ -6674,8 +6776,8 @@
     "clinic_name": "Good Medical Clinic (Bedok North)",
     "doctors": [
       "Dr Seng Yi Feng Melvin",
-      "Dr Wei Enli Wycliffe Feng",
-      "Dr Rachel Loh Cai",
+      "Dr Wei Enli Wycliffe",
+      "Dr Rachel Loh Cai Feng",
       "Dr Yang Guirong"
     ],
     "address": "136 Bedok North, Avenue 3, #01-152, Singapore 460136",
@@ -7817,8 +7919,8 @@
     "doctors": [
       "Dr Kong Kah Shern Andy",
       "Dr Chin Yuin Cheng Susanna",
-      "Dr Wong Janti Wee",
-      "Dr Eddie Tan Tung",
+      "Dr Wong Janti",
+      "Dr Eddie Tan Tung Wee",
       "Dr Fong Shi En Grace"
     ],
     "address": "59 New Upper Changi, Road, #01-1268, Singapore 461059",
@@ -10355,11 +10457,11 @@
     "contact_notes": [],
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=SM+Haneefa+Clinic%2C+11+Chai+Chee+Road%2C+%2301-23%2C+Singapore+460011",
     "operating_hours_text": [
-      "Mon & Wed 8:30am - 1:00pm 2.00pm - 7:00pm",
-      "Tues, Thurs & 8:30am - 1:00pm",
-      "Fri: 2.00pm - 5:30pm",
-      "Sat: 8:30am - 1:00pm",
-      "Sun: 9:00am - 1:00pm",
+      "Mon & Wed 8:30am - 1:00pm 2.00pm - 7:00pm 8:30am - 1:00pm",
+      "Tues, Thurs & 2.00pm - 5:30pm",
+      "Fri: 8:30am - 1:00pm",
+      "Sat: 9:00am - 1:00pm",
+      "Sun:",
       "Closed on PH"
     ],
     "schedule": {
@@ -10382,6 +10484,14 @@
               "end_minutes": 1140,
               "overnight": false,
               "display": "2:00pm - 7:00pm"
+            },
+            {
+              "start": "08:30",
+              "end": "13:00",
+              "start_minutes": 510,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:30am - 1:00pm"
             }
           ],
           "notes": [],
@@ -10391,12 +10501,12 @@
           "day": "Tues",
           "time_blocks": [
             {
-              "start": "08:30",
-              "end": "13:00",
-              "start_minutes": 510,
-              "end_minutes": 780,
+              "start": "14:00",
+              "end": "17:30",
+              "start_minutes": 840,
+              "end_minutes": 1050,
               "overnight": false,
-              "display": "8:30am - 1:00pm"
+              "display": "2:00pm - 5:30pm"
             }
           ],
           "notes": [],
@@ -10420,14 +10530,7 @@
               "end_minutes": 1140,
               "overnight": false,
               "display": "2:00pm - 7:00pm"
-            }
-          ],
-          "notes": [],
-          "is_closed": false
-        },
-        {
-          "day": "Thurs",
-          "time_blocks": [
+            },
             {
               "start": "08:30",
               "end": "13:00",
@@ -10441,7 +10544,7 @@
           "is_closed": false
         },
         {
-          "day": "Fri",
+          "day": "Thurs",
           "time_blocks": [
             {
               "start": "14:00",
@@ -10456,7 +10559,7 @@
           "is_closed": false
         },
         {
-          "day": "Sat",
+          "day": "Fri",
           "time_blocks": [
             {
               "start": "08:30",
@@ -10471,7 +10574,7 @@
           "is_closed": false
         },
         {
-          "day": "Sun",
+          "day": "Sat",
           "time_blocks": [
             {
               "start": "09:00",
@@ -14442,7 +14545,89 @@
   },
   {
     "location": "Boon Lay",
-    "clinic_name": "Our Jurong West Family Clinic",
+    "clinic_name": "Our Jurong West",
+    "doctors": [
+      "Dr Tan Yan Yuan"
+    ],
+    "address": "216 Boon Lay Avenue",
+    "contacts": [
+      "65310969"
+    ],
+    "contact_primary": "65310969",
+    "contact_notes": [],
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Our+Jurong+West%2C+216+Boon+Lay+Avenue",
+    "operating_hours_text": [
+      "Mon - Thurs: 8:00am - 1:30pm"
+    ],
+    "schedule": {
+      "days": [
+        {
+          "day": "Mon",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:30",
+              "start_minutes": 480,
+              "end_minutes": 810,
+              "overnight": false,
+              "display": "8:00am - 1:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Tues",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:30",
+              "start_minutes": 480,
+              "end_minutes": 810,
+              "overnight": false,
+              "display": "8:00am - 1:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Wed",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:30",
+              "start_minutes": 480,
+              "end_minutes": 810,
+              "overnight": false,
+              "display": "8:00am - 1:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Thurs",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:30",
+              "start_minutes": 480,
+              "end_minutes": 810,
+              "overnight": false,
+              "display": "8:00am - 1:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        }
+      ],
+      "general_notes": []
+    }
+  },
+  {
+    "location": "Boon Lay",
+    "clinic_name": "Family Clinic",
     "doctors": [
       "Dr Amos Lee En Sheng"
     ],
@@ -14452,7 +14637,7 @@
     ],
     "contact_primary": "89773550",
     "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Our+Jurong+West+Family+Clinic%2C+%2301-03%2C+Singapore+640216",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Family+Clinic%2C+%2301-03%2C+Singapore+640216",
     "operating_hours_text": [
       "5:30pm - 9:00pm (WhatsApp Only) Fri: 8:00am - 1:30pm",
       "Sat: 9:00am - 1:00pm",
@@ -18455,6 +18640,192 @@
               "end_minutes": 720,
               "overnight": false,
               "display": "9:00am - 12:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "PH",
+          "time_blocks": [],
+          "notes": [
+            "Check clinic website"
+          ],
+          "is_closed": false
+        }
+      ],
+      "general_notes": []
+    }
+  },
+  {
+    "location": "Bukit Batok",
+    "clinic_name": "OneCare Clinic (Bukit Gombak MRT)",
+    "doctors": [
+      "Dr Gamit Vikram Kumar"
+    ],
+    "address": "802 Bukit Batok West, Avenue 5, #01-16, Bukit Gombak MRT, Singapore 659083",
+    "contacts": [
+      "62558472"
+    ],
+    "contact_primary": "62558472",
+    "contact_notes": [],
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OneCare+Clinic+%28Bukit+Gombak+MRT%29%2C+802+Bukit+Batok+West%2C+Avenue+5%2C+%2301-16%2C+Bukit+Gombak+MRT%2C+Singapore+659083",
+    "operating_hours_text": [
+      "Mon - Fri: 8:00am - 3:00pm 5:00pm - 9:30pm",
+      "Sat: 8:00am - 1:00pm",
+      "Sun: 8:00am - 1:00pm 5:00pm - 9:30pm",
+      "PH: Check clinic website"
+    ],
+    "schedule": {
+      "days": [
+        {
+          "day": "Mon",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:00",
+              "end": "21:30",
+              "start_minutes": 1020,
+              "end_minutes": 1290,
+              "overnight": false,
+              "display": "5:00pm - 9:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Tues",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:00",
+              "end": "21:30",
+              "start_minutes": 1020,
+              "end_minutes": 1290,
+              "overnight": false,
+              "display": "5:00pm - 9:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Wed",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:00",
+              "end": "21:30",
+              "start_minutes": 1020,
+              "end_minutes": 1290,
+              "overnight": false,
+              "display": "5:00pm - 9:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Thurs",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:00",
+              "end": "21:30",
+              "start_minutes": 1020,
+              "end_minutes": 1290,
+              "overnight": false,
+              "display": "5:00pm - 9:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Fri",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:00",
+              "end": "21:30",
+              "start_minutes": 1020,
+              "end_minutes": 1290,
+              "overnight": false,
+              "display": "5:00pm - 9:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Sat",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Sun",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            },
+            {
+              "start": "17:00",
+              "end": "21:30",
+              "start_minutes": 1020,
+              "end_minutes": 1290,
+              "overnight": false,
+              "display": "5:00pm - 9:30pm"
             }
           ],
           "notes": [],
@@ -23199,23 +23570,19 @@
   },
   {
     "location": "Bukit Timah",
-    "clinic_name": "Our Bukit Timah Family Clinic",
+    "clinic_name": "Our Bukit Timah",
     "doctors": [
-      "Dr Tan Yan Yuan Joshua",
-      "Dr Chu Yan Ked"
+      "Dr Tan Yan Yuan"
     ],
-    "address": "896 Dunearn Road, #03-04, Singapore 589472",
+    "address": "896 Dunearn Road",
     "contacts": [
-      "65303713",
-      "89773287"
+      "65303713"
     ],
     "contact_primary": "65303713",
     "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Our+Bukit+Timah+Family+Clinic%2C+896+Dunearn+Road%2C+%2303-04%2C+Singapore+589472",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Our+Bukit+Timah%2C+896+Dunearn+Road",
     "operating_hours_text": [
-      "Mon - Fri: 9:00am - 3:00pm 5:30pm - 9:00pm (WhatsApp Only) Sat: 9:00am - 1:30pm",
-      "Sun: 5:30pm - 9:00pm",
-      "Closed on PH"
+      "Mon - Fri: 9:00am - 3:00pm"
     ],
     "schedule": {
       "days": [
@@ -23229,27 +23596,9 @@
               "end_minutes": 900,
               "overnight": false,
               "display": "9:00am - 3:00pm"
-            },
-            {
-              "start": "17:30",
-              "end": "21:00",
-              "start_minutes": 1050,
-              "end_minutes": 1260,
-              "overnight": false,
-              "display": "5:30pm - 9:00pm"
-            },
-            {
-              "start": "09:00",
-              "end": "13:30",
-              "start_minutes": 540,
-              "end_minutes": 810,
-              "overnight": false,
-              "display": "9:00am - 1:30pm"
             }
           ],
-          "notes": [
-            "(WhatsApp Only) Sat:"
-          ],
+          "notes": [],
           "is_closed": false
         },
         {
@@ -23262,27 +23611,9 @@
               "end_minutes": 900,
               "overnight": false,
               "display": "9:00am - 3:00pm"
-            },
-            {
-              "start": "17:30",
-              "end": "21:00",
-              "start_minutes": 1050,
-              "end_minutes": 1260,
-              "overnight": false,
-              "display": "5:30pm - 9:00pm"
-            },
-            {
-              "start": "09:00",
-              "end": "13:30",
-              "start_minutes": 540,
-              "end_minutes": 810,
-              "overnight": false,
-              "display": "9:00am - 1:30pm"
             }
           ],
-          "notes": [
-            "(WhatsApp Only) Sat:"
-          ],
+          "notes": [],
           "is_closed": false
         },
         {
@@ -23295,27 +23626,9 @@
               "end_minutes": 900,
               "overnight": false,
               "display": "9:00am - 3:00pm"
-            },
-            {
-              "start": "17:30",
-              "end": "21:00",
-              "start_minutes": 1050,
-              "end_minutes": 1260,
-              "overnight": false,
-              "display": "5:30pm - 9:00pm"
-            },
-            {
-              "start": "09:00",
-              "end": "13:30",
-              "start_minutes": 540,
-              "end_minutes": 810,
-              "overnight": false,
-              "display": "9:00am - 1:30pm"
             }
           ],
-          "notes": [
-            "(WhatsApp Only) Sat:"
-          ],
+          "notes": [],
           "is_closed": false
         },
         {
@@ -23328,27 +23641,9 @@
               "end_minutes": 900,
               "overnight": false,
               "display": "9:00am - 3:00pm"
-            },
-            {
-              "start": "17:30",
-              "end": "21:00",
-              "start_minutes": 1050,
-              "end_minutes": 1260,
-              "overnight": false,
-              "display": "5:30pm - 9:00pm"
-            },
-            {
-              "start": "09:00",
-              "end": "13:30",
-              "start_minutes": 540,
-              "end_minutes": 810,
-              "overnight": false,
-              "display": "9:00am - 1:30pm"
             }
           ],
-          "notes": [
-            "(WhatsApp Only) Sat:"
-          ],
+          "notes": [],
           "is_closed": false
         },
         {
@@ -23361,29 +23656,35 @@
               "end_minutes": 900,
               "overnight": false,
               "display": "9:00am - 3:00pm"
-            },
-            {
-              "start": "17:30",
-              "end": "21:00",
-              "start_minutes": 1050,
-              "end_minutes": 1260,
-              "overnight": false,
-              "display": "5:30pm - 9:00pm"
-            },
-            {
-              "start": "09:00",
-              "end": "13:30",
-              "start_minutes": 540,
-              "end_minutes": 810,
-              "overnight": false,
-              "display": "9:00am - 1:30pm"
             }
           ],
-          "notes": [
-            "(WhatsApp Only) Sat:"
-          ],
+          "notes": [],
           "is_closed": false
-        },
+        }
+      ],
+      "general_notes": []
+    }
+  },
+  {
+    "location": "Bukit Timah",
+    "clinic_name": "Family Clinic",
+    "doctors": [
+      "Dr Chu Yan Ked Joshua"
+    ],
+    "address": "#03-04, Singapore 589472",
+    "contacts": [
+      "89773287"
+    ],
+    "contact_primary": "89773287",
+    "contact_notes": [],
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Family+Clinic%2C+%2303-04%2C+Singapore+589472",
+    "operating_hours_text": [
+      "5:30pm - 9:00pm (WhatsApp Only) Sat: 9:00am - 1:30pm",
+      "Sun: 5:30pm - 9:00pm",
+      "Closed on PH"
+    ],
+    "schedule": {
+      "days": [
         {
           "day": "Sun",
           "time_blocks": [
@@ -23408,7 +23709,9 @@
           "is_closed": true
         }
       ],
-      "general_notes": []
+      "general_notes": [
+        "5:30pm - 9:00pm (WhatsApp Only) Sat: 9:00am - 1:30pm"
+      ]
     }
   },
   {
@@ -25176,19 +25479,17 @@
     "doctors": [
       "Dr Lai Li Cheng"
     ],
-    "address": "531 Upper Cross Street, #02-01, Singapore 050531, 20 Upper Circular Road",
+    "address": "531 Upper Cross Street, #02-01, Singapore 050531",
     "contacts": [
-      "62267188",
-      "69090190"
+      "62267188"
     ],
     "contact_primary": "62267188",
     "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chinatown+Wellness+Clinic%2C+531+Upper+Cross+Street%2C+%2302-01%2C+Singapore+050531%2C+20+Upper+Circular+Road",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Chinatown+Wellness+Clinic%2C+531+Upper+Cross+Street%2C+%2302-01%2C+Singapore+050531",
     "operating_hours_text": [
       "Mon - Fri: 8:30am - 1:00pm 2:00pm - 5:00pm",
       "Sat: 9:00am - 1:00pm",
-      "Closed on Sun & PH",
-      "Mon - Fri: 7:30am - 6:00pm"
+      "Closed on Sun & PH"
     ],
     "schedule": {
       "days": [
@@ -25210,14 +25511,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "07:30",
-              "end": "18:00",
-              "start_minutes": 450,
-              "end_minutes": 1080,
-              "overnight": false,
-              "display": "7:30am - 6:00pm"
             }
           ],
           "notes": [],
@@ -25241,14 +25534,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "07:30",
-              "end": "18:00",
-              "start_minutes": 450,
-              "end_minutes": 1080,
-              "overnight": false,
-              "display": "7:30am - 6:00pm"
             }
           ],
           "notes": [],
@@ -25272,14 +25557,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "07:30",
-              "end": "18:00",
-              "start_minutes": 450,
-              "end_minutes": 1080,
-              "overnight": false,
-              "display": "7:30am - 6:00pm"
             }
           ],
           "notes": [],
@@ -25303,14 +25580,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "07:30",
-              "end": "18:00",
-              "start_minutes": 450,
-              "end_minutes": 1080,
-              "overnight": false,
-              "display": "7:30am - 6:00pm"
             }
           ],
           "notes": [],
@@ -25334,14 +25603,6 @@
               "end_minutes": 1020,
               "overnight": false,
               "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "07:30",
-              "end": "18:00",
-              "start_minutes": 450,
-              "end_minutes": 1080,
-              "overnight": false,
-              "display": "7:30am - 6:00pm"
             }
           ],
           "notes": [],
@@ -25388,18 +25649,95 @@
     "doctors": [
       "Dr Chan Yak Leong Darren"
     ],
-    "address": "#B1-26/29, The Riverwalk, Singapore 058416",
+    "address": "20 Upper Circular Road, #B1-26/29, The Riverwalk, Singapore 058416",
     "contacts": [
+      "69090190",
       "87799898"
     ],
-    "contact_primary": "87799898",
+    "contact_primary": "69090190",
     "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediway+Medical+Centre%2C+%23B1-26%2F29%2C+The+Riverwalk%2C+Singapore+058416",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mediway+Medical+Centre%2C+20+Upper+Circular+Road%2C+%23B1-26%2F29%2C+The+Riverwalk%2C+Singapore+058416",
     "operating_hours_text": [
+      "Mon - Fri: 7:30am - 6:00pm",
       "Sat: 7:30am - 1:00pm (WhatsApp Closed on Sun & PH Only)"
     ],
     "schedule": {
       "days": [
+        {
+          "day": "Mon",
+          "time_blocks": [
+            {
+              "start": "07:30",
+              "end": "18:00",
+              "start_minutes": 450,
+              "end_minutes": 1080,
+              "overnight": false,
+              "display": "7:30am - 6:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Tues",
+          "time_blocks": [
+            {
+              "start": "07:30",
+              "end": "18:00",
+              "start_minutes": 450,
+              "end_minutes": 1080,
+              "overnight": false,
+              "display": "7:30am - 6:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Wed",
+          "time_blocks": [
+            {
+              "start": "07:30",
+              "end": "18:00",
+              "start_minutes": 450,
+              "end_minutes": 1080,
+              "overnight": false,
+              "display": "7:30am - 6:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Thurs",
+          "time_blocks": [
+            {
+              "start": "07:30",
+              "end": "18:00",
+              "start_minutes": 450,
+              "end_minutes": 1080,
+              "overnight": false,
+              "display": "7:30am - 6:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Fri",
+          "time_blocks": [
+            {
+              "start": "07:30",
+              "end": "18:00",
+              "start_minutes": 450,
+              "end_minutes": 1080,
+              "overnight": false,
+              "display": "7:30am - 6:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
         {
           "day": "Sat",
           "time_blocks": [
@@ -25439,7 +25777,7 @@
       "Mon - Wed: 8:30am - 1:00pm 2:00pm - 5:00pm 6:00pm - 9:00pm",
       "Thurs & Fri: 8:30am - 1:00pm 2:00pm - 5:00pm",
       "Sat & Sun: 9:00am - 12:00pm",
-      "Closed on Sun"
+      "Closed on PH"
     ],
     "schedule": {
       "days": [
@@ -25609,10 +25947,16 @@
               "display": "9:00am - 12:00pm"
             }
           ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "PH",
+          "time_blocks": [],
           "notes": [
             "Closed"
           ],
-          "is_closed": false
+          "is_closed": true
         }
       ],
       "general_notes": []
@@ -40360,6 +40704,200 @@
   },
   {
     "location": "Jurong East",
+    "clinic_name": "OneCare Clinic (Jurong West)",
+    "doctors": [
+      "Dr Nicholas Syn Li Xun"
+    ],
+    "address": "504 Jurong West, Street 51, #01-217, Singapore 640504",
+    "contacts": [
+      "65131475"
+    ],
+    "contact_primary": "65131475",
+    "contact_notes": [],
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=OneCare+Clinic+%28Jurong+West%29%2C+504+Jurong+West%2C+Street+51%2C+%2301-217%2C+Singapore+640504",
+    "operating_hours_text": [
+      "Mon: 8:00am - 3:00pm 5:30pm - 9:30pm",
+      "Tues - Fri: 8:00am - 3:00pm 5:30pm - 9:00pm",
+      "Sat & Sun 8:00am - 1:00pm 6:00pm - 9:00pm",
+      "PH: Check with clinic website for latest updates for clinic's special opening hours on PH"
+    ],
+    "schedule": {
+      "days": [
+        {
+          "day": "Mon",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:30",
+              "end": "21:30",
+              "start_minutes": 1050,
+              "end_minutes": 1290,
+              "overnight": false,
+              "display": "5:30pm - 9:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Tues",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:30",
+              "end": "21:00",
+              "start_minutes": 1050,
+              "end_minutes": 1260,
+              "overnight": false,
+              "display": "5:30pm - 9:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Wed",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:30",
+              "end": "21:00",
+              "start_minutes": 1050,
+              "end_minutes": 1260,
+              "overnight": false,
+              "display": "5:30pm - 9:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Thurs",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:30",
+              "end": "21:00",
+              "start_minutes": 1050,
+              "end_minutes": 1260,
+              "overnight": false,
+              "display": "5:30pm - 9:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Fri",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "15:00",
+              "start_minutes": 480,
+              "end_minutes": 900,
+              "overnight": false,
+              "display": "8:00am - 3:00pm"
+            },
+            {
+              "start": "17:30",
+              "end": "21:00",
+              "start_minutes": 1050,
+              "end_minutes": 1260,
+              "overnight": false,
+              "display": "5:30pm - 9:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Sat",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            },
+            {
+              "start": "18:00",
+              "end": "21:00",
+              "start_minutes": 1080,
+              "end_minutes": 1260,
+              "overnight": false,
+              "display": "6:00pm - 9:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Sun",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            },
+            {
+              "start": "18:00",
+              "end": "21:00",
+              "start_minutes": 1080,
+              "end_minutes": 1260,
+              "overnight": false,
+              "display": "6:00pm - 9:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "PH",
+          "time_blocks": [],
+          "notes": [
+            "Check with clinic website for latest updates for clinic's special opening hours on PH"
+          ],
+          "is_closed": false
+        }
+      ],
+      "general_notes": []
+    }
+  },
+  {
+    "location": "Jurong East",
     "clinic_name": "Pancare Medical Clinic (Jurong East)",
     "doctors": [
       "Dr Chan Ji Lup Samuel",
@@ -45579,7 +46117,7 @@
   },
   {
     "location": "Kallang",
-    "clinic_name": "71 Medihealth Clinic & Surgery",
+    "clinic_name": "Medihealth 71 Clinic & Surgery",
     "doctors": [
       "Dr Tan Just Sen"
     ],
@@ -45589,7 +46127,7 @@
     ],
     "contact_primary": "62897088",
     "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=71+Medihealth+Clinic+%26+Surgery%2C+Kallang+Bahru%2C+%2301-529G%2C+Singapore+330071",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Medihealth+71+Clinic+%26+Surgery%2C+Kallang+Bahru%2C+%2301-529G%2C+Singapore+330071",
     "operating_hours_text": [
       "Mon - Sun: 8:00am - 8:00pm",
       "PH: 8:00am - 8:00pm"
@@ -47614,17 +48152,21 @@
     "clinic_name": "Shifa Clinic and Surgery (Little India)",
     "doctors": [
       "Dr Mohamed Baisal Abdul Nassar",
-      "Dr Mohamed Ghazali"
+      "Dr Mohamed Ghazali",
+      "Dr Mohan Mogilan",
+      "Dr Aliakbar Fazuludeen"
     ],
     "address": "668 Chander Road, #01-20, Singapore 210668",
     "contacts": [
-      "62957667"
+      "62957667",
+      "98120565"
     ],
     "contact_primary": "62957667",
     "contact_notes": [],
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Shifa+Clinic+and+Surgery+%28Little+India%29%2C+668+Chander+Road%2C+%2301-20%2C+Singapore+210668",
     "operating_hours_text": [
-      "Mon - Fri: 9:00am - 1:00pm 2:00pm - 9:00pm"
+      "Mon - Fri: 9:00am - 1:00pm 2:00pm - 9:00pm (WhatsApp Only) Sat - Sun: 9:00am - 1:00pm 2:00pm - 7:00pm",
+      "PH: 9:00am - 1:00pm 2:00pm - 7:00pm"
     ],
     "schedule": {
       "days": [
@@ -47646,9 +48188,27 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "2:00pm - 9:00pm"
+            },
+            {
+              "start": "09:00",
+              "end": "13:00",
+              "start_minutes": 540,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "9:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "19:00",
+              "start_minutes": 840,
+              "end_minutes": 1140,
+              "overnight": false,
+              "display": "2:00pm - 7:00pm"
             }
           ],
-          "notes": [],
+          "notes": [
+            "(WhatsApp Only) Sat - Sun:"
+          ],
           "is_closed": false
         },
         {
@@ -47669,9 +48229,27 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "2:00pm - 9:00pm"
+            },
+            {
+              "start": "09:00",
+              "end": "13:00",
+              "start_minutes": 540,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "9:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "19:00",
+              "start_minutes": 840,
+              "end_minutes": 1140,
+              "overnight": false,
+              "display": "2:00pm - 7:00pm"
             }
           ],
-          "notes": [],
+          "notes": [
+            "(WhatsApp Only) Sat - Sun:"
+          ],
           "is_closed": false
         },
         {
@@ -47692,9 +48270,27 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "2:00pm - 9:00pm"
+            },
+            {
+              "start": "09:00",
+              "end": "13:00",
+              "start_minutes": 540,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "9:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "19:00",
+              "start_minutes": 840,
+              "end_minutes": 1140,
+              "overnight": false,
+              "display": "2:00pm - 7:00pm"
             }
           ],
-          "notes": [],
+          "notes": [
+            "(WhatsApp Only) Sat - Sun:"
+          ],
           "is_closed": false
         },
         {
@@ -47715,9 +48311,27 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "2:00pm - 9:00pm"
+            },
+            {
+              "start": "09:00",
+              "end": "13:00",
+              "start_minutes": 540,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "9:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "19:00",
+              "start_minutes": 840,
+              "end_minutes": 1140,
+              "overnight": false,
+              "display": "2:00pm - 7:00pm"
             }
           ],
-          "notes": [],
+          "notes": [
+            "(WhatsApp Only) Sat - Sun:"
+          ],
           "is_closed": false
         },
         {
@@ -47738,6 +48352,47 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "2:00pm - 9:00pm"
+            },
+            {
+              "start": "09:00",
+              "end": "13:00",
+              "start_minutes": 540,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "9:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "19:00",
+              "start_minutes": 840,
+              "end_minutes": 1140,
+              "overnight": false,
+              "display": "2:00pm - 7:00pm"
+            }
+          ],
+          "notes": [
+            "(WhatsApp Only) Sat - Sun:"
+          ],
+          "is_closed": false
+        },
+        {
+          "day": "PH",
+          "time_blocks": [
+            {
+              "start": "09:00",
+              "end": "13:00",
+              "start_minutes": 540,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "9:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "19:00",
+              "start_minutes": 840,
+              "end_minutes": 1140,
+              "overnight": false,
+              "display": "2:00pm - 7:00pm"
             }
           ],
           "notes": [],
@@ -48396,26 +49051,21 @@
   },
   {
     "location": "Macpherson",
-    "clinic_name": "Care & Cure Medical Clinic and Surgery Care For You Medical Clinic",
+    "clinic_name": "Care & Cure Medical Clinic and Surgery",
     "doctors": [
-      "Dr Ankita Dey Denyna",
-      "Dr Choo Chin Foo"
+      "Dr Ankita Dey"
     ],
-    "address": "76 Circuit Road, #01-07, MacPherson Blossom, Singapore 370076, 86 Circuit Road, #01-1003, Singapore 370086",
+    "address": "76 Circuit Road, #01-07, MacPherson Blossom, Singapore 370076",
     "contacts": [
       "60220244",
-      "89477590",
-      "66127196"
+      "89477590"
     ],
     "contact_primary": "60220244",
     "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Care+%26+Cure+Medical+Clinic+and+Surgery+Care+For+You+Medical+Clinic%2C+76+Circuit+Road%2C+%2301-07%2C+MacPherson+Blossom%2C+Singapore+370076%2C+86+Circuit+Road%2C+%2301-1003%2C+Singapore+370086",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Care+%26+Cure+Medical+Clinic+and+Surgery%2C+76+Circuit+Road%2C+%2301-07%2C+MacPherson+Blossom%2C+Singapore+370076",
     "operating_hours_text": [
       "Mon - Fri: 8:30am - 3:30pm 4:30pm - 9:00pm (WhatsApp Only) Sat & Sun: 5:00pm - 9:00pm",
-      "Closed on PH",
-      "Mon - Fri: 8:00am - 1:00pm 2:00pm - 5:00pm",
-      "Sat: 8:00am - 12:00pm",
-      "Closed on Sun & PH"
+      "Closed on PH"
     ],
     "schedule": {
       "days": [
@@ -48445,22 +49095,6 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "5:00pm - 9:00pm"
-            },
-            {
-              "start": "08:00",
-              "end": "13:00",
-              "start_minutes": 480,
-              "end_minutes": 780,
-              "overnight": false,
-              "display": "8:00am - 1:00pm"
-            },
-            {
-              "start": "14:00",
-              "end": "17:00",
-              "start_minutes": 840,
-              "end_minutes": 1020,
-              "overnight": false,
-              "display": "2:00pm - 5:00pm"
             }
           ],
           "notes": [
@@ -48494,22 +49128,6 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "5:00pm - 9:00pm"
-            },
-            {
-              "start": "08:00",
-              "end": "13:00",
-              "start_minutes": 480,
-              "end_minutes": 780,
-              "overnight": false,
-              "display": "8:00am - 1:00pm"
-            },
-            {
-              "start": "14:00",
-              "end": "17:00",
-              "start_minutes": 840,
-              "end_minutes": 1020,
-              "overnight": false,
-              "display": "2:00pm - 5:00pm"
             }
           ],
           "notes": [
@@ -48543,22 +49161,6 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "5:00pm - 9:00pm"
-            },
-            {
-              "start": "08:00",
-              "end": "13:00",
-              "start_minutes": 480,
-              "end_minutes": 780,
-              "overnight": false,
-              "display": "8:00am - 1:00pm"
-            },
-            {
-              "start": "14:00",
-              "end": "17:00",
-              "start_minutes": 840,
-              "end_minutes": 1020,
-              "overnight": false,
-              "display": "2:00pm - 5:00pm"
             }
           ],
           "notes": [
@@ -48592,22 +49194,6 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "5:00pm - 9:00pm"
-            },
-            {
-              "start": "08:00",
-              "end": "13:00",
-              "start_minutes": 480,
-              "end_minutes": 780,
-              "overnight": false,
-              "display": "8:00am - 1:00pm"
-            },
-            {
-              "start": "14:00",
-              "end": "17:00",
-              "start_minutes": 840,
-              "end_minutes": 1020,
-              "overnight": false,
-              "display": "2:00pm - 5:00pm"
             }
           ],
           "notes": [
@@ -48641,7 +49227,48 @@
               "end_minutes": 1260,
               "overnight": false,
               "display": "5:00pm - 9:00pm"
-            },
+            }
+          ],
+          "notes": [
+            "(WhatsApp Only) Sat & Sun:"
+          ],
+          "is_closed": false
+        },
+        {
+          "day": "PH",
+          "time_blocks": [],
+          "notes": [
+            "Closed"
+          ],
+          "is_closed": true
+        }
+      ],
+      "general_notes": []
+    }
+  },
+  {
+    "location": "Macpherson",
+    "clinic_name": "Care For You Medical Clinic",
+    "doctors": [
+      "Dr Choo Chin Foo Denyna"
+    ],
+    "address": "86 Circuit Road, #01-1003, Singapore 370086",
+    "contacts": [
+      "66127196"
+    ],
+    "contact_primary": "66127196",
+    "contact_notes": [],
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Care+For+You+Medical+Clinic%2C+86+Circuit+Road%2C+%2301-1003%2C+Singapore+370086",
+    "operating_hours_text": [
+      "Mon - Fri: 8:00am - 1:00pm 2:00pm - 5:00pm",
+      "Sat: 8:00am - 12:00pm",
+      "Closed on Sun & PH"
+    ],
+    "schedule": {
+      "days": [
+        {
+          "day": "Mon",
+          "time_blocks": [
             {
               "start": "08:00",
               "end": "13:00",
@@ -48659,9 +49286,99 @@
               "display": "2:00pm - 5:00pm"
             }
           ],
-          "notes": [
-            "(WhatsApp Only) Sat & Sun:"
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Tues",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:00",
+              "start_minutes": 840,
+              "end_minutes": 1020,
+              "overnight": false,
+              "display": "2:00pm - 5:00pm"
+            }
           ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Wed",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:00",
+              "start_minutes": 840,
+              "end_minutes": 1020,
+              "overnight": false,
+              "display": "2:00pm - 5:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Thurs",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:00",
+              "start_minutes": 840,
+              "end_minutes": 1020,
+              "overnight": false,
+              "display": "2:00pm - 5:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Fri",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:00",
+              "start_minutes": 840,
+              "end_minutes": 1020,
+              "overnight": false,
+              "display": "2:00pm - 5:00pm"
+            }
+          ],
+          "notes": [],
           "is_closed": false
         },
         {
@@ -54253,21 +54970,25 @@
   },
   {
     "location": "Pasir Ris",
-    "clinic_name": "Clinic10",
+    "clinic_name": "Clinic10 7 Fullerton Health Hub @ Pasir Ris",
     "doctors": [
-      "Dr Quek Genevieve Lorraine"
+      "Dr Quek Genevieve Lorraine Thomas",
+      "Dr Maria Bernadette S"
     ],
-    "address": "644 Pasir Ris Drive 10, #01-20, Singapore 510644",
+    "address": "644 Pasir Ris Drive 10, #01-20, Singapore 510644, Pasir Ris Central, #02-44, Pasir Ris Mall, Singapore 519612",
     "contacts": [
-      "65825123"
+      "65825123",
+      "60118090"
     ],
     "contact_primary": "65825123",
     "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clinic10%2C+644+Pasir+Ris+Drive+10%2C+%2301-20%2C+Singapore+510644",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clinic10+7+Fullerton+Health+Hub+%40+Pasir+Ris%2C+644+Pasir+Ris+Drive+10%2C+%2301-20%2C+Singapore+510644%2C+Pasir+Ris+Central%2C+%2302-44%2C+Pasir+Ris+Mall%2C+Singapore+519612",
     "operating_hours_text": [
       "Mon - Fri: 8:30am - 4:15pm",
       "Sun: 9:00am - 12:00pm",
-      "Closed on Sat & PH"
+      "Closed on Sat & PH",
+      "Mon - Sun: 8:30am - 12:30pm 1:30pm - 5:30pm 6:30pm - 8:30pm",
+      "PH: 8:30am - 12:30pm 1:30pm - 5:30pm 6:30pm - 8:30pm"
     ],
     "schedule": {
       "days": [
@@ -54281,6 +55002,30 @@
               "end_minutes": 975,
               "overnight": false,
               "display": "8:30am - 4:15pm"
+            },
+            {
+              "start": "08:30",
+              "end": "12:30",
+              "start_minutes": 510,
+              "end_minutes": 750,
+              "overnight": false,
+              "display": "8:30am - 12:30pm"
+            },
+            {
+              "start": "13:30",
+              "end": "17:30",
+              "start_minutes": 810,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "1:30pm - 5:30pm"
+            },
+            {
+              "start": "18:30",
+              "end": "20:30",
+              "start_minutes": 1110,
+              "end_minutes": 1230,
+              "overnight": false,
+              "display": "6:30pm - 8:30pm"
             }
           ],
           "notes": [],
@@ -54296,6 +55041,30 @@
               "end_minutes": 975,
               "overnight": false,
               "display": "8:30am - 4:15pm"
+            },
+            {
+              "start": "08:30",
+              "end": "12:30",
+              "start_minutes": 510,
+              "end_minutes": 750,
+              "overnight": false,
+              "display": "8:30am - 12:30pm"
+            },
+            {
+              "start": "13:30",
+              "end": "17:30",
+              "start_minutes": 810,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "1:30pm - 5:30pm"
+            },
+            {
+              "start": "18:30",
+              "end": "20:30",
+              "start_minutes": 1110,
+              "end_minutes": 1230,
+              "overnight": false,
+              "display": "6:30pm - 8:30pm"
             }
           ],
           "notes": [],
@@ -54311,6 +55080,30 @@
               "end_minutes": 975,
               "overnight": false,
               "display": "8:30am - 4:15pm"
+            },
+            {
+              "start": "08:30",
+              "end": "12:30",
+              "start_minutes": 510,
+              "end_minutes": 750,
+              "overnight": false,
+              "display": "8:30am - 12:30pm"
+            },
+            {
+              "start": "13:30",
+              "end": "17:30",
+              "start_minutes": 810,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "1:30pm - 5:30pm"
+            },
+            {
+              "start": "18:30",
+              "end": "20:30",
+              "start_minutes": 1110,
+              "end_minutes": 1230,
+              "overnight": false,
+              "display": "6:30pm - 8:30pm"
             }
           ],
           "notes": [],
@@ -54326,6 +55119,30 @@
               "end_minutes": 975,
               "overnight": false,
               "display": "8:30am - 4:15pm"
+            },
+            {
+              "start": "08:30",
+              "end": "12:30",
+              "start_minutes": 510,
+              "end_minutes": 750,
+              "overnight": false,
+              "display": "8:30am - 12:30pm"
+            },
+            {
+              "start": "13:30",
+              "end": "17:30",
+              "start_minutes": 810,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "1:30pm - 5:30pm"
+            },
+            {
+              "start": "18:30",
+              "end": "20:30",
+              "start_minutes": 1110,
+              "end_minutes": 1230,
+              "overnight": false,
+              "display": "6:30pm - 8:30pm"
             }
           ],
           "notes": [],
@@ -54341,6 +55158,30 @@
               "end_minutes": 975,
               "overnight": false,
               "display": "8:30am - 4:15pm"
+            },
+            {
+              "start": "08:30",
+              "end": "12:30",
+              "start_minutes": 510,
+              "end_minutes": 750,
+              "overnight": false,
+              "display": "8:30am - 12:30pm"
+            },
+            {
+              "start": "13:30",
+              "end": "17:30",
+              "start_minutes": 810,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "1:30pm - 5:30pm"
+            },
+            {
+              "start": "18:30",
+              "end": "20:30",
+              "start_minutes": 1110,
+              "end_minutes": 1230,
+              "overnight": false,
+              "display": "6:30pm - 8:30pm"
             }
           ],
           "notes": [],
@@ -54348,11 +55189,36 @@
         },
         {
           "day": "Sat",
-          "time_blocks": [],
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "12:30",
+              "start_minutes": 510,
+              "end_minutes": 750,
+              "overnight": false,
+              "display": "8:30am - 12:30pm"
+            },
+            {
+              "start": "13:30",
+              "end": "17:30",
+              "start_minutes": 810,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "1:30pm - 5:30pm"
+            },
+            {
+              "start": "18:30",
+              "end": "20:30",
+              "start_minutes": 1110,
+              "end_minutes": 1230,
+              "overnight": false,
+              "display": "6:30pm - 8:30pm"
+            }
+          ],
           "notes": [
             "Closed"
           ],
-          "is_closed": true
+          "is_closed": false
         },
         {
           "day": "Sun",
@@ -54364,6 +55230,30 @@
               "end_minutes": 720,
               "overnight": false,
               "display": "9:00am - 12:00pm"
+            },
+            {
+              "start": "08:30",
+              "end": "12:30",
+              "start_minutes": 510,
+              "end_minutes": 750,
+              "overnight": false,
+              "display": "8:30am - 12:30pm"
+            },
+            {
+              "start": "13:30",
+              "end": "17:30",
+              "start_minutes": 810,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "1:30pm - 5:30pm"
+            },
+            {
+              "start": "18:30",
+              "end": "20:30",
+              "start_minutes": 1110,
+              "end_minutes": 1230,
+              "overnight": false,
+              "display": "6:30pm - 8:30pm"
             }
           ],
           "notes": [],
@@ -54371,281 +55261,35 @@
         },
         {
           "day": "PH",
-          "time_blocks": [],
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "12:30",
+              "start_minutes": 510,
+              "end_minutes": 750,
+              "overnight": false,
+              "display": "8:30am - 12:30pm"
+            },
+            {
+              "start": "13:30",
+              "end": "17:30",
+              "start_minutes": 810,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "1:30pm - 5:30pm"
+            },
+            {
+              "start": "18:30",
+              "end": "20:30",
+              "start_minutes": 1110,
+              "end_minutes": 1230,
+              "overnight": false,
+              "display": "6:30pm - 8:30pm"
+            }
+          ],
           "notes": [
             "Closed"
           ],
-          "is_closed": true
-        }
-      ],
-      "general_notes": []
-    }
-  },
-  {
-    "location": "Pasir Ris",
-    "clinic_name": "Fullerton Health 7 Hub @ Pasir Ris",
-    "doctors": [
-      "Dr Maria Bernadette S Thomas"
-    ],
-    "address": "Pasir Ris Central, #02-44, Pasir Ris Mall, Singapore 519612",
-    "contacts": [
-      "60118090"
-    ],
-    "contact_primary": "60118090",
-    "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fullerton+Health+7+Hub+%40+Pasir+Ris%2C+Pasir+Ris+Central%2C+%2302-44%2C+Pasir+Ris+Mall%2C+Singapore+519612",
-    "operating_hours_text": [
-      "Mon - Sun: 8:30am - 12:30pm 1:30pm - 5:30pm 6:30pm - 8:30pm",
-      "PH: 8:30am - 12:30pm 1:30pm - 5:30pm 6:30pm - 8:30pm"
-    ],
-    "schedule": {
-      "days": [
-        {
-          "day": "Mon",
-          "time_blocks": [
-            {
-              "start": "08:30",
-              "end": "12:30",
-              "start_minutes": 510,
-              "end_minutes": 750,
-              "overnight": false,
-              "display": "8:30am - 12:30pm"
-            },
-            {
-              "start": "13:30",
-              "end": "17:30",
-              "start_minutes": 810,
-              "end_minutes": 1050,
-              "overnight": false,
-              "display": "1:30pm - 5:30pm"
-            },
-            {
-              "start": "18:30",
-              "end": "20:30",
-              "start_minutes": 1110,
-              "end_minutes": 1230,
-              "overnight": false,
-              "display": "6:30pm - 8:30pm"
-            }
-          ],
-          "notes": [],
-          "is_closed": false
-        },
-        {
-          "day": "Tues",
-          "time_blocks": [
-            {
-              "start": "08:30",
-              "end": "12:30",
-              "start_minutes": 510,
-              "end_minutes": 750,
-              "overnight": false,
-              "display": "8:30am - 12:30pm"
-            },
-            {
-              "start": "13:30",
-              "end": "17:30",
-              "start_minutes": 810,
-              "end_minutes": 1050,
-              "overnight": false,
-              "display": "1:30pm - 5:30pm"
-            },
-            {
-              "start": "18:30",
-              "end": "20:30",
-              "start_minutes": 1110,
-              "end_minutes": 1230,
-              "overnight": false,
-              "display": "6:30pm - 8:30pm"
-            }
-          ],
-          "notes": [],
-          "is_closed": false
-        },
-        {
-          "day": "Wed",
-          "time_blocks": [
-            {
-              "start": "08:30",
-              "end": "12:30",
-              "start_minutes": 510,
-              "end_minutes": 750,
-              "overnight": false,
-              "display": "8:30am - 12:30pm"
-            },
-            {
-              "start": "13:30",
-              "end": "17:30",
-              "start_minutes": 810,
-              "end_minutes": 1050,
-              "overnight": false,
-              "display": "1:30pm - 5:30pm"
-            },
-            {
-              "start": "18:30",
-              "end": "20:30",
-              "start_minutes": 1110,
-              "end_minutes": 1230,
-              "overnight": false,
-              "display": "6:30pm - 8:30pm"
-            }
-          ],
-          "notes": [],
-          "is_closed": false
-        },
-        {
-          "day": "Thurs",
-          "time_blocks": [
-            {
-              "start": "08:30",
-              "end": "12:30",
-              "start_minutes": 510,
-              "end_minutes": 750,
-              "overnight": false,
-              "display": "8:30am - 12:30pm"
-            },
-            {
-              "start": "13:30",
-              "end": "17:30",
-              "start_minutes": 810,
-              "end_minutes": 1050,
-              "overnight": false,
-              "display": "1:30pm - 5:30pm"
-            },
-            {
-              "start": "18:30",
-              "end": "20:30",
-              "start_minutes": 1110,
-              "end_minutes": 1230,
-              "overnight": false,
-              "display": "6:30pm - 8:30pm"
-            }
-          ],
-          "notes": [],
-          "is_closed": false
-        },
-        {
-          "day": "Fri",
-          "time_blocks": [
-            {
-              "start": "08:30",
-              "end": "12:30",
-              "start_minutes": 510,
-              "end_minutes": 750,
-              "overnight": false,
-              "display": "8:30am - 12:30pm"
-            },
-            {
-              "start": "13:30",
-              "end": "17:30",
-              "start_minutes": 810,
-              "end_minutes": 1050,
-              "overnight": false,
-              "display": "1:30pm - 5:30pm"
-            },
-            {
-              "start": "18:30",
-              "end": "20:30",
-              "start_minutes": 1110,
-              "end_minutes": 1230,
-              "overnight": false,
-              "display": "6:30pm - 8:30pm"
-            }
-          ],
-          "notes": [],
-          "is_closed": false
-        },
-        {
-          "day": "Sat",
-          "time_blocks": [
-            {
-              "start": "08:30",
-              "end": "12:30",
-              "start_minutes": 510,
-              "end_minutes": 750,
-              "overnight": false,
-              "display": "8:30am - 12:30pm"
-            },
-            {
-              "start": "13:30",
-              "end": "17:30",
-              "start_minutes": 810,
-              "end_minutes": 1050,
-              "overnight": false,
-              "display": "1:30pm - 5:30pm"
-            },
-            {
-              "start": "18:30",
-              "end": "20:30",
-              "start_minutes": 1110,
-              "end_minutes": 1230,
-              "overnight": false,
-              "display": "6:30pm - 8:30pm"
-            }
-          ],
-          "notes": [],
-          "is_closed": false
-        },
-        {
-          "day": "Sun",
-          "time_blocks": [
-            {
-              "start": "08:30",
-              "end": "12:30",
-              "start_minutes": 510,
-              "end_minutes": 750,
-              "overnight": false,
-              "display": "8:30am - 12:30pm"
-            },
-            {
-              "start": "13:30",
-              "end": "17:30",
-              "start_minutes": 810,
-              "end_minutes": 1050,
-              "overnight": false,
-              "display": "1:30pm - 5:30pm"
-            },
-            {
-              "start": "18:30",
-              "end": "20:30",
-              "start_minutes": 1110,
-              "end_minutes": 1230,
-              "overnight": false,
-              "display": "6:30pm - 8:30pm"
-            }
-          ],
-          "notes": [],
-          "is_closed": false
-        },
-        {
-          "day": "PH",
-          "time_blocks": [
-            {
-              "start": "08:30",
-              "end": "12:30",
-              "start_minutes": 510,
-              "end_minutes": 750,
-              "overnight": false,
-              "display": "8:30am - 12:30pm"
-            },
-            {
-              "start": "13:30",
-              "end": "17:30",
-              "start_minutes": 810,
-              "end_minutes": 1050,
-              "overnight": false,
-              "display": "1:30pm - 5:30pm"
-            },
-            {
-              "start": "18:30",
-              "end": "20:30",
-              "start_minutes": 1110,
-              "end_minutes": 1230,
-              "overnight": false,
-              "display": "6:30pm - 8:30pm"
-            }
-          ],
-          "notes": [],
           "is_closed": false
         }
       ],
@@ -59773,7 +60417,8 @@
     "location": "Punggol",
     "clinic_name": "Virtue Family Clinic",
     "doctors": [
-      "Dr Keith Yong"
+      "Dr Keith Yong Noorul Naseema",
+      "Dr Noor Mohamed"
     ],
     "address": "168 Punggol Field, #02-08A, Punggol Plaza, Singapore 820168",
     "contacts": [
@@ -61508,8 +62153,8 @@
     "contact_notes": [],
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pinnacle+Medical+Centre+%28Raffles+Place%29%2C+22+Malacca+Street%2C+%2313-03+RB%2C+Capital+Building%2C+Singapore+048980",
     "operating_hours_text": [
-      "Mon - Fri: 8:30am - 1:00pm 2:00pm - 6:00pm",
-      "Closed on Sat, Sun & PH (WhatsApp Only)"
+      "Mon - Fri: 8:30am - 1:00pm 2:00pm - 6:00pm (WhatsApp",
+      "Closed on Sat, Sun & PH Only)"
     ],
     "schedule": {
       "days": [
@@ -61533,7 +62178,9 @@
               "display": "2:00pm - 6:00pm"
             }
           ],
-          "notes": [],
+          "notes": [
+            "(WhatsApp"
+          ],
           "is_closed": false
         },
         {
@@ -61556,7 +62203,9 @@
               "display": "2:00pm - 6:00pm"
             }
           ],
-          "notes": [],
+          "notes": [
+            "(WhatsApp"
+          ],
           "is_closed": false
         },
         {
@@ -61579,7 +62228,9 @@
               "display": "2:00pm - 6:00pm"
             }
           ],
-          "notes": [],
+          "notes": [
+            "(WhatsApp"
+          ],
           "is_closed": false
         },
         {
@@ -61602,7 +62253,9 @@
               "display": "2:00pm - 6:00pm"
             }
           ],
-          "notes": [],
+          "notes": [
+            "(WhatsApp"
+          ],
           "is_closed": false
         },
         {
@@ -61625,7 +62278,9 @@
               "display": "2:00pm - 6:00pm"
             }
           ],
-          "notes": [],
+          "notes": [
+            "(WhatsApp"
+          ],
           "is_closed": false
         },
         {
@@ -67087,24 +67742,19 @@
   },
   {
     "location": "Sengkang",
-    "clinic_name": "Pinnacle Family Clinic (Sengkang)",
+    "clinic_name": "Pinnacle Family",
     "doctors": [
-      "Dr Yeam Cheng Teng",
-      "Dr Soon Wei Wen"
+      "Dr Yeam Cheng Teng"
     ],
-    "address": "170A Sengkang East, Drive, #01-06, Singapore 541170",
+    "address": "170A Sengkang East",
     "contacts": [
-      "69700587",
-      "97862189"
+      "69700587"
     ],
     "contact_primary": "69700587",
     "contact_notes": [],
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pinnacle+Family+Clinic+%28Sengkang%29%2C+170A+Sengkang+East%2C+Drive%2C+%2301-06%2C+Singapore+541170",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Pinnacle+Family%2C+170A+Sengkang+East",
     "operating_hours_text": [
-      "Mon: 8:00am - 1:00pm 2:00pm - 5:00pm 6:00pm - 9:00pm (WhatsApp Tues - Thurs: 8:00am - 1:00pm Only) 2:00pm - 4:30pm 6:00pm - 9:00pm",
-      "Fri: 8:00am - 1:00pm 2:00pm - 4:30pm",
-      "Sat & Sun: 9:00am - 1:00pm",
-      "Closed on PH"
+      "Mon: 8:00am - 1:00pm"
     ],
     "schedule": {
       "days": [
@@ -67118,23 +67768,40 @@
               "end_minutes": 780,
               "overnight": false,
               "display": "8:00am - 1:00pm"
-            },
-            {
-              "start": "14:00",
-              "end": "17:00",
-              "start_minutes": 840,
-              "end_minutes": 1020,
-              "overnight": false,
-              "display": "2:00pm - 5:00pm"
-            },
-            {
-              "start": "18:00",
-              "end": "21:00",
-              "start_minutes": 1080,
-              "end_minutes": 1260,
-              "overnight": false,
-              "display": "6:00pm - 9:00pm"
-            },
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        }
+      ],
+      "general_notes": []
+    }
+  },
+  {
+    "location": "Sengkang",
+    "clinic_name": "Clinic (Sengkang)",
+    "doctors": [
+      "Dr Soon Wei Wen"
+    ],
+    "address": "Drive, #01-06, Singapore 541170",
+    "contacts": [
+      "97862189"
+    ],
+    "contact_primary": "97862189",
+    "contact_notes": [],
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Clinic+%28Sengkang%29%2C+Drive%2C+%2301-06%2C+Singapore+541170",
+    "operating_hours_text": [
+      "2:00pm - 5:00pm (WhatsApp 6:00pm - 9:00pm Only)",
+      "Tues - Thurs: 8:00am - 1:00pm 2:00pm - 4:30pm 6:00pm - 9:00pm",
+      "Fri: 8:00am - 1:00pm 2:00pm - 4:30pm",
+      "Sat & Sun: 9:00am - 1:00pm",
+      "Closed on PH"
+    ],
+    "schedule": {
+      "days": [
+        {
+          "day": "Tues",
+          "time_blocks": [
             {
               "start": "08:00",
               "end": "13:00",
@@ -67160,9 +67827,69 @@
               "display": "6:00pm - 9:00pm"
             }
           ],
-          "notes": [
-            "(WhatsApp Tues - Thurs: Only)"
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Wed",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "16:30",
+              "start_minutes": 840,
+              "end_minutes": 990,
+              "overnight": false,
+              "display": "2:00pm - 4:30pm"
+            },
+            {
+              "start": "18:00",
+              "end": "21:00",
+              "start_minutes": 1080,
+              "end_minutes": 1260,
+              "overnight": false,
+              "display": "6:00pm - 9:00pm"
+            }
           ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Thurs",
+          "time_blocks": [
+            {
+              "start": "08:00",
+              "end": "13:00",
+              "start_minutes": 480,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:00am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "16:30",
+              "start_minutes": 840,
+              "end_minutes": 990,
+              "overnight": false,
+              "display": "2:00pm - 4:30pm"
+            },
+            {
+              "start": "18:00",
+              "end": "21:00",
+              "start_minutes": 1080,
+              "end_minutes": 1260,
+              "overnight": false,
+              "display": "6:00pm - 9:00pm"
+            }
+          ],
+          "notes": [],
           "is_closed": false
         },
         {
@@ -67227,7 +67954,9 @@
           "is_closed": true
         }
       ],
-      "general_notes": []
+      "general_notes": [
+        "2:00pm - 5:00pm (WhatsApp 6:00pm - 9:00pm Only)"
+      ]
     }
   },
   {
@@ -67497,6 +68226,176 @@
         "Sun):",
         "PH (Mon - Fri & 9:00am - 3:00pm"
       ]
+    }
+  },
+  {
+    "location": "Sengkang",
+    "clinic_name": "Raffles Medical (Rivervale Mall)",
+    "doctors": [
+      "Dr Kang Aik Kiang"
+    ],
+    "address": "11 Rivervale Crescent, #02-17, Rivervale Mall, Singapore 545082",
+    "contacts": [
+      "62852154"
+    ],
+    "contact_primary": "62852154",
+    "contact_notes": [],
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Raffles+Medical+%28Rivervale+Mall%29%2C+11+Rivervale+Crescent%2C+%2302-17%2C+Rivervale+Mall%2C+Singapore+545082",
+    "operating_hours_text": [
+      "Mon - Fri: 8:30am - 1:00pm 2:00pm - 5:30pm",
+      "Sat: 8:30am - 1:00pm",
+      "Closed on Sun & PH"
+    ],
+    "schedule": {
+      "days": [
+        {
+          "day": "Mon",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "13:00",
+              "start_minutes": 510,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:30am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:30",
+              "start_minutes": 840,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "2:00pm - 5:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Tues",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "13:00",
+              "start_minutes": 510,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:30am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:30",
+              "start_minutes": 840,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "2:00pm - 5:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Wed",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "13:00",
+              "start_minutes": 510,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:30am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:30",
+              "start_minutes": 840,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "2:00pm - 5:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Thurs",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "13:00",
+              "start_minutes": 510,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:30am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:30",
+              "start_minutes": 840,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "2:00pm - 5:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Fri",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "13:00",
+              "start_minutes": 510,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:30am - 1:00pm"
+            },
+            {
+              "start": "14:00",
+              "end": "17:30",
+              "start_minutes": 840,
+              "end_minutes": 1050,
+              "overnight": false,
+              "display": "2:00pm - 5:30pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Sat",
+          "time_blocks": [
+            {
+              "start": "08:30",
+              "end": "13:00",
+              "start_minutes": 510,
+              "end_minutes": 780,
+              "overnight": false,
+              "display": "8:30am - 1:00pm"
+            }
+          ],
+          "notes": [],
+          "is_closed": false
+        },
+        {
+          "day": "Sun",
+          "time_blocks": [],
+          "notes": [
+            "Closed"
+          ],
+          "is_closed": true
+        },
+        {
+          "day": "PH",
+          "time_blocks": [],
+          "notes": [
+            "Closed"
+          ],
+          "is_closed": true
+        }
+      ],
+      "general_notes": []
     }
   },
   {
@@ -72513,8 +73412,8 @@
     "clinic_name": "Woodleigh Care Family Clinic",
     "doctors": [
       "Dr Chia Yong Qiang Nicholas",
-      "Dr Chia Hong Chye Vincent",
-      "Dr Amanda Toh Wen Xin",
+      "Dr Chia Hong Chye Vincent Xin",
+      "Dr Amanda Toh Wen",
       "Dr Kwok Xin Hao"
     ],
     "address": "11 Bidadari Park Drive, #02-13, The Woodleigh Mall, Singapore 367803",
@@ -75689,7 +76588,8 @@
     "doctors": [
       "Dr Seng Yi Feng Melvin",
       "Dr Wei Enli Wycliffe",
-      "Dr Lee Kah Jin"
+      "Dr Lee Kah Jin",
+      "Dr Scully Marcel Leon"
     ],
     "address": "462 Tampines, Street 44, #01-74, Singapore 520462",
     "contacts": [
@@ -76689,7 +77589,8 @@
     "location": "Tampines",
     "clinic_name": "Intemedical Tampines",
     "doctors": [
-      "Dr Arjunan Muthu Kumaran"
+      "Dr Arjunan Muthu Kumaran Shou",
+      "Dr Louis Tee Yun"
     ],
     "address": "201E Tampines, Street 23, #01-96, Singapore 527201",
     "contacts": [
@@ -84670,8 +85571,8 @@
     "location": "Woodlands",
     "clinic_name": "Medical Woodlands",
     "doctors": [
-      "Dr Seow En Hao EH Jiemin",
-      "Dr Chester Chua"
+      "Dr Seow En Hao EH",
+      "Dr Chester Chua Jiemin"
     ],
     "address": "785E Woodlands Rise, #01-12, Singapore 735785",
     "contacts": [
