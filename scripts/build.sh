@@ -14,6 +14,8 @@ cp "$ROOT/data/clinics.json" "$DIST/data/clinics.json"
 [[ -f "$ROOT/data/clinics.csv" ]] && cp "$ROOT/data/clinics.csv" "$DIST/data/clinics.csv"
 [[ -f "$ROOT/llms.txt" ]] && cp "$ROOT/llms.txt" "$DIST/llms.txt"
 [[ -f "$ROOT/llms-full.txt" ]] && cp "$ROOT/llms-full.txt" "$DIST/llms-full.txt"
+# ARD manifest (served at /ard.json, advertised by <link rel="ard"> and /.well-known/ard.json).
+[[ -f "$ROOT/ard.json" ]] && cp "$ROOT/ard.json" "$DIST/ard.json" && mkdir -p "$DIST/.well-known" && cp "$ROOT/ard.json" "$DIST/.well-known/ard.json"
 mkdir -p "$DIST/api"
 cp "$ROOT/api/openapi.json" "$DIST/api/openapi.json"
 # Pages Functions live at the repo root in functions/ — Pages compiles them
