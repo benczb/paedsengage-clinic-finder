@@ -1,0 +1,43 @@
+{
+  "entries": [
+    {
+      "identifier": "urn:air:childandkid.com:api:clinic-search",
+      "displayName": "PaedsENGAGE Clinic Finder API",
+      "type": "application/vnd.oai.openapi+json",
+      "url": "https://childandkid.com/api/openapi.json",
+      "description": "Free, no-key, CORS-open API to search the 556 participating PaedsENGAGE paediatric GP clinics in Singapore by area, name, doctor and opening hours.",
+      "representativeQueries": [
+        "Which PaedsENGAGE clinics in Tampines are open on Sunday morning?",
+        "Find a participating paediatric GP clinic open now in Singapore",
+        "List areas with PaedsENGAGE clinics"
+      ],
+      "capabilities": [
+        "ClinicSearch",
+        "OpeningHours"
+      ],
+      "tags": [
+        "paediatrics",
+        "singapore",
+        "clinics",
+        "healthcare"
+      ],
+      "version": "1.0.0"
+    },
+    {
+      "identifier": "urn:air:childandkid.com:data:clinics-dataset",
+      "displayName": "PaedsENGAGE clinics dataset (JSON)",
+      "type": "application/json",
+      "url": "https://childandkid.com/data/clinics.json",
+      "description": "Full dataset of participating PaedsENGAGE clinics with coordinates and schema.org opening hours. Source: KKH Participating PaedsENGAGE Clinics PDF.",
+      "representativeQueries": [
+        "Download the full list of PaedsENGAGE clinics with coordinates",
+        "Get PaedsENGAGE clinic opening hours as JSON"
+      ],
+      "tags": [
+        "dataset",
+        "clinics",
+        "singapore"
+      ]
+    }
+  ]
+}
