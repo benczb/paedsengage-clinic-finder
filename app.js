@@ -208,7 +208,7 @@ function renderPagination(totalPages) {
     const page = pageWindowStart + index;
     const resultStart = (page - 1) * RESULTS_PER_PAGE + 1;
     const resultEnd = Math.min(page * RESULTS_PER_PAGE, state.filtered.length);
-    return `<button type="button" class="page-button ${page === state.currentPage ? "active" : ""}" data-page="${page}" aria-label="Show results ${resultStart} to ${resultEnd}">${page}</button>`;
+    return `<button type="button" class="page-button ${page === state.currentPage ? "active" : ""}" data-page="${page}" aria-label="${page}, show results ${resultStart} to ${resultEnd}">${page}</button>`;
   }).join("");
 
   els.resultsPagination.innerHTML = `
