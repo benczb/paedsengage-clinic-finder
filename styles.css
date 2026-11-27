@@ -305,7 +305,7 @@ button {
   font-size: 12px;
   font-weight: 800;
 }
-.tag.open { background: #e9f9ef; color: #16823e; }
+.tag.open { background: #e9f9ef; color: #127a37; }
 .tag.closed { background: #fff0f0; color: #c03434; }
 .hours-list { display: grid; gap: 8px; margin-top: 12px; }
 .hours-row {
